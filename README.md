@@ -1,0 +1,1 @@
+This is a Vibe-coded ML model with Pytorch that preditcts the outcome of a race. I use it to win the Sporza Wielermanager
