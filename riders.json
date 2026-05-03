@@ -1,0 +1,8294 @@
+[
+  {
+    "name": "Simone Velasco",
+    "dob": "2nd December 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 166,
+    "specialties": {
+      "onedayraces": 2127,
+      "gc": 553,
+      "tt": 55,
+      "sprint": 202,
+      "climber": 1096,
+      "hills": 1668
+    },
+    "profile_url": "https://procyclingstats.com/rider/simone-velasco"
+  },
+  {
+    "name": "Ion Izagirre",
+    "dob": "4th February 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 44,
+    "specialties": {
+      "onedayraces": 2539,
+      "gc": 5711,
+      "tt": 3035,
+      "sprint": 154,
+      "climber": 5096,
+      "hills": 2476
+    },
+    "profile_url": "https://procyclingstats.com/rider/ion-izagirre"
+  },
+  {
+    "name": "Louis Barr\u00e9",
+    "dob": "6th April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 362,
+    "specialties": {
+      "onedayraces": 647,
+      "gc": 308,
+      "tt": 0,
+      "sprint": 4,
+      "climber": 296,
+      "hills": 473
+    },
+    "profile_url": "https://procyclingstats.com/rider/louis-barre"
+  },
+  {
+    "name": "Em\u012bls Liepi\u0146\u0161",
+    "dob": "29th October 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 604,
+    "specialties": {
+      "onedayraces": 824,
+      "gc": 286,
+      "tt": 268,
+      "sprint": 1195,
+      "climber": 12,
+      "hills": 195
+    },
+    "profile_url": "https://procyclingstats.com/rider/emils-liepins"
+  },
+  {
+    "name": "S\u00f8ren W\u00e6renskjold",
+    "dob": "12th March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 92.0,
+    "height_m": 1.95,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 59,
+    "specialties": {
+      "onedayraces": 1089,
+      "gc": 780,
+      "tt": 998,
+      "sprint": 898,
+      "climber": 42,
+      "hills": 412
+    },
+    "profile_url": "https://procyclingstats.com/rider/soren-waerenskjold"
+  },
+  {
+    "name": "Thibau Nys",
+    "dob": "12th November 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 563,
+    "specialties": {
+      "onedayraces": 670,
+      "gc": 339,
+      "tt": 76,
+      "sprint": 196,
+      "climber": 604,
+      "hills": 736
+    },
+    "profile_url": "https://procyclingstats.com/rider/thibau-nys"
+  },
+  {
+    "name": "Laurenz Rex",
+    "dob": "15th December 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 83.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 222,
+    "specialties": {
+      "onedayraces": 966,
+      "gc": 100,
+      "tt": 2,
+      "sprint": 504,
+      "climber": 16,
+      "hills": 269
+    },
+    "profile_url": "https://procyclingstats.com/rider/laurenz-rex"
+  },
+  {
+    "name": "Andrea Pasqualon",
+    "dob": "2nd January 1988",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1363,
+    "specialties": {
+      "onedayraces": 2809,
+      "gc": 702,
+      "tt": 73,
+      "sprint": 1394,
+      "climber": 377,
+      "hills": 1638
+    },
+    "profile_url": "https://procyclingstats.com/rider/andrea-pasqualon"
+  },
+  {
+    "name": "Attila Valter",
+    "dob": "12th June 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 500,
+    "specialties": {
+      "onedayraces": 795,
+      "gc": 1174,
+      "tt": 312,
+      "sprint": 30,
+      "climber": 1221,
+      "hills": 584
+    },
+    "profile_url": "https://procyclingstats.com/rider/attila-valter"
+  },
+  {
+    "name": "Tiesj Benoot",
+    "dob": "11th March 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 284,
+    "specialties": {
+      "onedayraces": 5450,
+      "gc": 1942,
+      "tt": 85,
+      "sprint": 487,
+      "climber": 2894,
+      "hills": 3072
+    },
+    "profile_url": "https://procyclingstats.com/rider/tiesj-benoot"
+  },
+  {
+    "name": "Antonio Tiberi",
+    "dob": "24th June 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 43,
+    "specialties": {
+      "onedayraces": 273,
+      "gc": 1677,
+      "tt": 973,
+      "sprint": 2,
+      "climber": 1477,
+      "hills": 952
+    },
+    "profile_url": "https://procyclingstats.com/rider/antonio-tiberi"
+  },
+  {
+    "name": "Damiano Caruso",
+    "dob": "12th October 1987",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 157,
+    "specialties": {
+      "onedayraces": 855,
+      "gc": 4830,
+      "tt": 1324,
+      "sprint": 520,
+      "climber": 4666,
+      "hills": 1779
+    },
+    "profile_url": "https://procyclingstats.com/rider/damiano-caruso"
+  },
+  {
+    "name": "Jay Vine",
+    "dob": "16th November 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 19,
+    "specialties": {
+      "onedayraces": 174,
+      "gc": 1283,
+      "tt": 1722,
+      "sprint": 9,
+      "climber": 1370,
+      "hills": 548
+    },
+    "profile_url": "https://procyclingstats.com/rider/jay-vine"
+  },
+  {
+    "name": "Matthew Riccitello",
+    "dob": "5th March 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 45,
+    "specialties": {
+      "onedayraces": 163,
+      "gc": 1145,
+      "tt": 169,
+      "sprint": 8,
+      "climber": 1178,
+      "hills": 152
+    },
+    "profile_url": "https://procyclingstats.com/rider/matthew-riccitello"
+  },
+  {
+    "name": "Gregor M\u00fchlberger",
+    "dob": "4th April 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 282,
+    "specialties": {
+      "onedayraces": 858,
+      "gc": 1012,
+      "tt": 214,
+      "sprint": 74,
+      "climber": 1086,
+      "hills": 490
+    },
+    "profile_url": "https://procyclingstats.com/rider/gregor-muhlberger"
+  },
+  {
+    "name": "Frank Van Den Broek",
+    "dob": "28th December 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 229,
+    "specialties": {
+      "onedayraces": 182,
+      "gc": 468,
+      "tt": 74,
+      "sprint": 26,
+      "climber": 401,
+      "hills": 338
+    },
+    "profile_url": "https://procyclingstats.com/rider/frank-van-den-broek"
+  },
+  {
+    "name": "Paul Penho\u00ebt",
+    "dob": "28th December 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 129,
+    "specialties": {
+      "onedayraces": 972,
+      "gc": 302,
+      "tt": 6,
+      "sprint": 986,
+      "climber": 34,
+      "hills": 731
+    },
+    "profile_url": "https://procyclingstats.com/rider/paul-penhoet"
+  },
+  {
+    "name": "Enzo Paleni",
+    "dob": "30th May 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 633,
+    "specialties": {
+      "onedayraces": 47,
+      "gc": 173,
+      "tt": 163,
+      "sprint": 36,
+      "climber": 46,
+      "hills": 104
+    },
+    "profile_url": "https://procyclingstats.com/rider/enzo-paleni"
+  },
+  {
+    "name": "Nico Denz",
+    "dob": "15th February 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 276,
+    "specialties": {
+      "onedayraces": 487,
+      "gc": 418,
+      "tt": 329,
+      "sprint": 195,
+      "climber": 324,
+      "hills": 684
+    },
+    "profile_url": "https://procyclingstats.com/rider/nico-denz"
+  },
+  {
+    "name": "Vincenzo Albanese",
+    "dob": "12th November 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 289,
+    "specialties": {
+      "onedayraces": 1443,
+      "gc": 461,
+      "tt": 28,
+      "sprint": 334,
+      "climber": 581,
+      "hills": 1584
+    },
+    "profile_url": "https://procyclingstats.com/rider/vincenzo-albanese"
+  },
+  {
+    "name": "Axel Zingle",
+    "dob": "18th December 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 374,
+    "specialties": {
+      "onedayraces": 1760,
+      "gc": 605,
+      "tt": 262,
+      "sprint": 548,
+      "climber": 262,
+      "hills": 1088
+    },
+    "profile_url": "https://procyclingstats.com/rider/axel-zingle"
+  },
+  {
+    "name": "Hugo Page",
+    "dob": "24th July 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 285,
+    "specialties": {
+      "onedayraces": 725,
+      "gc": 192,
+      "tt": 77,
+      "sprint": 303,
+      "climber": 53,
+      "hills": 666
+    },
+    "profile_url": "https://procyclingstats.com/rider/hugo-page"
+  },
+  {
+    "name": "Rudy Molard",
+    "dob": "17th September 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 375,
+    "specialties": {
+      "onedayraces": 1529,
+      "gc": 1766,
+      "tt": 161,
+      "sprint": 388,
+      "climber": 1789,
+      "hills": 1162
+    },
+    "profile_url": "https://procyclingstats.com/rider/rudy-molard"
+  },
+  {
+    "name": "Cl\u00e9ment Berthet",
+    "dob": "2nd August 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 438,
+    "specialties": {
+      "onedayraces": 646,
+      "gc": 703,
+      "tt": 66,
+      "sprint": 2,
+      "climber": 768,
+      "hills": 372
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-berthet"
+  },
+  {
+    "name": "Luke Plapp",
+    "dob": "25th December 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 68,
+    "specialties": {
+      "onedayraces": 255,
+      "gc": 880,
+      "tt": 897,
+      "sprint": 23,
+      "climber": 810,
+      "hills": 454
+    },
+    "profile_url": "https://procyclingstats.com/rider/luke-plapp"
+  },
+  {
+    "name": "Mads Pedersen",
+    "dob": "18th December 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 9,
+    "specialties": {
+      "onedayraces": 5070,
+      "gc": 1697,
+      "tt": 1915,
+      "sprint": 2954,
+      "climber": 473,
+      "hills": 3770
+    },
+    "profile_url": "https://procyclingstats.com/rider/mads-pedersen"
+  },
+  {
+    "name": "Jasha S\u00fctterlin",
+    "dob": "4th November 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 588,
+    "specialties": {
+      "onedayraces": 380,
+      "gc": 750,
+      "tt": 1138,
+      "sprint": 119,
+      "climber": 96,
+      "hills": 434
+    },
+    "profile_url": "https://procyclingstats.com/rider/jasha-sutterlin"
+  },
+  {
+    "name": "Michel Hessmann",
+    "dob": "6th April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.91,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 712,
+    "specialties": {
+      "onedayraces": 32,
+      "gc": 115,
+      "tt": 53,
+      "sprint": 14,
+      "climber": 58,
+      "hills": 149
+    },
+    "profile_url": "https://procyclingstats.com/rider/michel-hessmann"
+  },
+  {
+    "name": "Niklas M\u00e4rkl",
+    "dob": "3rd March 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 625,
+    "specialties": {
+      "onedayraces": 204,
+      "gc": 146,
+      "tt": 45,
+      "sprint": 228,
+      "climber": 26,
+      "hills": 170
+    },
+    "profile_url": "https://procyclingstats.com/rider/niklas-markl"
+  },
+  {
+    "name": "Wilco Kelderman",
+    "dob": "25th March 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 389,
+    "specialties": {
+      "onedayraces": 754,
+      "gc": 6134,
+      "tt": 2717,
+      "sprint": 121,
+      "climber": 5314,
+      "hills": 2562
+    },
+    "profile_url": "https://procyclingstats.com/rider/wilco-kelderman"
+  },
+  {
+    "name": "Carlos Canal",
+    "dob": "28th June 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 135,
+    "specialties": {
+      "onedayraces": 587,
+      "gc": 415,
+      "tt": 115,
+      "sprint": 158,
+      "climber": 214,
+      "hills": 640
+    },
+    "profile_url": "https://procyclingstats.com/rider/carlos-canal"
+  },
+  {
+    "name": "Alex Edmondson",
+    "dob": "22nd December 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 848,
+    "specialties": {
+      "onedayraces": 197,
+      "gc": 326,
+      "tt": 577,
+      "sprint": 119,
+      "climber": 0,
+      "hills": 337
+    },
+    "profile_url": "https://procyclingstats.com/rider/alexander-edmondson"
+  },
+  {
+    "name": "Bram Welten",
+    "dob": "29th March 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 81.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 1057,
+      "gc": 45,
+      "tt": 0,
+      "sprint": 832,
+      "climber": 0,
+      "hills": 118
+    },
+    "profile_url": "https://procyclingstats.com/rider/bram-welten"
+  },
+  {
+    "name": "Daniel Felipe Mart\u00ednez",
+    "dob": "25th April 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 169,
+    "specialties": {
+      "onedayraces": 875,
+      "gc": 3085,
+      "tt": 1305,
+      "sprint": 34,
+      "climber": 2612,
+      "hills": 786
+    },
+    "profile_url": "https://procyclingstats.com/rider/daniel-felipe-martinez"
+  },
+  {
+    "name": "Xabier Mikel Azparren",
+    "dob": "25th February 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 687,
+    "specialties": {
+      "onedayraces": 44,
+      "gc": 165,
+      "tt": 401,
+      "sprint": 26,
+      "climber": 16,
+      "hills": 86
+    },
+    "profile_url": "https://procyclingstats.com/rider/xabier-mikel-azparren-irurzun"
+  },
+  {
+    "name": "Mikel Bizkarra",
+    "dob": "21st August 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 53.0,
+    "height_m": 1.65,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 849,
+    "specialties": {
+      "onedayraces": 199,
+      "gc": 1105,
+      "tt": 30,
+      "sprint": 13,
+      "climber": 972,
+      "hills": 176
+    },
+    "profile_url": "https://procyclingstats.com/rider/mikel-bizkarra"
+  },
+  {
+    "name": "Jonas Koch",
+    "dob": "25th June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1088,
+    "specialties": {
+      "onedayraces": 625,
+      "gc": 377,
+      "tt": 36,
+      "sprint": 264,
+      "climber": 116,
+      "hills": 664
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonas-koch"
+  },
+  {
+    "name": "Tim Wellens",
+    "dob": "10th May 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 101,
+    "specialties": {
+      "onedayraces": 4250,
+      "gc": 4538,
+      "tt": 1406,
+      "sprint": 215,
+      "climber": 2532,
+      "hills": 3134
+    },
+    "profile_url": "https://procyclingstats.com/rider/tim-wellens"
+  },
+  {
+    "name": "Michael Valgren",
+    "dob": "7th February 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 270,
+    "specialties": {
+      "onedayraces": 3062,
+      "gc": 1228,
+      "tt": 453,
+      "sprint": 350,
+      "climber": 1162,
+      "hills": 1976
+    },
+    "profile_url": "https://procyclingstats.com/rider/michael-valgren-andersen"
+  },
+  {
+    "name": "Jordan Jegat",
+    "dob": "7th June 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 90,
+    "specialties": {
+      "onedayraces": 551,
+      "gc": 654,
+      "tt": 17,
+      "sprint": 3,
+      "climber": 805,
+      "hills": 544
+    },
+    "profile_url": "https://procyclingstats.com/rider/jordan-jegat"
+  },
+  {
+    "name": "Matej Mohori\u010d",
+    "dob": "19th October 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 183,
+    "specialties": {
+      "onedayraces": 3228,
+      "gc": 2366,
+      "tt": 352,
+      "sprint": 620,
+      "climber": 1644,
+      "hills": 3004
+    },
+    "profile_url": "https://procyclingstats.com/rider/matej-mohoric"
+  },
+  {
+    "name": "S\u00f8ren Kragh Andersen",
+    "dob": "10th August 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 254,
+    "specialties": {
+      "onedayraces": 1599,
+      "gc": 1523,
+      "tt": 1897,
+      "sprint": 714,
+      "climber": 464,
+      "hills": 1471
+    },
+    "profile_url": "https://procyclingstats.com/rider/soren-kragh-andersen"
+  },
+  {
+    "name": "Jaume Guarde\u00f1o",
+    "dob": "20th February 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 499,
+    "specialties": {
+      "onedayraces": 0,
+      "gc": 187,
+      "tt": 19,
+      "sprint": 0,
+      "climber": 126,
+      "hills": 53
+    },
+    "profile_url": "https://procyclingstats.com/rider/jaume-guardeno"
+  },
+  {
+    "name": "Nicolas Prodhomme",
+    "dob": "1st February 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 65,
+    "specialties": {
+      "onedayraces": 323,
+      "gc": 808,
+      "tt": 32,
+      "sprint": 15,
+      "climber": 774,
+      "hills": 321
+    },
+    "profile_url": "https://procyclingstats.com/rider/nicolas-prodhomme"
+  },
+  {
+    "name": "Daniel Cavia",
+    "dob": "2nd June 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.69,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 298,
+    "specialties": {
+      "onedayraces": 53,
+      "gc": 136,
+      "tt": 0,
+      "sprint": 128,
+      "climber": 18,
+      "hills": 148
+    },
+    "profile_url": "https://procyclingstats.com/rider/daniel-cavia-sanz"
+  },
+  {
+    "name": "James Shaw",
+    "dob": "13th June 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 519,
+    "specialties": {
+      "onedayraces": 151,
+      "gc": 648,
+      "tt": 121,
+      "sprint": 35,
+      "climber": 472,
+      "hills": 286
+    },
+    "profile_url": "https://procyclingstats.com/rider/james-shaw"
+  },
+  {
+    "name": "Sepp Kuss",
+    "dob": "13th September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 97,
+    "specialties": {
+      "onedayraces": 207,
+      "gc": 2942,
+      "tt": 331,
+      "sprint": 23,
+      "climber": 3690,
+      "hills": 608
+    },
+    "profile_url": "https://procyclingstats.com/rider/sepp-kuss"
+  },
+  {
+    "name": "Dries De Pooter",
+    "dob": "8th November 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 525,
+    "specialties": {
+      "onedayraces": 104,
+      "gc": 85,
+      "tt": 0,
+      "sprint": 86,
+      "climber": 30,
+      "hills": 151
+    },
+    "profile_url": "https://procyclingstats.com/rider/dries-de-pooter"
+  },
+  {
+    "name": "Wout Poels",
+    "dob": "1st October 1987",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 255,
+    "specialties": {
+      "onedayraces": 1090,
+      "gc": 5168,
+      "tt": 916,
+      "sprint": 78,
+      "climber": 5116,
+      "hills": 1776
+    },
+    "profile_url": "https://procyclingstats.com/rider/wout-poels"
+  },
+  {
+    "name": "Edward Theuns",
+    "dob": "30th April 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 587,
+    "specialties": {
+      "onedayraces": 2792,
+      "gc": 716,
+      "tt": 131,
+      "sprint": 2206,
+      "climber": 26,
+      "hills": 1007
+    },
+    "profile_url": "https://procyclingstats.com/rider/edward-theuns"
+  },
+  {
+    "name": "Isaac Del Toro",
+    "dob": "27th November 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 2,
+    "specialties": {
+      "onedayraces": 1783,
+      "gc": 1728,
+      "tt": 460,
+      "sprint": 1,
+      "climber": 1806,
+      "hills": 954
+    },
+    "profile_url": "https://procyclingstats.com/rider/isaac-del-toro"
+  },
+  {
+    "name": "Quinn Simmons",
+    "dob": "8th May 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 99,
+    "specialties": {
+      "onedayraces": 836,
+      "gc": 509,
+      "tt": 38,
+      "sprint": 87,
+      "climber": 704,
+      "hills": 780
+    },
+    "profile_url": "https://procyclingstats.com/rider/quinn-simmons"
+  },
+  {
+    "name": "Neilson Powless",
+    "dob": "3rd September 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 195,
+    "specialties": {
+      "onedayraces": 2820,
+      "gc": 1599,
+      "tt": 891,
+      "sprint": 241,
+      "climber": 1852,
+      "hills": 1168
+    },
+    "profile_url": "https://procyclingstats.com/rider/neilson-powless"
+  },
+  {
+    "name": "Kaden Groves",
+    "dob": "23rd December 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 116,
+    "specialties": {
+      "onedayraces": 531,
+      "gc": 291,
+      "tt": 359,
+      "sprint": 1575,
+      "climber": 225,
+      "hills": 2064
+    },
+    "profile_url": "https://procyclingstats.com/rider/kaden-groves"
+  },
+  {
+    "name": "Alec Segaert",
+    "dob": "16th January 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 79.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 145,
+    "specialties": {
+      "onedayraces": 528,
+      "gc": 431,
+      "tt": 708,
+      "sprint": 149,
+      "climber": 36,
+      "hills": 185
+    },
+    "profile_url": "https://procyclingstats.com/rider/alec-segaert"
+  },
+  {
+    "name": "Pier-andr\u00e9 C\u00f4t\u00e9",
+    "dob": "24th April 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 469,
+    "specialties": {
+      "onedayraces": 529,
+      "gc": 244,
+      "tt": 217,
+      "sprint": 234,
+      "climber": 62,
+      "hills": 273
+    },
+    "profile_url": "https://procyclingstats.com/rider/pier-andre-cote"
+  },
+  {
+    "name": "Jefferson Alveiro Cepeda",
+    "dob": "2nd March 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 387,
+    "specialties": {
+      "onedayraces": 453,
+      "gc": 683,
+      "tt": 243,
+      "sprint": 92,
+      "climber": 630,
+      "hills": 378
+    },
+    "profile_url": "https://procyclingstats.com/rider/jefferson-cepeda-hernandez"
+  },
+  {
+    "name": "Geraint Thomas",
+    "dob": "25th May 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1011,
+    "specialties": {
+      "onedayraces": 1277,
+      "gc": 6436,
+      "tt": 5463,
+      "sprint": 422,
+      "climber": 4434,
+      "hills": 2692
+    },
+    "profile_url": "https://procyclingstats.com/rider/geraint-thomas"
+  },
+  {
+    "name": "Gerben Thijssen",
+    "dob": "21st June 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 275,
+    "specialties": {
+      "onedayraces": 2017,
+      "gc": 71,
+      "tt": 21,
+      "sprint": 2338,
+      "climber": 2,
+      "hills": 94
+    },
+    "profile_url": "https://procyclingstats.com/rider/gerben-thijssen"
+  },
+  {
+    "name": "Mathias Vacek",
+    "dob": "12th June 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 147,
+    "specialties": {
+      "onedayraces": 603,
+      "gc": 544,
+      "tt": 793,
+      "sprint": 193,
+      "climber": 264,
+      "hills": 530
+    },
+    "profile_url": "https://procyclingstats.com/rider/mathias-vacek"
+  },
+  {
+    "name": "K\u00e9vin Vauquelin",
+    "dob": "26th April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 24,
+    "specialties": {
+      "onedayraces": 818,
+      "gc": 1837,
+      "tt": 1217,
+      "sprint": 91,
+      "climber": 1240,
+      "hills": 1155
+    },
+    "profile_url": "https://procyclingstats.com/rider/kevin-vauquelin"
+  },
+  {
+    "name": "Jenno Berckmoes",
+    "dob": "4th February 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 125,
+    "specialties": {
+      "onedayraces": 698,
+      "gc": 508,
+      "tt": 58,
+      "sprint": 169,
+      "climber": 140,
+      "hills": 582
+    },
+    "profile_url": "https://procyclingstats.com/rider/jenno-berckmoes"
+  },
+  {
+    "name": "Brent Van Moer",
+    "dob": "12th January 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 79.0,
+    "height_m": 1.91,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 452,
+    "specialties": {
+      "onedayraces": 615,
+      "gc": 513,
+      "tt": 279,
+      "sprint": 136,
+      "climber": 54,
+      "hills": 437
+    },
+    "profile_url": "https://procyclingstats.com/rider/brent-van-moer"
+  },
+  {
+    "name": "Jake Stewart",
+    "dob": "2nd October 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 318,
+    "specialties": {
+      "onedayraces": 529,
+      "gc": 472,
+      "tt": 28,
+      "sprint": 542,
+      "climber": 148,
+      "hills": 930
+    },
+    "profile_url": "https://procyclingstats.com/rider/jake-stewart"
+  },
+  {
+    "name": "Louis Meintjes",
+    "dob": "21st February 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 324,
+    "specialties": {
+      "onedayraces": 669,
+      "gc": 3367,
+      "tt": 375,
+      "sprint": 4,
+      "climber": 3344,
+      "hills": 486
+    },
+    "profile_url": "https://procyclingstats.com/rider/louis-meintjes"
+  },
+  {
+    "name": "Matteo Moschetti",
+    "dob": "14th August 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 242,
+    "specialties": {
+      "onedayraces": 1449,
+      "gc": 85,
+      "tt": 28,
+      "sprint": 1932,
+      "climber": 5,
+      "hills": 446
+    },
+    "profile_url": "https://procyclingstats.com/rider/matteo-moschetti"
+  },
+  {
+    "name": "Patrick Eddy",
+    "dob": "17th October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 79.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 466,
+    "specialties": {
+      "onedayraces": 117,
+      "gc": 60,
+      "tt": 69,
+      "sprint": 106,
+      "climber": 20,
+      "hills": 118
+    },
+    "profile_url": "https://procyclingstats.com/rider/patrick-eddy"
+  },
+  {
+    "name": "Victor Guernalec",
+    "dob": "16th March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 745,
+    "specialties": {
+      "onedayraces": 34,
+      "gc": 53,
+      "tt": 0,
+      "sprint": 0,
+      "climber": 42,
+      "hills": 50
+    },
+    "profile_url": "https://procyclingstats.com/rider/victor-guernalec"
+  },
+  {
+    "name": "Lewis Askey",
+    "dob": "4th May 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 122,
+    "specialties": {
+      "onedayraces": 895,
+      "gc": 234,
+      "tt": 11,
+      "sprint": 271,
+      "climber": 65,
+      "hills": 627
+    },
+    "profile_url": "https://procyclingstats.com/rider/lewis-askey"
+  },
+  {
+    "name": "Daniel Mclay",
+    "dob": "3rd January 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1403,
+    "specialties": {
+      "onedayraces": 1262,
+      "gc": 255,
+      "tt": 100,
+      "sprint": 1589,
+      "climber": 23,
+      "hills": 279
+    },
+    "profile_url": "https://procyclingstats.com/rider/daniel-mclay"
+  },
+  {
+    "name": "Pau Miquel",
+    "dob": "20th August 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 200,
+    "specialties": {
+      "onedayraces": 621,
+      "gc": 60,
+      "tt": 2,
+      "sprint": 52,
+      "climber": 158,
+      "hills": 710
+    },
+    "profile_url": "https://procyclingstats.com/rider/pau-miquel-delgado"
+  },
+  {
+    "name": "Mark Cavendish",
+    "dob": "21st May 1985",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 3067,
+      "gc": 1502,
+      "tt": 712,
+      "sprint": 11886,
+      "climber": 93,
+      "hills": 2065
+    },
+    "profile_url": "https://procyclingstats.com/rider/mark-cavendish"
+  },
+  {
+    "name": "Sandy Dujardin",
+    "dob": "29th May 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 124,
+    "specialties": {
+      "onedayraces": 1223,
+      "gc": 106,
+      "tt": 68,
+      "sprint": 324,
+      "climber": 114,
+      "hills": 558
+    },
+    "profile_url": "https://procyclingstats.com/rider/sandy-dujardin"
+  },
+  {
+    "name": "Cl\u00e9ment Braz Afonso",
+    "dob": "8th November 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 50.0,
+    "height_m": 1.63,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 228,
+    "specialties": {
+      "onedayraces": 262,
+      "gc": 199,
+      "tt": 45,
+      "sprint": 24,
+      "climber": 286,
+      "hills": 142
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-braz-afonso"
+  },
+  {
+    "name": "Sylvain Moniquet",
+    "dob": "14th January 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 337,
+    "specialties": {
+      "onedayraces": 336,
+      "gc": 699,
+      "tt": 68,
+      "sprint": 9,
+      "climber": 599,
+      "hills": 358
+    },
+    "profile_url": "https://procyclingstats.com/rider/sylvain-moniquet"
+  },
+  {
+    "name": "Louis Rouland",
+    "dob": "21st October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 372,
+    "specialties": {
+      "onedayraces": 59,
+      "gc": 154,
+      "tt": 0,
+      "sprint": 19,
+      "climber": 127,
+      "hills": 34
+    },
+    "profile_url": "https://procyclingstats.com/rider/louis-rouland"
+  },
+  {
+    "name": "Samuel Watson",
+    "dob": "24th September 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 95,
+    "specialties": {
+      "onedayraces": 472,
+      "gc": 486,
+      "tt": 581,
+      "sprint": 306,
+      "climber": 83,
+      "hills": 588
+    },
+    "profile_url": "https://procyclingstats.com/rider/samuel-watson"
+  },
+  {
+    "name": "Andreas Kron",
+    "dob": "1st June 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 217,
+    "specialties": {
+      "onedayraces": 940,
+      "gc": 574,
+      "tt": 9,
+      "sprint": 20,
+      "climber": 1084,
+      "hills": 1176
+    },
+    "profile_url": "https://procyclingstats.com/rider/andreas-kron"
+  },
+  {
+    "name": "Donavan Grondin",
+    "dob": "26th September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.0,
+    "height_m": 0.76,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 131,
+      "gc": 61,
+      "tt": 18,
+      "sprint": 87,
+      "climber": 6,
+      "hills": 62
+    },
+    "profile_url": "https://procyclingstats.com/rider/donavan-grondin"
+  },
+  {
+    "name": "Krists Neilands",
+    "dob": "18th August 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 479,
+    "specialties": {
+      "onedayraces": 842,
+      "gc": 762,
+      "tt": 275,
+      "sprint": 104,
+      "climber": 446,
+      "hills": 663
+    },
+    "profile_url": "https://procyclingstats.com/rider/krists-neilands"
+  },
+  {
+    "name": "Madis Mihkels",
+    "dob": "31st May 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 402,
+    "specialties": {
+      "onedayraces": 717,
+      "gc": 112,
+      "tt": 72,
+      "sprint": 522,
+      "climber": 14,
+      "hills": 472
+    },
+    "profile_url": "https://procyclingstats.com/rider/madis-mihkels"
+  },
+  {
+    "name": "Gotzon Mart\u00edn",
+    "dob": "15th February 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 320,
+    "specialties": {
+      "onedayraces": 504,
+      "gc": 234,
+      "tt": 0,
+      "sprint": 110,
+      "climber": 219,
+      "hills": 508
+    },
+    "profile_url": "https://procyclingstats.com/rider/gotzon-martin"
+  },
+  {
+    "name": "Aleksandr Vlasov",
+    "dob": "23rd April 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 150,
+    "specialties": {
+      "onedayraces": 1455,
+      "gc": 3927,
+      "tt": 1224,
+      "sprint": 58,
+      "climber": 4248,
+      "hills": 1678
+    },
+    "profile_url": "https://procyclingstats.com/rider/aleksandr-vlasov"
+  },
+  {
+    "name": "Fabio Jakobsen",
+    "dob": "31st August 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1930,
+    "specialties": {
+      "onedayraces": 1883,
+      "gc": 153,
+      "tt": 38,
+      "sprint": 3765,
+      "climber": 6,
+      "hills": 654
+    },
+    "profile_url": "https://procyclingstats.com/rider/fabio-jakobsen"
+  },
+  {
+    "name": "Daan Hoole",
+    "dob": "22nd February 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 84.0,
+    "height_m": 1.98,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 187,
+    "specialties": {
+      "onedayraces": 304,
+      "gc": 187,
+      "tt": 1234,
+      "sprint": 58,
+      "climber": 16,
+      "hills": 132
+    },
+    "profile_url": "https://procyclingstats.com/rider/daan-hoole"
+  },
+  {
+    "name": "Paul Double",
+    "dob": "25th June 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 56.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 94,
+    "specialties": {
+      "onedayraces": 95,
+      "gc": 980,
+      "tt": 4,
+      "sprint": 18,
+      "climber": 452,
+      "hills": 294
+    },
+    "profile_url": "https://procyclingstats.com/rider/paul-double"
+  },
+  {
+    "name": "Maximilian Schachmann",
+    "dob": "9th January 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 503,
+    "specialties": {
+      "onedayraces": 1475,
+      "gc": 2218,
+      "tt": 1983,
+      "sprint": 170,
+      "climber": 1976,
+      "hills": 1810
+    },
+    "profile_url": "https://procyclingstats.com/rider/maximilian-schachmann"
+  },
+  {
+    "name": "Bruno Armirail",
+    "dob": "11th April 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 159,
+    "specialties": {
+      "onedayraces": 127,
+      "gc": 806,
+      "tt": 2076,
+      "sprint": 5,
+      "climber": 417,
+      "hills": 264
+    },
+    "profile_url": "https://procyclingstats.com/rider/bruno-armirail"
+  },
+  {
+    "name": "Felix Gall",
+    "dob": "27th February 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 25,
+    "specialties": {
+      "onedayraces": 324,
+      "gc": 2015,
+      "tt": 259,
+      "sprint": 2,
+      "climber": 2940,
+      "hills": 510
+    },
+    "profile_url": "https://procyclingstats.com/rider/felix-gall"
+  },
+  {
+    "name": "Sven Erik Bystr\u00f8m",
+    "dob": "21st January 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 570,
+    "specialties": {
+      "onedayraces": 838,
+      "gc": 829,
+      "tt": 125,
+      "sprint": 141,
+      "climber": 352,
+      "hills": 735
+    },
+    "profile_url": "https://procyclingstats.com/rider/sven-erik-bystrom"
+  },
+  {
+    "name": "Yevgeniy Fedorov",
+    "dob": "16th February 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 142,
+    "specialties": {
+      "onedayraces": 946,
+      "gc": 210,
+      "tt": 535,
+      "sprint": 316,
+      "climber": 26,
+      "hills": 180
+    },
+    "profile_url": "https://procyclingstats.com/rider/yevgeniy-fedorov"
+  },
+  {
+    "name": "Marc Hirschi",
+    "dob": "24th August 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 103,
+    "specialties": {
+      "onedayraces": 5411,
+      "gc": 1531,
+      "tt": 341,
+      "sprint": 75,
+      "climber": 2372,
+      "hills": 2508
+    },
+    "profile_url": "https://procyclingstats.com/rider/marc-hirschi"
+  },
+  {
+    "name": "Brandon Smith Rivera",
+    "dob": "21st March 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 321,
+    "specialties": {
+      "onedayraces": 69,
+      "gc": 513,
+      "tt": 327,
+      "sprint": 26,
+      "climber": 243,
+      "hills": 287
+    },
+    "profile_url": "https://procyclingstats.com/rider/brandon-smith-rivera-vargas"
+  },
+  {
+    "name": "Steven Kruijswijk",
+    "dob": "7th June 1987",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 924,
+    "specialties": {
+      "onedayraces": 344,
+      "gc": 4494,
+      "tt": 1440,
+      "sprint": 38,
+      "climber": 4081,
+      "hills": 1318
+    },
+    "profile_url": "https://procyclingstats.com/rider/steven-kruijswijk"
+  },
+  {
+    "name": "Maurice Ballerstedt",
+    "dob": "16th January 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1956,
+    "specialties": {
+      "onedayraces": 150,
+      "gc": 93,
+      "tt": 28,
+      "sprint": 98,
+      "climber": 22,
+      "hills": 88
+    },
+    "profile_url": "https://procyclingstats.com/rider/maurice-ballerstedt"
+  },
+  {
+    "name": "Esteban Chaves",
+    "dob": "17th January 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.64,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 628,
+    "specialties": {
+      "onedayraces": 1281,
+      "gc": 3400,
+      "tt": 225,
+      "sprint": 44,
+      "climber": 3960,
+      "hills": 1420
+    },
+    "profile_url": "https://procyclingstats.com/rider/johan-esteban-chaves"
+  },
+  {
+    "name": "Michael Woods",
+    "dob": "12th October 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1139,
+    "specialties": {
+      "onedayraces": 3257,
+      "gc": 2320,
+      "tt": 40,
+      "sprint": 38,
+      "climber": 4530,
+      "hills": 1795
+    },
+    "profile_url": "https://procyclingstats.com/rider/michael-woods"
+  },
+  {
+    "name": "Caleb Ewan",
+    "dob": "11th July 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.65,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 2567,
+      "gc": 333,
+      "tt": 148,
+      "sprint": 5048,
+      "climber": 186,
+      "hills": 2164
+    },
+    "profile_url": "https://procyclingstats.com/rider/caleb-ewan"
+  },
+  {
+    "name": "Jordan Labrosse",
+    "dob": "15th September 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 475,
+    "specialties": {
+      "onedayraces": 238,
+      "gc": 51,
+      "tt": 71,
+      "sprint": 48,
+      "climber": 96,
+      "hills": 216
+    },
+    "profile_url": "https://procyclingstats.com/rider/jordan-labrosse"
+  },
+  {
+    "name": "Valentin Madouas",
+    "dob": "12th July 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 167,
+    "specialties": {
+      "onedayraces": 3385,
+      "gc": 1376,
+      "tt": 93,
+      "sprint": 158,
+      "climber": 1674,
+      "hills": 1897
+    },
+    "profile_url": "https://procyclingstats.com/rider/valentin-madouas"
+  },
+  {
+    "name": "Guillaume Martin",
+    "dob": "9th June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 158,
+    "specialties": {
+      "onedayraces": 2599,
+      "gc": 4117,
+      "tt": 10,
+      "sprint": 74,
+      "climber": 4185,
+      "hills": 1809
+    },
+    "profile_url": "https://procyclingstats.com/rider/guillaume-martin"
+  },
+  {
+    "name": "Enric Mas",
+    "dob": "7th January 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 291,
+    "specialties": {
+      "onedayraces": 1033,
+      "gc": 5007,
+      "tt": 696,
+      "sprint": 19,
+      "climber": 5822,
+      "hills": 1450
+    },
+    "profile_url": "https://procyclingstats.com/rider/enric-mas"
+  },
+  {
+    "name": "Eduardo Sep\u00falveda",
+    "dob": "13th June 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 311,
+    "specialties": {
+      "onedayraces": 579,
+      "gc": 1709,
+      "tt": 417,
+      "sprint": 137,
+      "climber": 784,
+      "hills": 280
+    },
+    "profile_url": "https://procyclingstats.com/rider/eduardo-sepulveda"
+  },
+  {
+    "name": "Gianni Vermeersch",
+    "dob": "19th November 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 182,
+    "specialties": {
+      "onedayraces": 2212,
+      "gc": 298,
+      "tt": 55,
+      "sprint": 810,
+      "climber": 334,
+      "hills": 1003
+    },
+    "profile_url": "https://procyclingstats.com/rider/gianni-vermeersch"
+  },
+  {
+    "name": "Thibaud Gruel",
+    "dob": "1st May 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 126,
+    "specialties": {
+      "onedayraces": 285,
+      "gc": 235,
+      "tt": 152,
+      "sprint": 128,
+      "climber": 92,
+      "hills": 447
+    },
+    "profile_url": "https://procyclingstats.com/rider/thibaud-gruel"
+  },
+  {
+    "name": "Steff Cras",
+    "dob": "13th February 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 439,
+    "specialties": {
+      "onedayraces": 335,
+      "gc": 1076,
+      "tt": 82,
+      "sprint": 8,
+      "climber": 978,
+      "hills": 466
+    },
+    "profile_url": "https://procyclingstats.com/rider/steff-cras"
+  },
+  {
+    "name": "Remco Evenepoel",
+    "dob": "25th January 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 4,
+    "specialties": {
+      "onedayraces": 4615,
+      "gc": 4704,
+      "tt": 4921,
+      "sprint": 120,
+      "climber": 4886,
+      "hills": 2044
+    },
+    "profile_url": "https://procyclingstats.com/rider/remco-evenepoel"
+  },
+  {
+    "name": "Luca Covili",
+    "dob": "10th February 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 592,
+    "specialties": {
+      "onedayraces": 80,
+      "gc": 516,
+      "tt": 6,
+      "sprint": 4,
+      "climber": 384,
+      "hills": 114
+    },
+    "profile_url": "https://procyclingstats.com/rider/luca-covili"
+  },
+  {
+    "name": "Tom Pidcock",
+    "dob": "30th July 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 5,
+    "specialties": {
+      "onedayraces": 3589,
+      "gc": 1671,
+      "tt": 149,
+      "sprint": 394,
+      "climber": 2816,
+      "hills": 2434
+    },
+    "profile_url": "https://procyclingstats.com/rider/tom-pidcock"
+  },
+  {
+    "name": "Anders Foldager",
+    "dob": "27th July 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 165,
+    "specialties": {
+      "onedayraces": 442,
+      "gc": 328,
+      "tt": 8,
+      "sprint": 110,
+      "climber": 94,
+      "hills": 527
+    },
+    "profile_url": "https://procyclingstats.com/rider/anders-foldager"
+  },
+  {
+    "name": "Juri Hollmann",
+    "dob": "30th August 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 116,
+      "gc": 120,
+      "tt": 165,
+      "sprint": 1,
+      "climber": 68,
+      "hills": 40
+    },
+    "profile_url": "https://procyclingstats.com/rider/juri-hollmann"
+  },
+  {
+    "name": "Magnus Cort",
+    "dob": "16th January 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 395,
+    "specialties": {
+      "onedayraces": 1686,
+      "gc": 1488,
+      "tt": 825,
+      "sprint": 1932,
+      "climber": 1228,
+      "hills": 2818
+    },
+    "profile_url": "https://procyclingstats.com/rider/magnus-cort-nielsen"
+  },
+  {
+    "name": "Robin Froidevaux",
+    "dob": "17th October 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 764,
+    "specialties": {
+      "onedayraces": 147,
+      "gc": 73,
+      "tt": 47,
+      "sprint": 160,
+      "climber": 20,
+      "hills": 196
+    },
+    "profile_url": "https://procyclingstats.com/rider/robin-froidevaux"
+  },
+  {
+    "name": "Matteo Sobrero",
+    "dob": "14th May 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 160,
+    "specialties": {
+      "onedayraces": 262,
+      "gc": 783,
+      "tt": 1346,
+      "sprint": 40,
+      "climber": 611,
+      "hills": 743
+    },
+    "profile_url": "https://procyclingstats.com/rider/matteo-sobrero"
+  },
+  {
+    "name": "Lorenzo Rota",
+    "dob": "23rd May 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 578,
+    "specialties": {
+      "onedayraces": 1888,
+      "gc": 824,
+      "tt": 23,
+      "sprint": 164,
+      "climber": 1118,
+      "hills": 1228
+    },
+    "profile_url": "https://procyclingstats.com/rider/lorenzo-rota"
+  },
+  {
+    "name": "Florian Stork",
+    "dob": "27th April 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 257,
+    "specialties": {
+      "onedayraces": 287,
+      "gc": 304,
+      "tt": 31,
+      "sprint": 13,
+      "climber": 352,
+      "hills": 235
+    },
+    "profile_url": "https://procyclingstats.com/rider/florian-stork"
+  },
+  {
+    "name": "Warren Barguil",
+    "dob": "28th October 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 459,
+    "specialties": {
+      "onedayraces": 2741,
+      "gc": 3121,
+      "tt": 100,
+      "sprint": 104,
+      "climber": 3987,
+      "hills": 1990
+    },
+    "profile_url": "https://procyclingstats.com/rider/warren-barguil"
+  },
+  {
+    "name": "Gianmarco Garofoli",
+    "dob": "6th October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 237,
+    "specialties": {
+      "onedayraces": 193,
+      "gc": 179,
+      "tt": 24,
+      "sprint": 35,
+      "climber": 313,
+      "hills": 290
+    },
+    "profile_url": "https://procyclingstats.com/rider/gianmarco-garofoli"
+  },
+  {
+    "name": "Tobias Lund Andresen",
+    "dob": "20th August 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 10,
+    "specialties": {
+      "onedayraces": 1309,
+      "gc": 330,
+      "tt": 14,
+      "sprint": 952,
+      "climber": 184,
+      "hills": 1204
+    },
+    "profile_url": "https://procyclingstats.com/rider/tobias-lund-andresen"
+  },
+  {
+    "name": "Kelland O'brien",
+    "dob": "22nd May 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.0,
+    "height_m": 1.92,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 632,
+    "specialties": {
+      "onedayraces": 290,
+      "gc": 121,
+      "tt": 288,
+      "sprint": 26,
+      "climber": 7,
+      "hills": 128
+    },
+    "profile_url": "https://procyclingstats.com/rider/kelland-brien"
+  },
+  {
+    "name": "Simon Clarke",
+    "dob": "18th July 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 856,
+    "specialties": {
+      "onedayraces": 2458,
+      "gc": 1585,
+      "tt": 139,
+      "sprint": 341,
+      "climber": 1410,
+      "hills": 1709
+    },
+    "profile_url": "https://procyclingstats.com/rider/simon-clarke"
+  },
+  {
+    "name": "Will Barta",
+    "dob": "4th January 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 418,
+    "specialties": {
+      "onedayraces": 76,
+      "gc": 619,
+      "tt": 735,
+      "sprint": 0,
+      "climber": 304,
+      "hills": 378
+    },
+    "profile_url": "https://procyclingstats.com/rider/william-barta"
+  },
+  {
+    "name": "Ra\u00fal Garc\u00eda Pierna",
+    "dob": "23rd February 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 193,
+    "specialties": {
+      "onedayraces": 110,
+      "gc": 468,
+      "tt": 431,
+      "sprint": 8,
+      "climber": 346,
+      "hills": 354
+    },
+    "profile_url": "https://procyclingstats.com/rider/raul-garcia-pierna"
+  },
+  {
+    "name": "Bastien Tronchon",
+    "dob": "29th March 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 185,
+    "specialties": {
+      "onedayraces": 459,
+      "gc": 296,
+      "tt": 14,
+      "sprint": 119,
+      "climber": 172,
+      "hills": 432
+    },
+    "profile_url": "https://procyclingstats.com/rider/bastien-tronchon"
+  },
+  {
+    "name": "Joseph Blackmore",
+    "dob": "23rd February 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 495,
+    "specialties": {
+      "onedayraces": 262,
+      "gc": 515,
+      "tt": 91,
+      "sprint": 20,
+      "climber": 378,
+      "hills": 412
+    },
+    "profile_url": "https://procyclingstats.com/rider/joseph-blackmore"
+  },
+  {
+    "name": "Simon Guglielmi",
+    "dob": "1st July 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 0.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 959,
+    "specialties": {
+      "onedayraces": 199,
+      "gc": 205,
+      "tt": 3,
+      "sprint": 38,
+      "climber": 378,
+      "hills": 254
+    },
+    "profile_url": "https://procyclingstats.com/rider/simon-guglielmi"
+  },
+  {
+    "name": "Orluis Aular",
+    "dob": "5th November 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 92,
+    "specialties": {
+      "onedayraces": 829,
+      "gc": 479,
+      "tt": 633,
+      "sprint": 738,
+      "climber": 337,
+      "hills": 1322
+    },
+    "profile_url": "https://procyclingstats.com/rider/orluis-aular"
+  },
+  {
+    "name": "Wout Van Aert",
+    "dob": "15th September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 15,
+    "specialties": {
+      "onedayraces": 8637,
+      "gc": 1283,
+      "tt": 3102,
+      "sprint": 2348,
+      "climber": 2172,
+      "hills": 5161
+    },
+    "profile_url": "https://procyclingstats.com/rider/wout-van-aert"
+  },
+  {
+    "name": "Nicolas Vinokurov",
+    "dob": "7th July 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 149,
+    "specialties": {
+      "onedayraces": 139,
+      "gc": 321,
+      "tt": 108,
+      "sprint": 112,
+      "climber": 152,
+      "hills": 202
+    },
+    "profile_url": "https://procyclingstats.com/rider/nicolas-vinokurov"
+  },
+  {
+    "name": "Giovanni Aleotti",
+    "dob": "25th May 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 332,
+    "specialties": {
+      "onedayraces": 404,
+      "gc": 1147,
+      "tt": 73,
+      "sprint": 28,
+      "climber": 590,
+      "hills": 449
+    },
+    "profile_url": "https://procyclingstats.com/rider/giovanni-aleotti"
+  },
+  {
+    "name": "Luka Mezgec",
+    "dob": "27th June 1988",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 707,
+    "specialties": {
+      "onedayraces": 1626,
+      "gc": 675,
+      "tt": 33,
+      "sprint": 1723,
+      "climber": 238,
+      "hills": 2229
+    },
+    "profile_url": "https://procyclingstats.com/rider/luka-mezgec"
+  },
+  {
+    "name": "Stanis\u0142aw Anio\u0142kowski",
+    "dob": "20th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 67,
+    "specialties": {
+      "onedayraces": 1147,
+      "gc": 407,
+      "tt": 123,
+      "sprint": 1749,
+      "climber": 52,
+      "hills": 730
+    },
+    "profile_url": "https://procyclingstats.com/rider/stanislaw-aniolkowski"
+  },
+  {
+    "name": "Jan Hirt",
+    "dob": "21st January 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1135,
+    "specialties": {
+      "onedayraces": 129,
+      "gc": 1880,
+      "tt": 30,
+      "sprint": 8,
+      "climber": 1646,
+      "hills": 128
+    },
+    "profile_url": "https://procyclingstats.com/rider/jan-hirt"
+  },
+  {
+    "name": "Alberto Dainese",
+    "dob": "25th March 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 197,
+    "specialties": {
+      "onedayraces": 909,
+      "gc": 264,
+      "tt": 7,
+      "sprint": 1946,
+      "climber": 10,
+      "hills": 752
+    },
+    "profile_url": "https://procyclingstats.com/rider/alberto-dainese"
+  },
+  {
+    "name": "Sam Bennett",
+    "dob": "16th October 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 741,
+    "specialties": {
+      "onedayraces": 2662,
+      "gc": 556,
+      "tt": 135,
+      "sprint": 5514,
+      "climber": 130,
+      "hills": 1904
+    },
+    "profile_url": "https://procyclingstats.com/rider/sam-bennett"
+  },
+  {
+    "name": "Bob Jungels",
+    "dob": "22nd September 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 552,
+    "specialties": {
+      "onedayraces": 1246,
+      "gc": 2653,
+      "tt": 2724,
+      "sprint": 149,
+      "climber": 1856,
+      "hills": 1286
+    },
+    "profile_url": "https://procyclingstats.com/rider/bob-jungels"
+  },
+  {
+    "name": "Andrea Pietrobon",
+    "dob": "11th March 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.91,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1014,
+    "specialties": {
+      "onedayraces": 21,
+      "gc": 60,
+      "tt": 4,
+      "sprint": 1,
+      "climber": 29,
+      "hills": 101
+    },
+    "profile_url": "https://procyclingstats.com/rider/andrea-pietrobon"
+  },
+  {
+    "name": "Giulio Ciccone",
+    "dob": "20th December 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 39,
+    "specialties": {
+      "onedayraces": 1861,
+      "gc": 2108,
+      "tt": 117,
+      "sprint": 56,
+      "climber": 4412,
+      "hills": 1278
+    },
+    "profile_url": "https://procyclingstats.com/rider/giulio-ciccone"
+  },
+  {
+    "name": "Filippo Fiorelli",
+    "dob": "19th November 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 379,
+    "specialties": {
+      "onedayraces": 621,
+      "gc": 308,
+      "tt": 19,
+      "sprint": 542,
+      "climber": 382,
+      "hills": 992
+    },
+    "profile_url": "https://procyclingstats.com/rider/filippo-fiorelli"
+  },
+  {
+    "name": "Martijn Tusveld",
+    "dob": "9th September 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 187,
+      "gc": 560,
+      "tt": 313,
+      "sprint": 30,
+      "climber": 204,
+      "hills": 254
+    },
+    "profile_url": "https://procyclingstats.com/rider/martijn-tusveld"
+  },
+  {
+    "name": "Santiago Buitrago",
+    "dob": "26th September 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 88,
+    "specialties": {
+      "onedayraces": 678,
+      "gc": 1949,
+      "tt": 226,
+      "sprint": 43,
+      "climber": 2145,
+      "hills": 886
+    },
+    "profile_url": "https://procyclingstats.com/rider/santiago-buitrago-sanchez"
+  },
+  {
+    "name": "Arnaud De Lie",
+    "dob": "16th March 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 6,
+    "specialties": {
+      "onedayraces": 4800,
+      "gc": 561,
+      "tt": 1,
+      "sprint": 2072,
+      "climber": 172,
+      "hills": 1942
+    },
+    "profile_url": "https://procyclingstats.com/rider/arnaud-de-lie"
+  },
+  {
+    "name": "Bryan Coquard",
+    "dob": "25th April 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 123,
+    "specialties": {
+      "onedayraces": 3411,
+      "gc": 1300,
+      "tt": 289,
+      "sprint": 4529,
+      "climber": 238,
+      "hills": 2747
+    },
+    "profile_url": "https://procyclingstats.com/rider/bryan-coquard"
+  },
+  {
+    "name": "Pavel Sivakov",
+    "dob": "11th July 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 105,
+    "specialties": {
+      "onedayraces": 1389,
+      "gc": 2658,
+      "tt": 506,
+      "sprint": 26,
+      "climber": 2132,
+      "hills": 780
+    },
+    "profile_url": "https://procyclingstats.com/rider/pavel-sivakov"
+  },
+  {
+    "name": "Mirco Maestri",
+    "dob": "26th October 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 432,
+    "specialties": {
+      "onedayraces": 265,
+      "gc": 402,
+      "tt": 215,
+      "sprint": 234,
+      "climber": 48,
+      "hills": 596
+    },
+    "profile_url": "https://procyclingstats.com/rider/mirco-maestri"
+  },
+  {
+    "name": "Marco Brenner",
+    "dob": "27th August 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 307,
+    "specialties": {
+      "onedayraces": 274,
+      "gc": 518,
+      "tt": 182,
+      "sprint": 10,
+      "climber": 432,
+      "hills": 420
+    },
+    "profile_url": "https://procyclingstats.com/rider/marco-brenner"
+  },
+  {
+    "name": "Michael Matthews",
+    "dob": "26th September 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 155,
+    "specialties": {
+      "onedayraces": 8292,
+      "gc": 867,
+      "tt": 1678,
+      "sprint": 2165,
+      "climber": 2374,
+      "hills": 7788
+    },
+    "profile_url": "https://procyclingstats.com/rider/michael-matthews"
+  },
+  {
+    "name": "\u00d3scar Rodr\u00edguez",
+    "dob": "6th May 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1416,
+    "specialties": {
+      "onedayraces": 177,
+      "gc": 861,
+      "tt": 161,
+      "sprint": 8,
+      "climber": 820,
+      "hills": 198
+    },
+    "profile_url": "https://procyclingstats.com/rider/oscar-rodriguez"
+  },
+  {
+    "name": "Andrea Bagioli",
+    "dob": "23rd March 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 207,
+    "specialties": {
+      "onedayraces": 1681,
+      "gc": 404,
+      "tt": 113,
+      "sprint": 8,
+      "climber": 1274,
+      "hills": 1268
+    },
+    "profile_url": "https://procyclingstats.com/rider/andrea-bagioli"
+  },
+  {
+    "name": "Yannis Voisard",
+    "dob": "26th July 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 56.0,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 152,
+    "specialties": {
+      "onedayraces": 124,
+      "gc": 775,
+      "tt": 179,
+      "sprint": 19,
+      "climber": 506,
+      "hills": 325
+    },
+    "profile_url": "https://procyclingstats.com/rider/yannis-voisard"
+  },
+  {
+    "name": "Ben Healy",
+    "dob": "11th September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 42,
+    "specialties": {
+      "onedayraces": 1514,
+      "gc": 869,
+      "tt": 548,
+      "sprint": 40,
+      "climber": 1548,
+      "hills": 616
+    },
+    "profile_url": "https://procyclingstats.com/rider/ben-healy"
+  },
+  {
+    "name": "Quinten Hermans",
+    "dob": "29th July 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 110,
+    "specialties": {
+      "onedayraces": 1278,
+      "gc": 714,
+      "tt": 89,
+      "sprint": 229,
+      "climber": 710,
+      "hills": 1448
+    },
+    "profile_url": "https://procyclingstats.com/rider/quinten-hermans"
+  },
+  {
+    "name": "Igor Arrieta",
+    "dob": "8th December 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 144,
+    "specialties": {
+      "onedayraces": 287,
+      "gc": 427,
+      "tt": 15,
+      "sprint": 8,
+      "climber": 432,
+      "hills": 230
+    },
+    "profile_url": "https://procyclingstats.com/rider/igor-arrieta-lizarraga"
+  },
+  {
+    "name": "Alexandre Delettre",
+    "dob": "25th October 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 85,
+    "specialties": {
+      "onedayraces": 799,
+      "gc": 573,
+      "tt": 10,
+      "sprint": 64,
+      "climber": 201,
+      "hills": 651
+    },
+    "profile_url": "https://procyclingstats.com/rider/alexandre-delettre"
+  },
+  {
+    "name": "Simon Yates",
+    "dob": "7th August 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 52,
+    "specialties": {
+      "onedayraces": 1183,
+      "gc": 5955,
+      "tt": 1215,
+      "sprint": 40,
+      "climber": 6489,
+      "hills": 1874
+    },
+    "profile_url": "https://procyclingstats.com/rider/simon-yates"
+  },
+  {
+    "name": "Hugo De La Calle",
+    "dob": "12th July 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 540,
+    "specialties": {
+      "onedayraces": 76,
+      "gc": 77,
+      "tt": 0,
+      "sprint": 12,
+      "climber": 48,
+      "hills": 44
+    },
+    "profile_url": "https://procyclingstats.com/rider/hugo-de-la-calle-arango"
+  },
+  {
+    "name": "Finlay Pickering",
+    "dob": "27th January 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 515,
+    "specialties": {
+      "onedayraces": 0,
+      "gc": 134,
+      "tt": 48,
+      "sprint": 0,
+      "climber": 222,
+      "hills": 25
+    },
+    "profile_url": "https://procyclingstats.com/rider/finlay-pickering"
+  },
+  {
+    "name": "Jenthe Biermans",
+    "dob": "30th October 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 243,
+    "specialties": {
+      "onedayraces": 1544,
+      "gc": 297,
+      "tt": 56,
+      "sprint": 467,
+      "climber": 109,
+      "hills": 694
+    },
+    "profile_url": "https://procyclingstats.com/rider/jenthe-biermans"
+  },
+  {
+    "name": "Oscar Onley",
+    "dob": "13th October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 22,
+    "specialties": {
+      "onedayraces": 297,
+      "gc": 2046,
+      "tt": 321,
+      "sprint": 8,
+      "climber": 1750,
+      "hills": 1166
+    },
+    "profile_url": "https://procyclingstats.com/rider/oscar-onley"
+  },
+  {
+    "name": "Bart Lemmen",
+    "dob": "14th October 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 343,
+    "specialties": {
+      "onedayraces": 196,
+      "gc": 561,
+      "tt": 148,
+      "sprint": 29,
+      "climber": 301,
+      "hills": 370
+    },
+    "profile_url": "https://procyclingstats.com/rider/bart-lemmen"
+  },
+  {
+    "name": "Michael Storer",
+    "dob": "28th February 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 49,
+    "specialties": {
+      "onedayraces": 978,
+      "gc": 2037,
+      "tt": 139,
+      "sprint": 0,
+      "climber": 2250,
+      "hills": 596
+    },
+    "profile_url": "https://procyclingstats.com/rider/michael-storer"
+  },
+  {
+    "name": "Nadav Raisberg",
+    "dob": "29th March 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 717,
+    "specialties": {
+      "onedayraces": 60,
+      "gc": 75,
+      "tt": 50,
+      "sprint": 4,
+      "climber": 6,
+      "hills": 77
+    },
+    "profile_url": "https://procyclingstats.com/rider/nadav-raisberg"
+  },
+  {
+    "name": "Jasper Stuyven",
+    "dob": "17th April 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 86,
+    "specialties": {
+      "onedayraces": 5297,
+      "gc": 1385,
+      "tt": 284,
+      "sprint": 1981,
+      "climber": 720,
+      "hills": 3804
+    },
+    "profile_url": "https://procyclingstats.com/rider/jasper-stuyven"
+  },
+  {
+    "name": "Rafa\u0142 Majka",
+    "dob": "12th September 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 188,
+    "specialties": {
+      "onedayraces": 1204,
+      "gc": 5843,
+      "tt": 937,
+      "sprint": 47,
+      "climber": 6482,
+      "hills": 1972
+    },
+    "profile_url": "https://procyclingstats.com/rider/rafal-majka"
+  },
+  {
+    "name": "Ben O'connor",
+    "dob": "25th November 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 66,
+    "specialties": {
+      "onedayraces": 795,
+      "gc": 3897,
+      "tt": 684,
+      "sprint": 53,
+      "climber": 3525,
+      "hills": 1010
+    },
+    "profile_url": "https://procyclingstats.com/rider/ben-o-connor"
+  },
+  {
+    "name": "Andreas Leknessund",
+    "dob": "21st May 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 131,
+    "specialties": {
+      "onedayraces": 382,
+      "gc": 1225,
+      "tt": 660,
+      "sprint": 4,
+      "climber": 701,
+      "hills": 403
+    },
+    "profile_url": "https://procyclingstats.com/rider/andreas-leknessund"
+  },
+  {
+    "name": "Callum Scotson",
+    "dob": "10th August 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 513,
+    "specialties": {
+      "onedayraces": 47,
+      "gc": 488,
+      "tt": 127,
+      "sprint": 48,
+      "climber": 200,
+      "hills": 98
+    },
+    "profile_url": "https://procyclingstats.com/rider/callum-scotson"
+  },
+  {
+    "name": "Arne Marit",
+    "dob": "21st January 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 171,
+    "specialties": {
+      "onedayraces": 994,
+      "gc": 110,
+      "tt": 4,
+      "sprint": 818,
+      "climber": 12,
+      "hills": 652
+    },
+    "profile_url": "https://procyclingstats.com/rider/arne-marit"
+  },
+  {
+    "name": "Filippo Baroncini",
+    "dob": "26th August 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 258,
+    "specialties": {
+      "onedayraces": 501,
+      "gc": 391,
+      "tt": 405,
+      "sprint": 124,
+      "climber": 184,
+      "hills": 371
+    },
+    "profile_url": "https://procyclingstats.com/rider/filippo-baroncini"
+  },
+  {
+    "name": "Fernando Gaviria",
+    "dob": "19th August 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 301,
+    "specialties": {
+      "onedayraces": 2009,
+      "gc": 226,
+      "tt": 110,
+      "sprint": 4670,
+      "climber": 120,
+      "hills": 1966
+    },
+    "profile_url": "https://procyclingstats.com/rider/fernando-gaviria"
+  },
+  {
+    "name": "Bjorn Koerdt",
+    "dob": "20th July 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 0.16,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 281,
+    "specialties": {
+      "onedayraces": 130,
+      "gc": 121,
+      "tt": 0,
+      "sprint": 22,
+      "climber": 42,
+      "hills": 152
+    },
+    "profile_url": "https://procyclingstats.com/rider/bjoern-koerdt"
+  },
+  {
+    "name": "Pierre Thierry",
+    "dob": "31st May 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 945,
+    "specialties": {
+      "onedayraces": 63,
+      "gc": 60,
+      "tt": 86,
+      "sprint": 18,
+      "climber": 22,
+      "hills": 64
+    },
+    "profile_url": "https://procyclingstats.com/rider/pierre-thierry"
+  },
+  {
+    "name": "Mattia Bais",
+    "dob": "19th October 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 714,
+    "specialties": {
+      "onedayraces": 230,
+      "gc": 276,
+      "tt": 25,
+      "sprint": 67,
+      "climber": 234,
+      "hills": 187
+    },
+    "profile_url": "https://procyclingstats.com/rider/mattia-bais"
+  },
+  {
+    "name": "Oier Lazkano",
+    "dob": "7th November 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 454,
+      "gc": 436,
+      "tt": 206,
+      "sprint": 66,
+      "climber": 244,
+      "hills": 370
+    },
+    "profile_url": "https://procyclingstats.com/rider/oier-lazkano"
+  },
+  {
+    "name": "Diego Ulissi",
+    "dob": "15th July 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 96,
+    "specialties": {
+      "onedayraces": 5699,
+      "gc": 5681,
+      "tt": 1117,
+      "sprint": 202,
+      "climber": 5068,
+      "hills": 4864
+    },
+    "profile_url": "https://procyclingstats.com/rider/diego-ulissi"
+  },
+  {
+    "name": "Victor Campenaerts",
+    "dob": "28th October 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 271,
+    "specialties": {
+      "onedayraces": 790,
+      "gc": 1042,
+      "tt": 3635,
+      "sprint": 223,
+      "climber": 496,
+      "hills": 916
+    },
+    "profile_url": "https://procyclingstats.com/rider/victor-campenaerts"
+  },
+  {
+    "name": "Max Walscheid",
+    "dob": "13th June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 91.0,
+    "height_m": 1.99,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 481,
+    "specialties": {
+      "onedayraces": 1774,
+      "gc": 353,
+      "tt": 1110,
+      "sprint": 2372,
+      "climber": 17,
+      "hills": 456
+    },
+    "profile_url": "https://procyclingstats.com/rider/max-walscheid"
+  },
+  {
+    "name": "Carlos Rodr\u00edguez",
+    "dob": "2nd February 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 186,
+    "specialties": {
+      "onedayraces": 503,
+      "gc": 2576,
+      "tt": 497,
+      "sprint": 14,
+      "climber": 2560,
+      "hills": 598
+    },
+    "profile_url": "https://procyclingstats.com/rider/carlos-rodriguez-cano"
+  },
+  {
+    "name": "Tobias Halland Johannessen",
+    "dob": "23rd August 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 23,
+    "specialties": {
+      "onedayraces": 986,
+      "gc": 1763,
+      "tt": 105,
+      "sprint": 28,
+      "climber": 1877,
+      "hills": 1128
+    },
+    "profile_url": "https://procyclingstats.com/rider/tobias-halland-johannessen"
+  },
+  {
+    "name": "Olav Kooij",
+    "dob": "17th October 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 48,
+    "specialties": {
+      "onedayraces": 1917,
+      "gc": 712,
+      "tt": 102,
+      "sprint": 3392,
+      "climber": 88,
+      "hills": 1146
+    },
+    "profile_url": "https://procyclingstats.com/rider/olav-kooij"
+  },
+  {
+    "name": "Markel Beloki",
+    "dob": "27th July 2005",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 339,
+    "specialties": {
+      "onedayraces": 47,
+      "gc": 140,
+      "tt": 34,
+      "sprint": 0,
+      "climber": 108,
+      "hills": 50
+    },
+    "profile_url": "https://procyclingstats.com/rider/markel-beloki"
+  },
+  {
+    "name": "Giulio Pellizzari",
+    "dob": "21st November 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 21,
+    "specialties": {
+      "onedayraces": 219,
+      "gc": 1196,
+      "tt": 91,
+      "sprint": 0,
+      "climber": 1250,
+      "hills": 322
+    },
+    "profile_url": "https://procyclingstats.com/rider/giulio-pellizzari"
+  },
+  {
+    "name": "Emanuel Buchmann",
+    "dob": "18th November 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 408,
+    "specialties": {
+      "onedayraces": 817,
+      "gc": 3324,
+      "tt": 233,
+      "sprint": 77,
+      "climber": 2966,
+      "hills": 858
+    },
+    "profile_url": "https://procyclingstats.com/rider/emanuel-buchmann"
+  },
+  {
+    "name": "Dorian Godon",
+    "dob": "25th May 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 32,
+    "specialties": {
+      "onedayraces": 1836,
+      "gc": 579,
+      "tt": 525,
+      "sprint": 275,
+      "climber": 882,
+      "hills": 2240
+    },
+    "profile_url": "https://procyclingstats.com/rider/dorian-godon"
+  },
+  {
+    "name": "Mikkel Fr\u00f8lich Honor\u00e9",
+    "dob": "21st January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 192,
+    "specialties": {
+      "onedayraces": 1242,
+      "gc": 710,
+      "tt": 133,
+      "sprint": 82,
+      "climber": 676,
+      "hills": 1002
+    },
+    "profile_url": "https://procyclingstats.com/rider/mikkel-honore"
+  },
+  {
+    "name": "Pascal Eenkhoorn",
+    "dob": "8th February 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 348,
+    "specialties": {
+      "onedayraces": 689,
+      "gc": 523,
+      "tt": 232,
+      "sprint": 232,
+      "climber": 200,
+      "hills": 574
+    },
+    "profile_url": "https://procyclingstats.com/rider/pascal-eenkhoorn"
+  },
+  {
+    "name": "Hugo Houle",
+    "dob": "27th September 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 683,
+    "specialties": {
+      "onedayraces": 786,
+      "gc": 1014,
+      "tt": 701,
+      "sprint": 244,
+      "climber": 512,
+      "hills": 764
+    },
+    "profile_url": "https://procyclingstats.com/rider/hugo-houle"
+  },
+  {
+    "name": "Iv\u00e1n Romeo",
+    "dob": "16th August 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 82,
+    "specialties": {
+      "onedayraces": 253,
+      "gc": 587,
+      "tt": 584,
+      "sprint": 55,
+      "climber": 298,
+      "hills": 324
+    },
+    "profile_url": "https://procyclingstats.com/rider/ivan-romeo"
+  },
+  {
+    "name": "Juan Sebasti\u00e1n Molano",
+    "dob": "4th November 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 218,
+    "specialties": {
+      "onedayraces": 1161,
+      "gc": 294,
+      "tt": 0,
+      "sprint": 2384,
+      "climber": 86,
+      "hills": 1065
+    },
+    "profile_url": "https://procyclingstats.com/rider/juan-sebastian-molano"
+  },
+  {
+    "name": "Matteo Jorgenson",
+    "dob": "1st July 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 29,
+    "specialties": {
+      "onedayraces": 1117,
+      "gc": 2452,
+      "tt": 794,
+      "sprint": 178,
+      "climber": 2121,
+      "hills": 1490
+    },
+    "profile_url": "https://procyclingstats.com/rider/matteo-jorgenson"
+  },
+  {
+    "name": "Laurence Pithie",
+    "dob": "17th July 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 138,
+    "specialties": {
+      "onedayraces": 1372,
+      "gc": 152,
+      "tt": 205,
+      "sprint": 610,
+      "climber": 50,
+      "hills": 878
+    },
+    "profile_url": "https://procyclingstats.com/rider/laurence-pithie"
+  },
+  {
+    "name": "Alex Aranburu",
+    "dob": "19th September 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 60,
+    "specialties": {
+      "onedayraces": 2865,
+      "gc": 1013,
+      "tt": 301,
+      "sprint": 412,
+      "climber": 2015,
+      "hills": 2767
+    },
+    "profile_url": "https://procyclingstats.com/rider/alex-aranburu"
+  },
+  {
+    "name": "Hugo Hofstetter",
+    "dob": "13th February 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 250,
+    "specialties": {
+      "onedayraces": 3408,
+      "gc": 175,
+      "tt": 0,
+      "sprint": 2330,
+      "climber": 29,
+      "hills": 1011
+    },
+    "profile_url": "https://procyclingstats.com/rider/hugo-hofstetter"
+  },
+  {
+    "name": "Jakob Fuglsang",
+    "dob": "22nd March 1985",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1246,
+    "specialties": {
+      "onedayraces": 3654,
+      "gc": 6658,
+      "tt": 1693,
+      "sprint": 244,
+      "climber": 6126,
+      "hills": 2402
+    },
+    "profile_url": "https://procyclingstats.com/rider/jakob-fuglsang"
+  },
+  {
+    "name": "Laurens De Plus",
+    "dob": "4th September 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1928,
+    "specialties": {
+      "onedayraces": 263,
+      "gc": 1522,
+      "tt": 446,
+      "sprint": 23,
+      "climber": 1063,
+      "hills": 592
+    },
+    "profile_url": "https://procyclingstats.com/rider/laurens-de-plus"
+  },
+  {
+    "name": "Fred Wright",
+    "dob": "13th June 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 121,
+    "specialties": {
+      "onedayraces": 895,
+      "gc": 545,
+      "tt": 466,
+      "sprint": 214,
+      "climber": 369,
+      "hills": 1560
+    },
+    "profile_url": "https://procyclingstats.com/rider/alfred-wright"
+  },
+  {
+    "name": "Anthony Turgis",
+    "dob": "16th May 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 137,
+    "specialties": {
+      "onedayraces": 2705,
+      "gc": 844,
+      "tt": 184,
+      "sprint": 832,
+      "climber": 222,
+      "hills": 1214
+    },
+    "profile_url": "https://procyclingstats.com/rider/anthony-turgis"
+  },
+  {
+    "name": "Felix Engelhardt",
+    "dob": "19th August 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 173,
+    "specialties": {
+      "onedayraces": 509,
+      "gc": 382,
+      "tt": 6,
+      "sprint": 12,
+      "climber": 302,
+      "hills": 485
+    },
+    "profile_url": "https://procyclingstats.com/rider/felix-engelhardt"
+  },
+  {
+    "name": "Pello Bilbao",
+    "dob": "25th February 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 57,
+    "specialties": {
+      "onedayraces": 1939,
+      "gc": 5093,
+      "tt": 1187,
+      "sprint": 396,
+      "climber": 5320,
+      "hills": 2402
+    },
+    "profile_url": "https://procyclingstats.com/rider/pello-bilbao"
+  },
+  {
+    "name": "Mick Van Dijke",
+    "dob": "15th March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 326,
+    "specialties": {
+      "onedayraces": 381,
+      "gc": 351,
+      "tt": 259,
+      "sprint": 262,
+      "climber": 100,
+      "hills": 280
+    },
+    "profile_url": "https://procyclingstats.com/rider/mick-van-dijke"
+  },
+  {
+    "name": "Einer Rubio",
+    "dob": "22nd February 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 56.0,
+    "height_m": 1.64,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 201,
+    "specialties": {
+      "onedayraces": 214,
+      "gc": 1583,
+      "tt": 64,
+      "sprint": 6,
+      "climber": 1784,
+      "hills": 358
+    },
+    "profile_url": "https://procyclingstats.com/rider/einer-rubio"
+  },
+  {
+    "name": "Brieuc Rolland",
+    "dob": "13th August 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 393,
+    "specialties": {
+      "onedayraces": 101,
+      "gc": 142,
+      "tt": 18,
+      "sprint": 0,
+      "climber": 258,
+      "hills": 166
+    },
+    "profile_url": "https://procyclingstats.com/rider/brieuc-rolland"
+  },
+  {
+    "name": "Jai Hindley",
+    "dob": "5th May 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 93,
+    "specialties": {
+      "onedayraces": 535,
+      "gc": 3581,
+      "tt": 168,
+      "sprint": 84,
+      "climber": 3570,
+      "hills": 885
+    },
+    "profile_url": "https://procyclingstats.com/rider/jai-hindley"
+  },
+  {
+    "name": "Pablo Castrillo",
+    "dob": "2nd January 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 224,
+    "specialties": {
+      "onedayraces": 72,
+      "gc": 645,
+      "tt": 299,
+      "sprint": 0,
+      "climber": 774,
+      "hills": 266
+    },
+    "profile_url": "https://procyclingstats.com/rider/pablo-castrillo-zapater"
+  },
+  {
+    "name": "Mattias Skjelmose",
+    "dob": "26th September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 28,
+    "specialties": {
+      "onedayraces": 2060,
+      "gc": 2530,
+      "tt": 1210,
+      "sprint": 132,
+      "climber": 2616,
+      "hills": 1744
+    },
+    "profile_url": "https://procyclingstats.com/rider/mattias-skjelmose-jensen"
+  },
+  {
+    "name": "Pelayo S\u00e1nchez",
+    "dob": "27th March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1959,
+    "specialties": {
+      "onedayraces": 202,
+      "gc": 225,
+      "tt": 68,
+      "sprint": 0,
+      "climber": 432,
+      "hills": 224
+    },
+    "profile_url": "https://procyclingstats.com/rider/pelayo-sanchez-mayo"
+  },
+  {
+    "name": "Corbin Strong",
+    "dob": "30th April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 35,
+    "specialties": {
+      "onedayraces": 1760,
+      "gc": 767,
+      "tt": 30,
+      "sprint": 370,
+      "climber": 605,
+      "hills": 2118
+    },
+    "profile_url": "https://procyclingstats.com/rider/corbin-strong"
+  },
+  {
+    "name": "Matev\u017e Govekar",
+    "dob": "17th April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 421,
+    "specialties": {
+      "onedayraces": 296,
+      "gc": 70,
+      "tt": 132,
+      "sprint": 350,
+      "climber": 84,
+      "hills": 466
+    },
+    "profile_url": "https://procyclingstats.com/rider/matevz-govekar"
+  },
+  {
+    "name": "Adam Yates",
+    "dob": "7th August 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 36,
+    "specialties": {
+      "onedayraces": 2759,
+      "gc": 7403,
+      "tt": 1330,
+      "sprint": 130,
+      "climber": 7690,
+      "hills": 2123
+    },
+    "profile_url": "https://procyclingstats.com/rider/adam-yates"
+  },
+  {
+    "name": "Oliver Naesen",
+    "dob": "16th September 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 386,
+    "specialties": {
+      "onedayraces": 4419,
+      "gc": 1537,
+      "tt": 49,
+      "sprint": 880,
+      "climber": 421,
+      "hills": 2388
+    },
+    "profile_url": "https://procyclingstats.com/rider/oliver-naesen"
+  },
+  {
+    "name": "Fernando Barcel\u00f3",
+    "dob": "6th January 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 156,
+    "specialties": {
+      "onedayraces": 633,
+      "gc": 458,
+      "tt": 7,
+      "sprint": 104,
+      "climber": 569,
+      "hills": 734
+    },
+    "profile_url": "https://procyclingstats.com/rider/fernando-barcelo"
+  },
+  {
+    "name": "Jan Tratnik",
+    "dob": "23rd February 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 627,
+    "specialties": {
+      "onedayraces": 1259,
+      "gc": 893,
+      "tt": 1856,
+      "sprint": 158,
+      "climber": 606,
+      "hills": 836
+    },
+    "profile_url": "https://procyclingstats.com/rider/jan-tratnik"
+  },
+  {
+    "name": "Giovanni Lonardi",
+    "dob": "9th November 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 139,
+    "specialties": {
+      "onedayraces": 516,
+      "gc": 165,
+      "tt": 15,
+      "sprint": 1335,
+      "climber": 73,
+      "hills": 858
+    },
+    "profile_url": "https://procyclingstats.com/rider/giovanni-lonardi"
+  },
+  {
+    "name": "Egan Bernal",
+    "dob": "13th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 34,
+    "specialties": {
+      "onedayraces": 1229,
+      "gc": 4866,
+      "tt": 608,
+      "sprint": 96,
+      "climber": 4650,
+      "hills": 1406
+    },
+    "profile_url": "https://procyclingstats.com/rider/egan-bernal"
+  },
+  {
+    "name": "Roger Adri\u00e0",
+    "dob": "18th April 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 303,
+    "specialties": {
+      "onedayraces": 1203,
+      "gc": 396,
+      "tt": 43,
+      "sprint": 48,
+      "climber": 722,
+      "hills": 888
+    },
+    "profile_url": "https://procyclingstats.com/rider/roger-adria"
+  },
+  {
+    "name": "Davide Piganzoli",
+    "dob": "8th July 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 113,
+    "specialties": {
+      "onedayraces": 418,
+      "gc": 856,
+      "tt": 103,
+      "sprint": 0,
+      "climber": 656,
+      "hills": 309
+    },
+    "profile_url": "https://procyclingstats.com/rider/davide-piganzoli"
+  },
+  {
+    "name": "Jos\u00e9 F\u00e9lix Parra",
+    "dob": "16th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 280,
+    "specialties": {
+      "onedayraces": 178,
+      "gc": 497,
+      "tt": 0,
+      "sprint": 0,
+      "climber": 440,
+      "hills": 114
+    },
+    "profile_url": "https://procyclingstats.com/rider/jose-felix-parra"
+  },
+  {
+    "name": "Danny Van Poppel",
+    "dob": "26th July 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 82.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 154,
+    "specialties": {
+      "onedayraces": 3461,
+      "gc": 848,
+      "tt": 481,
+      "sprint": 4030,
+      "climber": 198,
+      "hills": 1839
+    },
+    "profile_url": "https://procyclingstats.com/rider/danny-van-poppel"
+  },
+  {
+    "name": "Arjen Livyns",
+    "dob": "1st September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 617,
+    "specialties": {
+      "onedayraces": 676,
+      "gc": 118,
+      "tt": 43,
+      "sprint": 104,
+      "climber": 152,
+      "hills": 383
+    },
+    "profile_url": "https://procyclingstats.com/rider/arjen-livyns"
+  },
+  {
+    "name": "Lars Craps",
+    "dob": "17th October 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 659,
+    "specialties": {
+      "onedayraces": 50,
+      "gc": 133,
+      "tt": 4,
+      "sprint": 26,
+      "climber": 84,
+      "hills": 88
+    },
+    "profile_url": "https://procyclingstats.com/rider/lars-craps"
+  },
+  {
+    "name": "Chris Harper",
+    "dob": "23rd November 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 232,
+    "specialties": {
+      "onedayraces": 446,
+      "gc": 1264,
+      "tt": 310,
+      "sprint": 168,
+      "climber": 994,
+      "hills": 285
+    },
+    "profile_url": "https://procyclingstats.com/rider/chris-harper"
+  },
+  {
+    "name": "Domenico Pozzovivo",
+    "dob": "30th November 1982",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.65,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 720,
+    "specialties": {
+      "onedayraces": 2773,
+      "gc": 6543,
+      "tt": 819,
+      "sprint": 702,
+      "climber": 6480,
+      "hills": 1838
+    },
+    "profile_url": "https://procyclingstats.com/rider/domenico-pozzovivo"
+  },
+  {
+    "name": "Marco Frigo",
+    "dob": "2nd March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 133,
+    "specialties": {
+      "onedayraces": 121,
+      "gc": 354,
+      "tt": 228,
+      "sprint": 20,
+      "climber": 550,
+      "hills": 294
+    },
+    "profile_url": "https://procyclingstats.com/rider/marco-frigo"
+  },
+  {
+    "name": "Nelson Oliveira",
+    "dob": "6th March 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 577,
+    "specialties": {
+      "onedayraces": 629,
+      "gc": 1251,
+      "tt": 3919,
+      "sprint": 102,
+      "climber": 594,
+      "hills": 890
+    },
+    "profile_url": "https://procyclingstats.com/rider/nelson-oliveira"
+  },
+  {
+    "name": "Ivo Oliveira",
+    "dob": "5th September 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 290,
+    "specialties": {
+      "onedayraces": 145,
+      "gc": 230,
+      "tt": 858,
+      "sprint": 98,
+      "climber": 66,
+      "hills": 486
+    },
+    "profile_url": "https://procyclingstats.com/rider/ivo-emanuel-alves"
+  },
+  {
+    "name": "Max Poole",
+    "dob": "1st March 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 346,
+    "specialties": {
+      "onedayraces": 0,
+      "gc": 1037,
+      "tt": 207,
+      "sprint": 6,
+      "climber": 898,
+      "hills": 425
+    },
+    "profile_url": "https://procyclingstats.com/rider/max-poole"
+  },
+  {
+    "name": "Jo\u00e3o Almeida",
+    "dob": "5th August 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 8,
+    "specialties": {
+      "onedayraces": 431,
+      "gc": 5449,
+      "tt": 2996,
+      "sprint": 47,
+      "climber": 4868,
+      "hills": 1494
+    },
+    "profile_url": "https://procyclingstats.com/rider/joao-almeida"
+  },
+  {
+    "name": "Johannes Kulset",
+    "dob": "14th April 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 100,
+    "specialties": {
+      "onedayraces": 321,
+      "gc": 483,
+      "tt": 6,
+      "sprint": 3,
+      "climber": 382,
+      "hills": 196
+    },
+    "profile_url": "https://procyclingstats.com/rider/johannes-kulset"
+  },
+  {
+    "name": "Joel Nicolau",
+    "dob": "23rd December 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 497,
+    "specialties": {
+      "onedayraces": 255,
+      "gc": 224,
+      "tt": 8,
+      "sprint": 51,
+      "climber": 167,
+      "hills": 265
+    },
+    "profile_url": "https://procyclingstats.com/rider/joel-nicolau"
+  },
+  {
+    "name": "Primo\u017e Rogli\u010d",
+    "dob": "29th October 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 46,
+    "specialties": {
+      "onedayraces": 2099,
+      "gc": 8480,
+      "tt": 6096,
+      "sprint": 168,
+      "climber": 8684,
+      "hills": 3166
+    },
+    "profile_url": "https://procyclingstats.com/rider/primoz-roglic"
+  },
+  {
+    "name": "Lenny Martinez",
+    "dob": "11th July 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 52.0,
+    "height_m": 1.68,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 26,
+    "specialties": {
+      "onedayraces": 1293,
+      "gc": 1301,
+      "tt": 290,
+      "sprint": 4,
+      "climber": 2004,
+      "hills": 588
+    },
+    "profile_url": "https://procyclingstats.com/rider/lenny-martinez"
+  },
+  {
+    "name": "Jarrad Drizners",
+    "dob": "31st May 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 657,
+    "specialties": {
+      "onedayraces": 62,
+      "gc": 147,
+      "tt": 7,
+      "sprint": 48,
+      "climber": 0,
+      "hills": 65
+    },
+    "profile_url": "https://procyclingstats.com/rider/jarrad-drizners"
+  },
+  {
+    "name": "Alexey Lutsenko",
+    "dob": "7th September 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 734,
+    "specialties": {
+      "onedayraces": 2425,
+      "gc": 3241,
+      "tt": 1121,
+      "sprint": 350,
+      "climber": 2750,
+      "hills": 1702
+    },
+    "profile_url": "https://procyclingstats.com/rider/aleksey-lutsenko"
+  },
+  {
+    "name": "Quentin Pacher",
+    "dob": "6th January 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 484,
+    "specialties": {
+      "onedayraces": 922,
+      "gc": 1097,
+      "tt": 122,
+      "sprint": 285,
+      "climber": 1074,
+      "hills": 1578
+    },
+    "profile_url": "https://procyclingstats.com/rider/quentin-pacher"
+  },
+  {
+    "name": "Pavel Bittner",
+    "dob": "29th October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 47,
+    "specialties": {
+      "onedayraces": 804,
+      "gc": 219,
+      "tt": 52,
+      "sprint": 829,
+      "climber": 44,
+      "hills": 721
+    },
+    "profile_url": "https://procyclingstats.com/rider/pavel-bittner"
+  },
+  {
+    "name": "Cl\u00e9ment Davy",
+    "dob": "17th July 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 950,
+    "specialties": {
+      "onedayraces": 45,
+      "gc": 120,
+      "tt": 172,
+      "sprint": 12,
+      "climber": 0,
+      "hills": 17
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-davy"
+  },
+  {
+    "name": "Sergio Higuita",
+    "dob": "1st August 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 57.0,
+    "height_m": 1.66,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 127,
+    "specialties": {
+      "onedayraces": 1189,
+      "gc": 2465,
+      "tt": 130,
+      "sprint": 78,
+      "climber": 2619,
+      "hills": 1412
+    },
+    "profile_url": "https://procyclingstats.com/rider/sergio-higuita"
+  },
+  {
+    "name": "Magnus Sheffield",
+    "dob": "19th April 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 234,
+    "specialties": {
+      "onedayraces": 700,
+      "gc": 1305,
+      "tt": 1355,
+      "sprint": 53,
+      "climber": 580,
+      "hills": 992
+    },
+    "profile_url": "https://procyclingstats.com/rider/magnus-sheffield"
+  },
+  {
+    "name": "Ryan Gibbons",
+    "dob": "13th August 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1248,
+    "specialties": {
+      "onedayraces": 941,
+      "gc": 518,
+      "tt": 445,
+      "sprint": 540,
+      "climber": 320,
+      "hills": 1014
+    },
+    "profile_url": "https://procyclingstats.com/rider/ryan-gibbons"
+  },
+  {
+    "name": "Lorenzo Fortunato",
+    "dob": "9th May 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 57.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 73,
+    "specialties": {
+      "onedayraces": 369,
+      "gc": 1778,
+      "tt": 8,
+      "sprint": 37,
+      "climber": 1867,
+      "hills": 363
+    },
+    "profile_url": "https://procyclingstats.com/rider/lorenzo-fortunato"
+  },
+  {
+    "name": "Luca Mozzato",
+    "dob": "15th February 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 111,
+    "specialties": {
+      "onedayraces": 2373,
+      "gc": 166,
+      "tt": 0,
+      "sprint": 1344,
+      "climber": 18,
+      "hills": 871
+    },
+    "profile_url": "https://procyclingstats.com/rider/luca-mozzato"
+  },
+  {
+    "name": "Lukas Nerurkar",
+    "dob": "14th November 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 266,
+    "specialties": {
+      "onedayraces": 335,
+      "gc": 236,
+      "tt": 12,
+      "sprint": 0,
+      "climber": 204,
+      "hills": 441
+    },
+    "profile_url": "https://procyclingstats.com/rider/lukas-nerurkar"
+  },
+  {
+    "name": "Tobias Foss",
+    "dob": "25th May 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 802,
+    "specialties": {
+      "onedayraces": 135,
+      "gc": 772,
+      "tt": 1883,
+      "sprint": 13,
+      "climber": 488,
+      "hills": 321
+    },
+    "profile_url": "https://procyclingstats.com/rider/tobias-foss"
+  },
+  {
+    "name": "Harry Sweeny",
+    "dob": "9th July 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 268,
+    "specialties": {
+      "onedayraces": 202,
+      "gc": 418,
+      "tt": 285,
+      "sprint": 71,
+      "climber": 214,
+      "hills": 325
+    },
+    "profile_url": "https://procyclingstats.com/rider/harry-sweeny"
+  },
+  {
+    "name": "Kevin Geniets",
+    "dob": "9th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 558,
+    "specialties": {
+      "onedayraces": 641,
+      "gc": 468,
+      "tt": 254,
+      "sprint": 53,
+      "climber": 295,
+      "hills": 348
+    },
+    "profile_url": "https://procyclingstats.com/rider/kevin-geniets"
+  },
+  {
+    "name": "Piet Allegaert",
+    "dob": "20th January 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1594,
+    "specialties": {
+      "onedayraces": 1446,
+      "gc": 147,
+      "tt": 140,
+      "sprint": 826,
+      "climber": 19,
+      "hills": 485
+    },
+    "profile_url": "https://procyclingstats.com/rider/piet-allegaert"
+  },
+  {
+    "name": "Ethan Hayter",
+    "dob": "18th September 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 180,
+    "specialties": {
+      "onedayraces": 654,
+      "gc": 1450,
+      "tt": 1945,
+      "sprint": 308,
+      "climber": 714,
+      "hills": 1510
+    },
+    "profile_url": "https://procyclingstats.com/rider/ethan-hayter"
+  },
+  {
+    "name": "Josef \u010cern\u00fd",
+    "dob": "11th May 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 4.0,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 925,
+    "specialties": {
+      "onedayraces": 214,
+      "gc": 732,
+      "tt": 1770,
+      "sprint": 196,
+      "climber": 66,
+      "hills": 450
+    },
+    "profile_url": "https://procyclingstats.com/rider/josef-cerny"
+  },
+  {
+    "name": "Stefan K\u00fcng",
+    "dob": "16th November 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 83.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 344,
+    "specialties": {
+      "onedayraces": 2900,
+      "gc": 1694,
+      "tt": 6230,
+      "sprint": 412,
+      "climber": 552,
+      "hills": 1756
+    },
+    "profile_url": "https://procyclingstats.com/rider/stefan-kung"
+  },
+  {
+    "name": "Andrea Piccolo",
+    "dob": "23rd March 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 458,
+      "gc": 50,
+      "tt": 44,
+      "sprint": 41,
+      "climber": 184,
+      "hills": 268
+    },
+    "profile_url": "https://procyclingstats.com/rider/andrea-piccolo"
+  },
+  {
+    "name": "Matteo Trentin",
+    "dob": "2nd August 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 72,
+    "specialties": {
+      "onedayraces": 5955,
+      "gc": 1049,
+      "tt": 334,
+      "sprint": 2682,
+      "climber": 1090,
+      "hills": 4464
+    },
+    "profile_url": "https://procyclingstats.com/rider/matteo-trentin"
+  },
+  {
+    "name": "Marcel Camprub\u00ed",
+    "dob": "15th September 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 673,
+    "specialties": {
+      "onedayraces": 108,
+      "gc": 74,
+      "tt": 1,
+      "sprint": 0,
+      "climber": 76,
+      "hills": 114
+    },
+    "profile_url": "https://procyclingstats.com/rider/marcel-camprubi"
+  },
+  {
+    "name": "Harold Tejada",
+    "dob": "27th April 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 63,
+    "specialties": {
+      "onedayraces": 146,
+      "gc": 1165,
+      "tt": 366,
+      "sprint": 8,
+      "climber": 1174,
+      "hills": 876
+    },
+    "profile_url": "https://procyclingstats.com/rider/harold-tejada"
+  },
+  {
+    "name": "Jhonatan Narv\u00e1ez",
+    "dob": "4th March 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 69,
+    "specialties": {
+      "onedayraces": 1181,
+      "gc": 1713,
+      "tt": 32,
+      "sprint": 262,
+      "climber": 1075,
+      "hills": 1505
+    },
+    "profile_url": "https://procyclingstats.com/rider/jhonatan-narvaez"
+  },
+  {
+    "name": "Fabio Van Den Bossche",
+    "dob": "21st September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 619,
+    "specialties": {
+      "onedayraces": 185,
+      "gc": 199,
+      "tt": 17,
+      "sprint": 46,
+      "climber": 26,
+      "hills": 183
+    },
+    "profile_url": "https://procyclingstats.com/rider/fabio-van-den-bossche"
+  },
+  {
+    "name": "Mathis Le Berre",
+    "dob": "16th April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 463,
+    "specialties": {
+      "onedayraces": 207,
+      "gc": 168,
+      "tt": 0,
+      "sprint": 42,
+      "climber": 87,
+      "hills": 279
+    },
+    "profile_url": "https://procyclingstats.com/rider/mathis-le-berre"
+  },
+  {
+    "name": "Manuele Tarozzi",
+    "dob": "20th June 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.2,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1054,
+    "specialties": {
+      "onedayraces": 22,
+      "gc": 184,
+      "tt": 2,
+      "sprint": 72,
+      "climber": 124,
+      "hills": 127
+    },
+    "profile_url": "https://procyclingstats.com/rider/manuele-tarozzi"
+  },
+  {
+    "name": "Cl\u00e9ment Venturini",
+    "dob": "16th October 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.65,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 79,
+    "specialties": {
+      "onedayraces": 2009,
+      "gc": 709,
+      "tt": 94,
+      "sprint": 1449,
+      "climber": 403,
+      "hills": 1828
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-venturini"
+  },
+  {
+    "name": "Juan Guillermo Martinez",
+    "dob": "21st November 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 444,
+    "specialties": {
+      "onedayraces": 16,
+      "gc": 165,
+      "tt": 0,
+      "sprint": 0,
+      "climber": 121,
+      "hills": 16
+    },
+    "profile_url": "https://procyclingstats.com/rider/guillermo-juan-martinez"
+  },
+  {
+    "name": "Nikias Arndt",
+    "dob": "18th November 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.5,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1923,
+    "specialties": {
+      "onedayraces": 895,
+      "gc": 800,
+      "tt": 1018,
+      "sprint": 748,
+      "climber": 483,
+      "hills": 1656
+    },
+    "profile_url": "https://procyclingstats.com/rider/nikias-arndt"
+  },
+  {
+    "name": "Jonas Abrahamsen",
+    "dob": "20th September 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 58,
+    "specialties": {
+      "onedayraces": 1250,
+      "gc": 179,
+      "tt": 11,
+      "sprint": 321,
+      "climber": 124,
+      "hills": 597
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonas-abrahamsen"
+  },
+  {
+    "name": "Ilan Van Wilder",
+    "dob": "14th May 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 102,
+    "specialties": {
+      "onedayraces": 540,
+      "gc": 1803,
+      "tt": 1090,
+      "sprint": 26,
+      "climber": 1471,
+      "hills": 818
+    },
+    "profile_url": "https://procyclingstats.com/rider/ilan-van-wilder"
+  },
+  {
+    "name": "Phil Bauhaus",
+    "dob": "8th July 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 219,
+    "specialties": {
+      "onedayraces": 1072,
+      "gc": 291,
+      "tt": 1,
+      "sprint": 2728,
+      "climber": 0,
+      "hills": 1687
+    },
+    "profile_url": "https://procyclingstats.com/rider/phil-bauhaus"
+  },
+  {
+    "name": "Thibault Guernalec",
+    "dob": "31st July 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 580,
+    "specialties": {
+      "onedayraces": 66,
+      "gc": 507,
+      "tt": 1081,
+      "sprint": 28,
+      "climber": 46,
+      "hills": 148
+    },
+    "profile_url": "https://procyclingstats.com/rider/thibault-guernalec"
+  },
+  {
+    "name": "Marijn Van Den Berg",
+    "dob": "19th July 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 361,
+    "specialties": {
+      "onedayraces": 885,
+      "gc": 472,
+      "tt": 121,
+      "sprint": 994,
+      "climber": 182,
+      "hills": 1196
+    },
+    "profile_url": "https://procyclingstats.com/rider/marijn-van-den-berg"
+  },
+  {
+    "name": "Mathieu Van Der Poel",
+    "dob": "19th January 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 11,
+    "specialties": {
+      "onedayraces": 8836,
+      "gc": 1324,
+      "tt": 1050,
+      "sprint": 1661,
+      "climber": 1165,
+      "hills": 4534
+    },
+    "profile_url": "https://procyclingstats.com/rider/mathieu-van-der-poel"
+  },
+  {
+    "name": "Dylan Groenewegen",
+    "dob": "21st June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 33,
+    "specialties": {
+      "onedayraces": 4867,
+      "gc": 415,
+      "tt": 15,
+      "sprint": 7875,
+      "climber": 38,
+      "hills": 1067
+    },
+    "profile_url": "https://procyclingstats.com/rider/dylan-groenewegen"
+  },
+  {
+    "name": "Richard Carapaz",
+    "dob": "29th May 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 55,
+    "specialties": {
+      "onedayraces": 1345,
+      "gc": 4248,
+      "tt": 585,
+      "sprint": 92,
+      "climber": 4952,
+      "hills": 1798
+    },
+    "profile_url": "https://procyclingstats.com/rider/richard-carapaz"
+  },
+  {
+    "name": "Larry Warbasse",
+    "dob": "28th June 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 533,
+    "specialties": {
+      "onedayraces": 365,
+      "gc": 889,
+      "tt": 372,
+      "sprint": 24,
+      "climber": 566,
+      "hills": 300
+    },
+    "profile_url": "https://procyclingstats.com/rider/lawrence-warbasse"
+  },
+  {
+    "name": "L\u00e9andre Lozouet",
+    "dob": "3rd September 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 680,
+    "specialties": {
+      "onedayraces": 75,
+      "gc": 44,
+      "tt": 7,
+      "sprint": 82,
+      "climber": 2,
+      "hills": 70
+    },
+    "profile_url": "https://procyclingstats.com/rider/leandre-lozouet"
+  },
+  {
+    "name": "Juan Ayuso",
+    "dob": "16th September 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 53,
+    "specialties": {
+      "onedayraces": 1277,
+      "gc": 2225,
+      "tt": 1303,
+      "sprint": 12,
+      "climber": 2460,
+      "hills": 928
+    },
+    "profile_url": "https://procyclingstats.com/rider/juan-ayuso-pesquera"
+  },
+  {
+    "name": "Louis Vervaeke",
+    "dob": "6th October 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 516,
+    "specialties": {
+      "onedayraces": 398,
+      "gc": 579,
+      "tt": 175,
+      "sprint": 34,
+      "climber": 534,
+      "hills": 323
+    },
+    "profile_url": "https://procyclingstats.com/rider/louis-vervaeke"
+  },
+  {
+    "name": "Davide Ballerini",
+    "dob": "21st September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 164,
+    "specialties": {
+      "onedayraces": 1835,
+      "gc": 290,
+      "tt": 133,
+      "sprint": 1018,
+      "climber": 276,
+      "hills": 1674
+    },
+    "profile_url": "https://procyclingstats.com/rider/davide-ballerini"
+  },
+  {
+    "name": "David Gonz\u00e1lez",
+    "dob": "21st February 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 502,
+    "specialties": {
+      "onedayraces": 124,
+      "gc": 91,
+      "tt": 5,
+      "sprint": 221,
+      "climber": 116,
+      "hills": 527
+    },
+    "profile_url": "https://procyclingstats.com/rider/david-gonzalez-lopez"
+  },
+  {
+    "name": "Maxim Van Gils",
+    "dob": "25th November 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 231,
+    "specialties": {
+      "onedayraces": 1840,
+      "gc": 526,
+      "tt": 117,
+      "sprint": 72,
+      "climber": 1316,
+      "hills": 1275
+    },
+    "profile_url": "https://procyclingstats.com/rider/maxim-van-gils"
+  },
+  {
+    "name": "Rick Pluimers",
+    "dob": "7th December 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 269,
+    "specialties": {
+      "onedayraces": 589,
+      "gc": 172,
+      "tt": 82,
+      "sprint": 228,
+      "climber": 161,
+      "hills": 531
+    },
+    "profile_url": "https://procyclingstats.com/rider/rick-pluimers"
+  },
+  {
+    "name": "Joan Bou",
+    "dob": "16th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 794,
+    "specialties": {
+      "onedayraces": 122,
+      "gc": 406,
+      "tt": 8,
+      "sprint": 25,
+      "climber": 284,
+      "hills": 246
+    },
+    "profile_url": "https://procyclingstats.com/rider/joan-bou"
+  },
+  {
+    "name": "Javier Romo",
+    "dob": "6th January 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 175,
+    "specialties": {
+      "onedayraces": 238,
+      "gc": 801,
+      "tt": 100,
+      "sprint": 14,
+      "climber": 580,
+      "hills": 436
+    },
+    "profile_url": "https://procyclingstats.com/rider/javier-romo"
+  },
+  {
+    "name": "Anders Halland Johannessen",
+    "dob": "23rd August 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 109,
+    "specialties": {
+      "onedayraces": 164,
+      "gc": 520,
+      "tt": 31,
+      "sprint": 28,
+      "climber": 315,
+      "hills": 168
+    },
+    "profile_url": "https://procyclingstats.com/rider/anders-halland-johannessen"
+  },
+  {
+    "name": "Txomin Juaristi",
+    "dob": "20th July 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.5,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 520,
+    "specialties": {
+      "onedayraces": 76,
+      "gc": 412,
+      "tt": 301,
+      "sprint": 0,
+      "climber": 250,
+      "hills": 140
+    },
+    "profile_url": "https://procyclingstats.com/rider/txomin-juaristi"
+  },
+  {
+    "name": "Antonio Jes\u00fas Soto",
+    "dob": "24th December 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 911,
+    "specialties": {
+      "onedayraces": 243,
+      "gc": 127,
+      "tt": 40,
+      "sprint": 131,
+      "climber": 72,
+      "hills": 386
+    },
+    "profile_url": "https://procyclingstats.com/rider/antonio-soto"
+  },
+  {
+    "name": "Cyril Barthe",
+    "dob": "14th February 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 701,
+    "specialties": {
+      "onedayraces": 313,
+      "gc": 297,
+      "tt": 9,
+      "sprint": 285,
+      "climber": 103,
+      "hills": 444
+    },
+    "profile_url": "https://procyclingstats.com/rider/cyril-barthe"
+  },
+  {
+    "name": "Torstein Tr\u00e6en",
+    "dob": "16th July 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 170,
+    "specialties": {
+      "onedayraces": 125,
+      "gc": 952,
+      "tt": 17,
+      "sprint": 11,
+      "climber": 662,
+      "hills": 192
+    },
+    "profile_url": "https://procyclingstats.com/rider/torstein-traeen"
+  },
+  {
+    "name": "Vito Braet",
+    "dob": "2nd November 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 437,
+    "specialties": {
+      "onedayraces": 542,
+      "gc": 71,
+      "tt": 8,
+      "sprint": 250,
+      "climber": 76,
+      "hills": 340
+    },
+    "profile_url": "https://procyclingstats.com/rider/vito-braet"
+  },
+  {
+    "name": "Huub Artz",
+    "dob": "14th May 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 313,
+    "specialties": {
+      "onedayraces": 171,
+      "gc": 133,
+      "tt": 250,
+      "sprint": 209,
+      "climber": 99,
+      "hills": 158
+    },
+    "profile_url": "https://procyclingstats.com/rider/huub-artz"
+  },
+  {
+    "name": "Jonas Gregaard",
+    "dob": "30th July 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1049,
+    "specialties": {
+      "onedayraces": 156,
+      "gc": 526,
+      "tt": 39,
+      "sprint": 8,
+      "climber": 224,
+      "hills": 226
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonas-gregaard"
+  },
+  {
+    "name": "Alexis Renard",
+    "dob": "1st June 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 151,
+    "specialties": {
+      "onedayraces": 894,
+      "gc": 267,
+      "tt": 37,
+      "sprint": 514,
+      "climber": 32,
+      "hills": 192
+    },
+    "profile_url": "https://procyclingstats.com/rider/alexis-renard"
+  },
+  {
+    "name": "Axel Laurance",
+    "dob": "13th April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 132,
+    "specialties": {
+      "onedayraces": 571,
+      "gc": 417,
+      "tt": 42,
+      "sprint": 173,
+      "climber": 434,
+      "hills": 1204
+    },
+    "profile_url": "https://procyclingstats.com/rider/axel-laurance"
+  },
+  {
+    "name": "Arnaud D\u00e9mare",
+    "dob": "26th August 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 261,
+    "specialties": {
+      "onedayraces": 6877,
+      "gc": 1561,
+      "tt": 483,
+      "sprint": 6482,
+      "climber": 206,
+      "hills": 2650
+    },
+    "profile_url": "https://procyclingstats.com/rider/arnaud-demare"
+  },
+  {
+    "name": "Mauro Schmid",
+    "dob": "4th December 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 17,
+    "specialties": {
+      "onedayraces": 1342,
+      "gc": 1306,
+      "tt": 774,
+      "sprint": 6,
+      "climber": 1262,
+      "hills": 1368
+    },
+    "profile_url": "https://procyclingstats.com/rider/mauro-schmid"
+  },
+  {
+    "name": "Alessandro De Marchi",
+    "dob": "19th May 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1589,
+    "specialties": {
+      "onedayraces": 1064,
+      "gc": 651,
+      "tt": 519,
+      "sprint": 2,
+      "climber": 1516,
+      "hills": 836
+    },
+    "profile_url": "https://procyclingstats.com/rider/alessandro-de-marchi"
+  },
+  {
+    "name": "Valentin Paret-peintre",
+    "dob": "14th January 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 52.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 114,
+    "specialties": {
+      "onedayraces": 122,
+      "gc": 717,
+      "tt": 1,
+      "sprint": 16,
+      "climber": 963,
+      "hills": 310
+    },
+    "profile_url": "https://procyclingstats.com/rider/valentin-paret-peintre"
+  },
+  {
+    "name": "Archie Ryan",
+    "dob": "16th November 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 56.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 363,
+    "specialties": {
+      "onedayraces": 275,
+      "gc": 346,
+      "tt": 6,
+      "sprint": 0,
+      "climber": 472,
+      "hills": 287
+    },
+    "profile_url": "https://procyclingstats.com/rider/archie-ryan"
+  },
+  {
+    "name": "Thomas Gachignard",
+    "dob": "17th August 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 5.0,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 509,
+    "specialties": {
+      "onedayraces": 220,
+      "gc": 244,
+      "tt": 111,
+      "sprint": 96,
+      "climber": 46,
+      "hills": 132
+    },
+    "profile_url": "https://procyclingstats.com/rider/thomas-gachignard"
+  },
+  {
+    "name": "Davide De Pretto",
+    "dob": "19th April 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 494,
+    "specialties": {
+      "onedayraces": 468,
+      "gc": 89,
+      "tt": 0,
+      "sprint": 38,
+      "climber": 242,
+      "hills": 516
+    },
+    "profile_url": "https://procyclingstats.com/rider/davide-de-pretto"
+  },
+  {
+    "name": "Urko Berrade",
+    "dob": "28th November 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 203,
+    "specialties": {
+      "onedayraces": 189,
+      "gc": 527,
+      "tt": 210,
+      "sprint": 16,
+      "climber": 363,
+      "hills": 312
+    },
+    "profile_url": "https://procyclingstats.com/rider/urko-berrade-fernandez"
+  },
+  {
+    "name": "Alberto Bettiol",
+    "dob": "29th October 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 136,
+    "specialties": {
+      "onedayraces": 2675,
+      "gc": 1166,
+      "tt": 1152,
+      "sprint": 170,
+      "climber": 1048,
+      "hills": 2324
+    },
+    "profile_url": "https://procyclingstats.com/rider/alberto-bettiol"
+  },
+  {
+    "name": "Cl\u00e9ment Champoussin",
+    "dob": "29th May 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 84,
+    "specialties": {
+      "onedayraces": 1344,
+      "gc": 1082,
+      "tt": 87,
+      "sprint": 32,
+      "climber": 1802,
+      "hills": 1276
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-champoussin"
+  },
+  {
+    "name": "Juan Pedro L\u00f3pez",
+    "dob": "31st July 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 383,
+    "specialties": {
+      "onedayraces": 68,
+      "gc": 1100,
+      "tt": 18,
+      "sprint": 2,
+      "climber": 864,
+      "hills": 160
+    },
+    "profile_url": "https://procyclingstats.com/rider/juan-pedro-lopez"
+  },
+  {
+    "name": "Thymen Arensman",
+    "dob": "4th December 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 51,
+    "specialties": {
+      "onedayraces": 67,
+      "gc": 2215,
+      "tt": 1517,
+      "sprint": 28,
+      "climber": 1993,
+      "hills": 580
+    },
+    "profile_url": "https://procyclingstats.com/rider/thymen-arensman"
+  },
+  {
+    "name": "Rasmus Tiller",
+    "dob": "28th July 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 84.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 202,
+    "specialties": {
+      "onedayraces": 1959,
+      "gc": 286,
+      "tt": 118,
+      "sprint": 667,
+      "climber": 108,
+      "hills": 701
+    },
+    "profile_url": "https://procyclingstats.com/rider/rasmus-tiller"
+  },
+  {
+    "name": "Stian Fredheim",
+    "dob": "23rd March 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 498,
+    "specialties": {
+      "onedayraces": 451,
+      "gc": 50,
+      "tt": 1,
+      "sprint": 450,
+      "climber": 4,
+      "hills": 138
+    },
+    "profile_url": "https://procyclingstats.com/rider/stian-fredheim"
+  },
+  {
+    "name": "Dries De Bondt",
+    "dob": "4th July 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 331,
+    "specialties": {
+      "onedayraces": 1797,
+      "gc": 401,
+      "tt": 1,
+      "sprint": 1056,
+      "climber": 131,
+      "hills": 430
+    },
+    "profile_url": "https://procyclingstats.com/rider/dries-de-bondt"
+  },
+  {
+    "name": "Alessandro Verre",
+    "dob": "17th November 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 381,
+    "specialties": {
+      "onedayraces": 169,
+      "gc": 220,
+      "tt": 39,
+      "sprint": 0,
+      "climber": 220,
+      "hills": 158
+    },
+    "profile_url": "https://procyclingstats.com/rider/alessandro-verre"
+  },
+  {
+    "name": "Nils Politt",
+    "dob": "6th March 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.92,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 248,
+    "specialties": {
+      "onedayraces": 2410,
+      "gc": 1088,
+      "tt": 1352,
+      "sprint": 516,
+      "climber": 156,
+      "hills": 1481
+    },
+    "profile_url": "https://procyclingstats.com/rider/nils-politt"
+  },
+  {
+    "name": "Jonas Vingegaard",
+    "dob": "10th December 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 3,
+    "specialties": {
+      "onedayraces": 320,
+      "gc": 6306,
+      "tt": 2346,
+      "sprint": 35,
+      "climber": 5676,
+      "hills": 2126
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonas-vingegaard"
+  },
+  {
+    "name": "Stefano Oldani",
+    "dob": "10th January 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 330,
+    "specialties": {
+      "onedayraces": 797,
+      "gc": 324,
+      "tt": 36,
+      "sprint": 270,
+      "climber": 436,
+      "hills": 1308
+    },
+    "profile_url": "https://procyclingstats.com/rider/stefano-oldani"
+  },
+  {
+    "name": "Ewen Costiou",
+    "dob": "10th November 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 140,
+    "specialties": {
+      "onedayraces": 385,
+      "gc": 612,
+      "tt": 172,
+      "sprint": 24,
+      "climber": 299,
+      "hills": 346
+    },
+    "profile_url": "https://procyclingstats.com/rider/ewen-costiou"
+  },
+  {
+    "name": "Aur\u00e9lien Paret-peintre",
+    "dob": "27th February 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 181,
+    "specialties": {
+      "onedayraces": 930,
+      "gc": 1729,
+      "tt": 263,
+      "sprint": 25,
+      "climber": 1578,
+      "hills": 874
+    },
+    "profile_url": "https://procyclingstats.com/rider/aurelien-paret-peintre"
+  },
+  {
+    "name": "Alex Baudin",
+    "dob": "25th May 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 81,
+    "specialties": {
+      "onedayraces": 661,
+      "gc": 670,
+      "tt": 90,
+      "sprint": 5,
+      "climber": 692,
+      "hills": 569
+    },
+    "profile_url": "https://procyclingstats.com/rider/alex-baudin"
+  },
+  {
+    "name": "Matt\u00e9o Vercher",
+    "dob": "26th January 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 233,
+    "specialties": {
+      "onedayraces": 308,
+      "gc": 181,
+      "tt": 1,
+      "sprint": 2,
+      "climber": 220,
+      "hills": 318
+    },
+    "profile_url": "https://procyclingstats.com/rider/matheo-vercher"
+  },
+  {
+    "name": "Edoardo Zambanini",
+    "dob": "21st April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 108,
+    "specialties": {
+      "onedayraces": 559,
+      "gc": 609,
+      "tt": 26,
+      "sprint": 110,
+      "climber": 485,
+      "hills": 772
+    },
+    "profile_url": "https://procyclingstats.com/rider/edoardo-zambanini"
+  },
+  {
+    "name": "Stephen Williams",
+    "dob": "9th June 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 437,
+      "gc": 811,
+      "tt": 8,
+      "sprint": 41,
+      "climber": 426,
+      "hills": 784
+    },
+    "profile_url": "https://procyclingstats.com/rider/stephen-williams"
+  },
+  {
+    "name": "Nicol\u00f2 Buratti",
+    "dob": "7th July 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.26,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 486,
+    "specialties": {
+      "onedayraces": 185,
+      "gc": 69,
+      "tt": 36,
+      "sprint": 86,
+      "climber": 44,
+      "hills": 306
+    },
+    "profile_url": "https://procyclingstats.com/rider/nicolo-buratti"
+  },
+  {
+    "name": "Casper Van Uden",
+    "dob": "22nd July 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 312,
+    "specialties": {
+      "onedayraces": 478,
+      "gc": 122,
+      "tt": 16,
+      "sprint": 1116,
+      "climber": 22,
+      "hills": 224
+    },
+    "profile_url": "https://procyclingstats.com/rider/casper-van-uden"
+  },
+  {
+    "name": "Micha\u0142 Kwiatkowski",
+    "dob": "2nd June 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 436,
+    "specialties": {
+      "onedayraces": 4752,
+      "gc": 3745,
+      "tt": 3565,
+      "sprint": 346,
+      "climber": 3410,
+      "hills": 3612
+    },
+    "profile_url": "https://procyclingstats.com/rider/michal-kwiatkowski"
+  },
+  {
+    "name": "Filippo Ganna",
+    "dob": "25th July 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 83.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 74,
+    "specialties": {
+      "onedayraces": 1254,
+      "gc": 1086,
+      "tt": 6282,
+      "sprint": 308,
+      "climber": 312,
+      "hills": 1164
+    },
+    "profile_url": "https://procyclingstats.com/rider/filippo-ganna"
+  },
+  {
+    "name": "Michael Hepburn",
+    "dob": "17th August 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1087,
+    "specialties": {
+      "onedayraces": 200,
+      "gc": 439,
+      "tt": 1827,
+      "sprint": 38,
+      "climber": 34,
+      "hills": 119
+    },
+    "profile_url": "https://procyclingstats.com/rider/michael-hepburn"
+  },
+  {
+    "name": "Fabio Christen",
+    "dob": "29th June 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 146,
+    "specialties": {
+      "onedayraces": 675,
+      "gc": 273,
+      "tt": 41,
+      "sprint": 82,
+      "climber": 201,
+      "hills": 603
+    },
+    "profile_url": "https://procyclingstats.com/rider/fabio-christen"
+  },
+  {
+    "name": "David Gaudu",
+    "dob": "10th October 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 53.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 308,
+    "specialties": {
+      "onedayraces": 1762,
+      "gc": 3189,
+      "tt": 160,
+      "sprint": 17,
+      "climber": 4178,
+      "hills": 1358
+    },
+    "profile_url": "https://procyclingstats.com/rider/david-gaudu"
+  },
+  {
+    "name": "Embret Svestad-b\u00e5rdseng",
+    "dob": "1st September 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 245,
+    "specialties": {
+      "onedayraces": 81,
+      "gc": 336,
+      "tt": 23,
+      "sprint": 28,
+      "climber": 240,
+      "hills": 116
+    },
+    "profile_url": "https://procyclingstats.com/rider/embret-svestad-bardseng"
+  },
+  {
+    "name": "Marius Mayrhofer",
+    "dob": "18th September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 262,
+    "specialties": {
+      "onedayraces": 599,
+      "gc": 135,
+      "tt": 99,
+      "sprint": 191,
+      "climber": 45,
+      "hills": 637
+    },
+    "profile_url": "https://procyclingstats.com/rider/marius-mayrhofer"
+  },
+  {
+    "name": "Harold Mart\u00edn L\u00f3pez",
+    "dob": "3rd December 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 55.0,
+    "height_m": 1.6,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 112,
+    "specialties": {
+      "onedayraces": 54,
+      "gc": 880,
+      "tt": 15,
+      "sprint": 13,
+      "climber": 491,
+      "hills": 292
+    },
+    "profile_url": "https://procyclingstats.com/rider/harold-martin-lopez"
+  },
+  {
+    "name": "Patrick Konrad",
+    "dob": "13th October 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 675,
+    "specialties": {
+      "onedayraces": 1526,
+      "gc": 2677,
+      "tt": 458,
+      "sprint": 100,
+      "climber": 2708,
+      "hills": 1666
+    },
+    "profile_url": "https://procyclingstats.com/rider/patrick-konrad"
+  },
+  {
+    "name": "Cees Bol",
+    "dob": "27th July 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 83.0,
+    "height_m": 1.94,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 211,
+    "specialties": {
+      "onedayraces": 1015,
+      "gc": 592,
+      "tt": 308,
+      "sprint": 1326,
+      "climber": 39,
+      "hills": 930
+    },
+    "profile_url": "https://procyclingstats.com/rider/cees-bol"
+  },
+  {
+    "name": "Julian Alaphilippe",
+    "dob": "11th June 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 61,
+    "specialties": {
+      "onedayraces": 6997,
+      "gc": 2982,
+      "tt": 1457,
+      "sprint": 447,
+      "climber": 5606,
+      "hills": 5073
+    },
+    "profile_url": "https://procyclingstats.com/rider/julian-alaphilippe"
+  },
+  {
+    "name": "Filippo Zana",
+    "dob": "18th March 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 75,
+    "specialties": {
+      "onedayraces": 750,
+      "gc": 1306,
+      "tt": 73,
+      "sprint": 16,
+      "climber": 1236,
+      "hills": 638
+    },
+    "profile_url": "https://procyclingstats.com/rider/filippo-zana"
+  },
+  {
+    "name": "Luke Lamperti",
+    "dob": "31st December 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 190,
+    "specialties": {
+      "onedayraces": 667,
+      "gc": 180,
+      "tt": 112,
+      "sprint": 696,
+      "climber": 24,
+      "hills": 620
+    },
+    "profile_url": "https://procyclingstats.com/rider/luke-lamperti"
+  },
+  {
+    "name": "Nick Schultz",
+    "dob": "13th September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 689,
+    "specialties": {
+      "onedayraces": 461,
+      "gc": 857,
+      "tt": 53,
+      "sprint": 16,
+      "climber": 934,
+      "hills": 659
+    },
+    "profile_url": "https://procyclingstats.com/rider/nick-schultz"
+  },
+  {
+    "name": "Milan Fretin",
+    "dob": "19th March 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 176,
+    "specialties": {
+      "onedayraces": 1125,
+      "gc": 92,
+      "tt": 15,
+      "sprint": 1135,
+      "climber": 48,
+      "hills": 360
+    },
+    "profile_url": "https://procyclingstats.com/rider/milan-fretin"
+  },
+  {
+    "name": "Dion Smith",
+    "dob": "3rd March 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 788,
+    "specialties": {
+      "onedayraces": 1202,
+      "gc": 852,
+      "tt": 71,
+      "sprint": 376,
+      "climber": 364,
+      "hills": 1365
+    },
+    "profile_url": "https://procyclingstats.com/rider/dion-smith"
+  },
+  {
+    "name": "Martin Marcellusi",
+    "dob": "5th April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 349,
+    "specialties": {
+      "onedayraces": 409,
+      "gc": 188,
+      "tt": 3,
+      "sprint": 94,
+      "climber": 160,
+      "hills": 418
+    },
+    "profile_url": "https://procyclingstats.com/rider/martin-marcellusi"
+  },
+  {
+    "name": "Xandro Meurisse",
+    "dob": "31st January 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 267,
+    "specialties": {
+      "onedayraces": 1316,
+      "gc": 1475,
+      "tt": 148,
+      "sprint": 200,
+      "climber": 875,
+      "hills": 1091
+    },
+    "profile_url": "https://procyclingstats.com/rider/xandro-meurisse"
+  },
+  {
+    "name": "Xabier Berasategi",
+    "dob": "8th April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 0.15,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 230,
+    "specialties": {
+      "onedayraces": 283,
+      "gc": 200,
+      "tt": 0,
+      "sprint": 122,
+      "climber": 111,
+      "hills": 386
+    },
+    "profile_url": "https://procyclingstats.com/rider/xabier-berasategi-garmendia"
+  },
+  {
+    "name": "Georg Steinhauser",
+    "dob": "21st October 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 216,
+    "specialties": {
+      "onedayraces": 264,
+      "gc": 416,
+      "tt": 121,
+      "sprint": 0,
+      "climber": 586,
+      "hills": 284
+    },
+    "profile_url": "https://procyclingstats.com/rider/georg-steinhauser"
+  },
+  {
+    "name": "Mattia Cattaneo",
+    "dob": "25th October 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 420,
+    "specialties": {
+      "onedayraces": 783,
+      "gc": 1592,
+      "tt": 2263,
+      "sprint": 10,
+      "climber": 1248,
+      "hills": 746
+    },
+    "profile_url": "https://procyclingstats.com/rider/mattia-cattaneo"
+  },
+  {
+    "name": "John Degenkolb",
+    "dob": "7th January 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 82.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 779,
+    "specialties": {
+      "onedayraces": 6509,
+      "gc": 1236,
+      "tt": 297,
+      "sprint": 4636,
+      "climber": 316,
+      "hills": 3345
+    },
+    "profile_url": "https://procyclingstats.com/rider/john-degenkolb"
+  },
+  {
+    "name": "Lorenzo Germani",
+    "dob": "3rd March 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 474,
+    "specialties": {
+      "onedayraces": 128,
+      "gc": 168,
+      "tt": 131,
+      "sprint": 6,
+      "climber": 78,
+      "hills": 142
+    },
+    "profile_url": "https://procyclingstats.com/rider/lorenzo-germani"
+  },
+  {
+    "name": "Jensen Plowright",
+    "dob": "15th May 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 323,
+    "specialties": {
+      "onedayraces": 250,
+      "gc": 104,
+      "tt": 38,
+      "sprint": 686,
+      "climber": 22,
+      "hills": 229
+    },
+    "profile_url": "https://procyclingstats.com/rider/jensen-plowright"
+  },
+  {
+    "name": "Tadej Poga\u010dar",
+    "dob": "21st September 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1,
+    "specialties": {
+      "onedayraces": 9983,
+      "gc": 7344,
+      "tt": 3287,
+      "sprint": 360,
+      "climber": 9929,
+      "hills": 4418
+    },
+    "profile_url": "https://procyclingstats.com/rider/tadej-pogacar"
+  },
+  {
+    "name": "Francesco Busatto",
+    "dob": "1st November 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 314,
+    "specialties": {
+      "onedayraces": 601,
+      "gc": 93,
+      "tt": 2,
+      "sprint": 29,
+      "climber": 178,
+      "hills": 523
+    },
+    "profile_url": "https://procyclingstats.com/rider/francesco-busatto"
+  },
+  {
+    "name": "Mikel Landa",
+    "dob": "13th December 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 370,
+    "specialties": {
+      "onedayraces": 1055,
+      "gc": 6488,
+      "tt": 310,
+      "sprint": 38,
+      "climber": 7232,
+      "hills": 1211
+    },
+    "profile_url": "https://procyclingstats.com/rider/mikel-landa"
+  },
+  {
+    "name": "Kasper Asgreen",
+    "dob": "8th February 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.93,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 293,
+    "specialties": {
+      "onedayraces": 1690,
+      "gc": 856,
+      "tt": 2474,
+      "sprint": 305,
+      "climber": 504,
+      "hills": 1524
+    },
+    "profile_url": "https://procyclingstats.com/rider/kasper-asgreen"
+  },
+  {
+    "name": "Amanuel Ghebreigzabhier",
+    "dob": "17th August 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 518,
+    "specialties": {
+      "onedayraces": 536,
+      "gc": 679,
+      "tt": 268,
+      "sprint": 18,
+      "climber": 568,
+      "hills": 214
+    },
+    "profile_url": "https://procyclingstats.com/rider/amanuel-ghebreigzabhier"
+  },
+  {
+    "name": "Cedric Beullens",
+    "dob": "27th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 79.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 685,
+    "specialties": {
+      "onedayraces": 603,
+      "gc": 120,
+      "tt": 20,
+      "sprint": 291,
+      "climber": 9,
+      "hills": 160
+    },
+    "profile_url": "https://procyclingstats.com/rider/cedric-beullens"
+  },
+  {
+    "name": "Afonso Eul\u00e1lio",
+    "dob": "30th September 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 213,
+    "specialties": {
+      "onedayraces": 157,
+      "gc": 257,
+      "tt": 0,
+      "sprint": 6,
+      "climber": 253,
+      "hills": 172
+    },
+    "profile_url": "https://procyclingstats.com/rider/afonso-eulalio"
+  },
+  {
+    "name": "Ide Schelling",
+    "dob": "6th February 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1603,
+    "specialties": {
+      "onedayraces": 455,
+      "gc": 290,
+      "tt": 129,
+      "sprint": 81,
+      "climber": 243,
+      "hills": 631
+    },
+    "profile_url": "https://procyclingstats.com/rider/ide-schelling"
+  },
+  {
+    "name": "Mathieu Burgaudeau",
+    "dob": "17th November 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.68,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 607,
+    "specialties": {
+      "onedayraces": 799,
+      "gc": 538,
+      "tt": 28,
+      "sprint": 20,
+      "climber": 598,
+      "hills": 891
+    },
+    "profile_url": "https://procyclingstats.com/rider/mathieu-burgaudeau"
+  },
+  {
+    "name": "Rui Oliveira",
+    "dob": "5th September 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 449,
+    "specialties": {
+      "onedayraces": 612,
+      "gc": 166,
+      "tt": 26,
+      "sprint": 498,
+      "climber": 54,
+      "hills": 704
+    },
+    "profile_url": "https://procyclingstats.com/rider/rui-oliveira"
+  },
+  {
+    "name": "Domen Novak",
+    "dob": "12th July 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 649,
+    "specialties": {
+      "onedayraces": 81,
+      "gc": 510,
+      "tt": 28,
+      "sprint": 19,
+      "climber": 288,
+      "hills": 75
+    },
+    "profile_url": "https://procyclingstats.com/rider/domen-novak"
+  },
+  {
+    "name": "Jonathan Milan",
+    "dob": "1st October 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 84.0,
+    "height_m": 1.94,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 38,
+    "specialties": {
+      "onedayraces": 781,
+      "gc": 155,
+      "tt": 419,
+      "sprint": 2128,
+      "climber": 62,
+      "hills": 1293
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonathan-milan"
+  },
+  {
+    "name": "Dylan Van Baarle",
+    "dob": "21st May 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 404,
+    "specialties": {
+      "onedayraces": 2714,
+      "gc": 1510,
+      "tt": 1346,
+      "sprint": 232,
+      "climber": 534,
+      "hills": 1524
+    },
+    "profile_url": "https://procyclingstats.com/rider/dylan-van-baarle"
+  },
+  {
+    "name": "Cian Uijtdebroeks",
+    "dob": "28th February 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 56,
+    "specialties": {
+      "onedayraces": 258,
+      "gc": 1302,
+      "tt": 88,
+      "sprint": 0,
+      "climber": 1234,
+      "hills": 272
+    },
+    "profile_url": "https://procyclingstats.com/rider/cian-uijtdebroeks"
+  },
+  {
+    "name": "Gijs Leemreize",
+    "dob": "23rd October 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 608,
+    "specialties": {
+      "onedayraces": 52,
+      "gc": 332,
+      "tt": 40,
+      "sprint": 0,
+      "climber": 496,
+      "hills": 186
+    },
+    "profile_url": "https://procyclingstats.com/rider/gijs-leemreize"
+  },
+  {
+    "name": "Rui Costa",
+    "dob": "5th October 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 471,
+    "specialties": {
+      "onedayraces": 4488,
+      "gc": 6239,
+      "tt": 1625,
+      "sprint": 224,
+      "climber": 5656,
+      "hills": 2810
+    },
+    "profile_url": "https://procyclingstats.com/rider/rui-costa"
+  },
+  {
+    "name": "Ben Turner",
+    "dob": "28th May 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.94,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 107,
+    "specialties": {
+      "onedayraces": 525,
+      "gc": 332,
+      "tt": 268,
+      "sprint": 310,
+      "climber": 128,
+      "hills": 572
+    },
+    "profile_url": "https://procyclingstats.com/rider/ben-turner"
+  },
+  {
+    "name": "Tim Van Dijke",
+    "dob": "15th March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 189,
+    "specialties": {
+      "onedayraces": 575,
+      "gc": 149,
+      "tt": 357,
+      "sprint": 291,
+      "climber": 92,
+      "hills": 406
+    },
+    "profile_url": "https://procyclingstats.com/rider/tim-van-dijke"
+  },
+  {
+    "name": "Mauri Vansevenant",
+    "dob": "1st June 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 239,
+    "specialties": {
+      "onedayraces": 892,
+      "gc": 890,
+      "tt": 65,
+      "sprint": 0,
+      "climber": 1066,
+      "hills": 674
+    },
+    "profile_url": "https://procyclingstats.com/rider/mauri-vansevenant"
+  },
+  {
+    "name": "R\u00e9mi Cavagna",
+    "dob": "10th August 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 411,
+    "specialties": {
+      "onedayraces": 474,
+      "gc": 1042,
+      "tt": 3034,
+      "sprint": 194,
+      "climber": 310,
+      "hills": 762
+    },
+    "profile_url": "https://procyclingstats.com/rider/remi-cavagna"
+  },
+  {
+    "name": "Iv\u00e1n Garc\u00eda Cortina",
+    "dob": "20th November 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 77.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 304,
+    "specialties": {
+      "onedayraces": 1949,
+      "gc": 363,
+      "tt": 110,
+      "sprint": 893,
+      "climber": 306,
+      "hills": 1617
+    },
+    "profile_url": "https://procyclingstats.com/rider/ivan-garcia-cortina"
+  },
+  {
+    "name": "Maikel Zijlaard",
+    "dob": "1st June 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 583,
+    "specialties": {
+      "onedayraces": 181,
+      "gc": 66,
+      "tt": 649,
+      "sprint": 515,
+      "climber": 0,
+      "hills": 49
+    },
+    "profile_url": "https://procyclingstats.com/rider/maikel-zijlaard"
+  },
+  {
+    "name": "Romain Gr\u00e9goire",
+    "dob": "21st January 2003",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 18,
+    "specialties": {
+      "onedayraces": 1850,
+      "gc": 1012,
+      "tt": 302,
+      "sprint": 71,
+      "climber": 1396,
+      "hills": 1744
+    },
+    "profile_url": "https://procyclingstats.com/rider/romain-gregoire"
+  },
+  {
+    "name": "Pascal Ackermann",
+    "dob": "17th January 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 163,
+    "specialties": {
+      "onedayraces": 3738,
+      "gc": 380,
+      "tt": 68,
+      "sprint": 3886,
+      "climber": 134,
+      "hills": 2017
+    },
+    "profile_url": "https://procyclingstats.com/rider/pascal-ackermann"
+  },
+  {
+    "name": "Benjamin Thomas",
+    "dob": "12th September 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 194,
+    "specialties": {
+      "onedayraces": 570,
+      "gc": 941,
+      "tt": 1173,
+      "sprint": 250,
+      "climber": 230,
+      "hills": 1062
+    },
+    "profile_url": "https://procyclingstats.com/rider/benjamin-thomas-2"
+  },
+  {
+    "name": "Jes\u00fas Herrada",
+    "dob": "26th July 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 225,
+    "specialties": {
+      "onedayraces": 2187,
+      "gc": 2448,
+      "tt": 946,
+      "sprint": 408,
+      "climber": 2198,
+      "hills": 1460
+    },
+    "profile_url": "https://procyclingstats.com/rider/jesus-herrada-lopez"
+  },
+  {
+    "name": "Cl\u00e9ment Russo",
+    "dob": "20th January 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 460,
+    "specialties": {
+      "onedayraces": 580,
+      "gc": 281,
+      "tt": 68,
+      "sprint": 353,
+      "climber": 5,
+      "hills": 313
+    },
+    "profile_url": "https://procyclingstats.com/rider/clement-russo"
+  },
+  {
+    "name": "Elia Viviani",
+    "dob": "7th February 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 506,
+    "specialties": {
+      "onedayraces": 5124,
+      "gc": 1018,
+      "tt": 160,
+      "sprint": 6843,
+      "climber": 276,
+      "hills": 2721
+    },
+    "profile_url": "https://procyclingstats.com/rider/elia-viviani"
+  },
+  {
+    "name": "Jordi Meeus",
+    "dob": "1st July 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 31,
+    "specialties": {
+      "onedayraces": 2643,
+      "gc": 116,
+      "tt": 61,
+      "sprint": 2131,
+      "climber": 32,
+      "hills": 1096
+    },
+    "profile_url": "https://procyclingstats.com/rider/jordi-meeus"
+  },
+  {
+    "name": "Cristi\u00e1n Rodr\u00edguez",
+    "dob": "3rd March 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 59.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 128,
+    "specialties": {
+      "onedayraces": 467,
+      "gc": 1570,
+      "tt": 110,
+      "sprint": 2,
+      "climber": 1257,
+      "hills": 468
+    },
+    "profile_url": "https://procyclingstats.com/rider/cristian-rodriguez"
+  },
+  {
+    "name": "Andrea Vendrame",
+    "dob": "20th July 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.68,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 91,
+    "specialties": {
+      "onedayraces": 2016,
+      "gc": 581,
+      "tt": 130,
+      "sprint": 571,
+      "climber": 1494,
+      "hills": 2412
+    },
+    "profile_url": "https://procyclingstats.com/rider/andrea-vendrame"
+  },
+  {
+    "name": "Lilian Calmejane",
+    "dob": "6th December 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 1061,
+      "gc": 1317,
+      "tt": 188,
+      "sprint": 202,
+      "climber": 1063,
+      "hills": 1059
+    },
+    "profile_url": "https://procyclingstats.com/rider/lilian-calmejane"
+  },
+  {
+    "name": "Derek Gee-west",
+    "dob": "3rd August 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 119,
+    "specialties": {
+      "onedayraces": 141,
+      "gc": 1137,
+      "tt": 684,
+      "sprint": 70,
+      "climber": 1100,
+      "hills": 480
+    },
+    "profile_url": "https://procyclingstats.com/rider/derek-gee"
+  },
+  {
+    "name": "Romain Bardet",
+    "dob": "9th November 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 461,
+    "specialties": {
+      "onedayraces": 3401,
+      "gc": 6495,
+      "tt": 401,
+      "sprint": 75,
+      "climber": 8634,
+      "hills": 2079
+    },
+    "profile_url": "https://procyclingstats.com/rider/romain-bardet"
+  },
+  {
+    "name": "R\u00e9my Rochas",
+    "dob": "18th May 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 51.0,
+    "height_m": 1.64,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 470,
+    "specialties": {
+      "onedayraces": 278,
+      "gc": 782,
+      "tt": 88,
+      "sprint": 29,
+      "climber": 516,
+      "hills": 620
+    },
+    "profile_url": "https://procyclingstats.com/rider/remy-rochas"
+  },
+  {
+    "name": "Ramses Debruyne",
+    "dob": "31st August 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 66.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 450,
+    "specialties": {
+      "onedayraces": 148,
+      "gc": 52,
+      "tt": 17,
+      "sprint": 48,
+      "climber": 190,
+      "hills": 144
+    },
+    "profile_url": "https://procyclingstats.com/rider/ramses-debruyne"
+  },
+  {
+    "name": "Julien Bernard",
+    "dob": "17th March 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 435,
+    "specialties": {
+      "onedayraces": 284,
+      "gc": 817,
+      "tt": 43,
+      "sprint": 22,
+      "climber": 424,
+      "hills": 314
+    },
+    "profile_url": "https://procyclingstats.com/rider/julien-bernard"
+  },
+  {
+    "name": "Mike Teunissen",
+    "dob": "25th August 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 73.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 118,
+    "specialties": {
+      "onedayraces": 2640,
+      "gc": 1488,
+      "tt": 338,
+      "sprint": 1374,
+      "climber": 206,
+      "hills": 1600
+    },
+    "profile_url": "https://procyclingstats.com/rider/mike-teunissen"
+  },
+  {
+    "name": "Sam Oomen",
+    "dob": "15th August 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 65.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 537,
+    "specialties": {
+      "onedayraces": 506,
+      "gc": 1945,
+      "tt": 197,
+      "sprint": 148,
+      "climber": 1337,
+      "hills": 698
+    },
+    "profile_url": "https://procyclingstats.com/rider/sam-oomen"
+  },
+  {
+    "name": "Alessio Martinelli",
+    "dob": "26th April 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 984,
+    "specialties": {
+      "onedayraces": 146,
+      "gc": 61,
+      "tt": 32,
+      "sprint": 0,
+      "climber": 152,
+      "hills": 128
+    },
+    "profile_url": "https://procyclingstats.com/rider/alessio-martinelli"
+  },
+  {
+    "name": "Brandon Mcnulty",
+    "dob": "2nd April 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 20,
+    "specialties": {
+      "onedayraces": 1407,
+      "gc": 2963,
+      "tt": 2475,
+      "sprint": 60,
+      "climber": 2345,
+      "hills": 1274
+    },
+    "profile_url": "https://procyclingstats.com/rider/brandon-mcnulty"
+  },
+  {
+    "name": "Joshua Tarling",
+    "dob": "15th February 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.94,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 198,
+    "specialties": {
+      "onedayraces": 171,
+      "gc": 176,
+      "tt": 1766,
+      "sprint": 41,
+      "climber": 28,
+      "hills": 30
+    },
+    "profile_url": "https://procyclingstats.com/rider/joshua-tarling"
+  },
+  {
+    "name": "Florian Lipowitz",
+    "dob": "21st September 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 16,
+    "specialties": {
+      "onedayraces": 81,
+      "gc": 1870,
+      "tt": 663,
+      "sprint": 4,
+      "climber": 1630,
+      "hills": 404
+    },
+    "profile_url": "https://procyclingstats.com/rider/florian-lipowitz"
+  },
+  {
+    "name": "Stefan Bissegger",
+    "dob": "13th September 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 373,
+    "specialties": {
+      "onedayraces": 586,
+      "gc": 262,
+      "tt": 2539,
+      "sprint": 228,
+      "climber": 18,
+      "hills": 407
+    },
+    "profile_url": "https://procyclingstats.com/rider/stefan-bissegger"
+  },
+  {
+    "name": "Alexander Kristoff",
+    "dob": "5th July 1987",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.83,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 358,
+    "specialties": {
+      "onedayraces": 11324,
+      "gc": 2254,
+      "tt": 301,
+      "sprint": 8098,
+      "climber": 482,
+      "hills": 5356
+    },
+    "profile_url": "https://procyclingstats.com/rider/alexander-kristoff"
+  },
+  {
+    "name": "Filippo Magli",
+    "dob": "29th April 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 20.22,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 384,
+    "specialties": {
+      "onedayraces": 316,
+      "gc": 178,
+      "tt": 0,
+      "sprint": 73,
+      "climber": 53,
+      "hills": 346
+    },
+    "profile_url": "https://procyclingstats.com/rider/filippo-magli2"
+  },
+  {
+    "name": "Michel Ries",
+    "dob": "11th March 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 1120,
+    "specialties": {
+      "onedayraces": 141,
+      "gc": 236,
+      "tt": 103,
+      "sprint": 0,
+      "climber": 177,
+      "hills": 14
+    },
+    "profile_url": "https://procyclingstats.com/rider/michel-ries"
+  },
+  {
+    "name": "Edward Planckaert",
+    "dob": "1st February 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 71.0,
+    "height_m": 1.78,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 366,
+    "specialties": {
+      "onedayraces": 590,
+      "gc": 242,
+      "tt": 18,
+      "sprint": 374,
+      "climber": 86,
+      "hills": 488
+    },
+    "profile_url": "https://procyclingstats.com/rider/edward-planckaert"
+  },
+  {
+    "name": "Pepijn Reinderink",
+    "dob": "4th May 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 542,
+    "specialties": {
+      "onedayraces": 97,
+      "gc": 64,
+      "tt": 42,
+      "sprint": 15,
+      "climber": 96,
+      "hills": 98
+    },
+    "profile_url": "https://procyclingstats.com/rider/pepijn-reinderink"
+  },
+  {
+    "name": "Nairo Quintana",
+    "dob": "4th February 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.67,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 227,
+    "specialties": {
+      "onedayraces": 849,
+      "gc": 9659,
+      "tt": 1274,
+      "sprint": 71,
+      "climber": 8084,
+      "hills": 2015
+    },
+    "profile_url": "https://procyclingstats.com/rider/nairo-quintana"
+  },
+  {
+    "name": "Jonas Rickaert",
+    "dob": "7th February 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 88.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 735,
+    "specialties": {
+      "onedayraces": 820,
+      "gc": 248,
+      "tt": 128,
+      "sprint": 674,
+      "climber": 10,
+      "hills": 90
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonas-rickaert"
+  },
+  {
+    "name": "Jasper Philipsen",
+    "dob": "2nd March 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 75.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 13,
+    "specialties": {
+      "onedayraces": 5904,
+      "gc": 649,
+      "tt": 155,
+      "sprint": 6401,
+      "climber": 192,
+      "hills": 2571
+    },
+    "profile_url": "https://procyclingstats.com/rider/jasper-philipsen"
+  },
+  {
+    "name": "Nicola Conci",
+    "dob": "5th January 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.85,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 433,
+    "specialties": {
+      "onedayraces": 360,
+      "gc": 650,
+      "tt": 9,
+      "sprint": 9,
+      "climber": 602,
+      "hills": 547
+    },
+    "profile_url": "https://procyclingstats.com/rider/nicola-conci"
+  },
+  {
+    "name": "James Knox",
+    "dob": "4th November 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 589,
+    "specialties": {
+      "onedayraces": 142,
+      "gc": 1267,
+      "tt": 52,
+      "sprint": 10,
+      "climber": 818,
+      "hills": 356
+    },
+    "profile_url": "https://procyclingstats.com/rider/james-knox"
+  },
+  {
+    "name": "Johannes Staune-mittet",
+    "dob": "18th January 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.82,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 407,
+    "specialties": {
+      "onedayraces": 70,
+      "gc": 445,
+      "tt": 73,
+      "sprint": 12,
+      "climber": 292,
+      "hills": 133
+    },
+    "profile_url": "https://procyclingstats.com/rider/johannes-staune-mittet"
+  },
+  {
+    "name": "George Bennett",
+    "dob": "7th April 1990",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 58.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 405,
+    "specialties": {
+      "onedayraces": 899,
+      "gc": 3605,
+      "tt": 276,
+      "sprint": 56,
+      "climber": 3026,
+      "hills": 1121
+    },
+    "profile_url": "https://procyclingstats.com/rider/george-bennett"
+  },
+  {
+    "name": "Jon Aberasturi",
+    "dob": "28th March 1989",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.73,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 749,
+    "specialties": {
+      "onedayraces": 811,
+      "gc": 221,
+      "tt": 157,
+      "sprint": 2073,
+      "climber": 79,
+      "hills": 992
+    },
+    "profile_url": "https://procyclingstats.com/rider/jon-aberasturi"
+  },
+  {
+    "name": "Damien Touz\u00e9",
+    "dob": "7th July 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.74,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 742,
+    "specialties": {
+      "onedayraces": 731,
+      "gc": 382,
+      "tt": 89,
+      "sprint": 304,
+      "climber": 40,
+      "hills": 405
+    },
+    "profile_url": "https://procyclingstats.com/rider/damien-touze"
+  },
+  {
+    "name": "Dylan Teuns",
+    "dob": "1st March 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 341,
+    "specialties": {
+      "onedayraces": 2215,
+      "gc": 2860,
+      "tt": 601,
+      "sprint": 354,
+      "climber": 2847,
+      "hills": 2339
+    },
+    "profile_url": "https://procyclingstats.com/rider/dylan-teuns"
+  },
+  {
+    "name": "Kevin Vermaerke",
+    "dob": "16th October 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 204,
+    "specialties": {
+      "onedayraces": 613,
+      "gc": 797,
+      "tt": 29,
+      "sprint": 16,
+      "climber": 664,
+      "hills": 582
+    },
+    "profile_url": "https://procyclingstats.com/rider/kevin-vermaerke"
+  },
+  {
+    "name": "Abel Balderstone",
+    "dob": "7th July 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 61.0,
+    "height_m": 1.79,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 223,
+    "specialties": {
+      "onedayraces": 25,
+      "gc": 365,
+      "tt": 123,
+      "sprint": 0,
+      "climber": 250,
+      "hills": 98
+    },
+    "profile_url": "https://procyclingstats.com/rider/abel-balderstone-roumens"
+  },
+  {
+    "name": "David Dekker",
+    "dob": "2nd February 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 80.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 406,
+    "specialties": {
+      "onedayraces": 318,
+      "gc": 97,
+      "tt": 93,
+      "sprint": 630,
+      "climber": 17,
+      "hills": 198
+    },
+    "profile_url": "https://procyclingstats.com/rider/david-dekker"
+  },
+  {
+    "name": "Simone Consonni",
+    "dob": "12th September 1994",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.65,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 824,
+    "specialties": {
+      "onedayraces": 1598,
+      "gc": 384,
+      "tt": 32,
+      "sprint": 1324,
+      "climber": 82,
+      "hills": 1454
+    },
+    "profile_url": "https://procyclingstats.com/rider/simone-consonni"
+  },
+  {
+    "name": "Lennert Van Eetvelt",
+    "dob": "17th July 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 286,
+    "specialties": {
+      "onedayraces": 631,
+      "gc": 1104,
+      "tt": 103,
+      "sprint": 12,
+      "climber": 1202,
+      "hills": 498
+    },
+    "profile_url": "https://procyclingstats.com/rider/lennert-van-eetvelt"
+  },
+  {
+    "name": "Simon Geschke",
+    "dob": "13th March 1986",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.71,
+    "current_team": "XDS Astana Team",
+    "specialties": {
+      "onedayraces": 1572,
+      "gc": 1563,
+      "tt": 668,
+      "sprint": 167,
+      "climber": 1721,
+      "hills": 1041
+    },
+    "profile_url": "https://procyclingstats.com/rider/simon-geschke"
+  },
+  {
+    "name": "Marc Soler",
+    "dob": "22nd November 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 143,
+    "specialties": {
+      "onedayraces": 300,
+      "gc": 2800,
+      "tt": 776,
+      "sprint": 24,
+      "climber": 3212,
+      "hills": 1334
+    },
+    "profile_url": "https://procyclingstats.com/rider/marc-soler"
+  },
+  {
+    "name": "Finn Fisher-black",
+    "dob": "21st December 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.89,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 369,
+    "specialties": {
+      "onedayraces": 200,
+      "gc": 806,
+      "tt": 635,
+      "sprint": 30,
+      "climber": 462,
+      "hills": 895
+    },
+    "profile_url": "https://procyclingstats.com/rider/finn-fisher-black"
+  },
+  {
+    "name": "Tim Merlier",
+    "dob": "30th October 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 41,
+    "specialties": {
+      "onedayraces": 4515,
+      "gc": 144,
+      "tt": 3,
+      "sprint": 6014,
+      "climber": 4,
+      "hills": 481
+    },
+    "profile_url": "https://procyclingstats.com/rider/tim-merlier"
+  },
+  {
+    "name": "Lorenzo Milesi",
+    "dob": "19th March 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.8,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 259,
+    "specialties": {
+      "onedayraces": 222,
+      "gc": 131,
+      "tt": 412,
+      "sprint": 36,
+      "climber": 66,
+      "hills": 220
+    },
+    "profile_url": "https://procyclingstats.com/rider/lorenzo-milesi"
+  },
+  {
+    "name": "Victor Langellotti",
+    "dob": "7th June 1995",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.77,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 141,
+    "specialties": {
+      "onedayraces": 142,
+      "gc": 463,
+      "tt": 28,
+      "sprint": 1,
+      "climber": 390,
+      "hills": 384
+    },
+    "profile_url": "https://procyclingstats.com/rider/victor-langellotti"
+  },
+  {
+    "name": "Toms Skuji\u0146\u0161",
+    "dob": "15th June 1991",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 72.0,
+    "height_m": 1.81,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 115,
+    "specialties": {
+      "onedayraces": 3053,
+      "gc": 1103,
+      "tt": 397,
+      "sprint": 197,
+      "climber": 1532,
+      "hills": 1348
+    },
+    "profile_url": "https://procyclingstats.com/rider/toms-skujins"
+  },
+  {
+    "name": "Sergio Geovani Chumil",
+    "dob": "8th October 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 62.0,
+    "height_m": 1.67,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 401,
+    "specialties": {
+      "onedayraces": 161,
+      "gc": 145,
+      "tt": 115,
+      "sprint": 105,
+      "climber": 266,
+      "hills": 172
+    },
+    "profile_url": "https://procyclingstats.com/rider/sergio-geovani-chumil-gonzalez"
+  },
+  {
+    "name": "Christian Scaroni",
+    "dob": "16th October 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 63.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 12,
+    "specialties": {
+      "onedayraces": 1865,
+      "gc": 687,
+      "tt": 23,
+      "sprint": 43,
+      "climber": 1302,
+      "hills": 1070
+    },
+    "profile_url": "https://procyclingstats.com/rider/christian-scaroni"
+  },
+  {
+    "name": "Eddie Dunbar",
+    "dob": "1st September 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 57.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 347,
+    "specialties": {
+      "onedayraces": 347,
+      "gc": 1553,
+      "tt": 301,
+      "sprint": 24,
+      "climber": 1186,
+      "hills": 616
+    },
+    "profile_url": "https://procyclingstats.com/rider/edward-irl-dunbar"
+  },
+  {
+    "name": "Mikkel Bjerg",
+    "dob": "3rd November 1998",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 78.0,
+    "height_m": 1.91,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 535,
+    "specialties": {
+      "onedayraces": 530,
+      "gc": 457,
+      "tt": 2364,
+      "sprint": 132,
+      "climber": 116,
+      "hills": 322
+    },
+    "profile_url": "https://procyclingstats.com/rider/mikkel-bjerg"
+  },
+  {
+    "name": "Ben Tulett",
+    "dob": "26th August 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 56.0,
+    "height_m": 1.69,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 83,
+    "specialties": {
+      "onedayraces": 828,
+      "gc": 901,
+      "tt": 485,
+      "sprint": 8,
+      "climber": 798,
+      "hills": 706
+    },
+    "profile_url": "https://procyclingstats.com/rider/ben-tulett"
+  },
+  {
+    "name": "Amaury Capiot",
+    "dob": "25th June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 69.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 328,
+    "specialties": {
+      "onedayraces": 2145,
+      "gc": 306,
+      "tt": 58,
+      "sprint": 1424,
+      "climber": 128,
+      "hills": 869
+    },
+    "profile_url": "https://procyclingstats.com/rider/amaury-capiot"
+  },
+  {
+    "name": "Felix Gro\u00dfschartner",
+    "dob": "23rd December 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 98,
+    "specialties": {
+      "onedayraces": 620,
+      "gc": 2893,
+      "tt": 1481,
+      "sprint": 229,
+      "climber": 1763,
+      "hills": 1592
+    },
+    "profile_url": "https://procyclingstats.com/rider/felix-grossschartner"
+  },
+  {
+    "name": "Tord Gudmestad",
+    "dob": "8th May 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 82.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 456,
+    "specialties": {
+      "onedayraces": 379,
+      "gc": 48,
+      "tt": 9,
+      "sprint": 521,
+      "climber": 0,
+      "hills": 112
+    },
+    "profile_url": "https://procyclingstats.com/rider/tord-gudmestad"
+  },
+  {
+    "name": "Paul Lapeira",
+    "dob": "25th May 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 62,
+    "specialties": {
+      "onedayraces": 1089,
+      "gc": 297,
+      "tt": 116,
+      "sprint": 168,
+      "climber": 268,
+      "hills": 732
+    },
+    "profile_url": "https://procyclingstats.com/rider/paul-lapeira"
+  },
+  {
+    "name": "Max Kanter",
+    "dob": "22nd October 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 70,
+    "specialties": {
+      "onedayraces": 1307,
+      "gc": 248,
+      "tt": 32,
+      "sprint": 1503,
+      "climber": 124,
+      "hills": 1193
+    },
+    "profile_url": "https://procyclingstats.com/rider/max-kanter"
+  },
+  {
+    "name": "Edoardo Affini",
+    "dob": "24th June 1996",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 85.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 391,
+    "specialties": {
+      "onedayraces": 177,
+      "gc": 309,
+      "tt": 2303,
+      "sprint": 212,
+      "climber": 15,
+      "hills": 140
+    },
+    "profile_url": "https://procyclingstats.com/rider/edoardo-affini"
+  },
+  {
+    "name": "Paul Magnier",
+    "dob": "14th April 2004",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 14,
+    "specialties": {
+      "onedayraces": 1323,
+      "gc": 62,
+      "tt": 16,
+      "sprint": 1132,
+      "climber": 113,
+      "hills": 1016
+    },
+    "profile_url": "https://procyclingstats.com/rider/paul-magnier"
+  },
+  {
+    "name": "Enrico Zanoncello",
+    "dob": "2nd August 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.7,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 273,
+    "specialties": {
+      "onedayraces": 170,
+      "gc": 229,
+      "tt": 0,
+      "sprint": 1149,
+      "climber": 20,
+      "hills": 378
+    },
+    "profile_url": "https://procyclingstats.com/rider/enrico-zanoncello"
+  },
+  {
+    "name": "Junior Lecerf",
+    "dob": "15th October 2002",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 54.0,
+    "height_m": 1.69,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 134,
+    "specialties": {
+      "onedayraces": 94,
+      "gc": 749,
+      "tt": 62,
+      "sprint": 10,
+      "climber": 673,
+      "hills": 386
+    },
+    "profile_url": "https://procyclingstats.com/rider/junior-lecerf"
+  },
+  {
+    "name": "Christophe Laporte",
+    "dob": "11th December 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 76.0,
+    "height_m": 1.91,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 50,
+    "specialties": {
+      "onedayraces": 4815,
+      "gc": 1055,
+      "tt": 989,
+      "sprint": 2439,
+      "climber": 389,
+      "hills": 2016
+    },
+    "profile_url": "https://procyclingstats.com/rider/christophe-laporte"
+  },
+  {
+    "name": "Luca Vergallito",
+    "dob": "14th September 1997",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 666,
+    "specialties": {
+      "onedayraces": 45,
+      "gc": 309,
+      "tt": 12,
+      "sprint": 0,
+      "climber": 251,
+      "hills": 81
+    },
+    "profile_url": "https://procyclingstats.com/rider/luca-vergallito"
+  },
+  {
+    "name": "Damien Howson",
+    "dob": "13th August 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 613,
+    "specialties": {
+      "onedayraces": 269,
+      "gc": 1743,
+      "tt": 653,
+      "sprint": 164,
+      "climber": 762,
+      "hills": 498
+    },
+    "profile_url": "https://procyclingstats.com/rider/damien-howson"
+  },
+  {
+    "name": "Henok Mulubrhan",
+    "dob": "11th November 1999",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 60.0,
+    "height_m": 1.76,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 117,
+    "specialties": {
+      "onedayraces": 788,
+      "gc": 1034,
+      "tt": 250,
+      "sprint": 620,
+      "climber": 430,
+      "hills": 876
+    },
+    "profile_url": "https://procyclingstats.com/rider/henok-mulubrhan"
+  },
+  {
+    "name": "Jack Haig",
+    "dob": "6th September 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.9,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 553,
+    "specialties": {
+      "onedayraces": 702,
+      "gc": 3058,
+      "tt": 316,
+      "sprint": 34,
+      "climber": 2528,
+      "hills": 1084
+    },
+    "profile_url": "https://procyclingstats.com/rider/jack-haig"
+  },
+  {
+    "name": "Ethan Vernon",
+    "dob": "26th August 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 74.0,
+    "height_m": 1.88,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 87,
+    "specialties": {
+      "onedayraces": 419,
+      "gc": 137,
+      "tt": 629,
+      "sprint": 1086,
+      "climber": 74,
+      "hills": 995
+    },
+    "profile_url": "https://procyclingstats.com/rider/ethan-vernon"
+  },
+  {
+    "name": "Kim Heiduk",
+    "dob": "3rd March 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 425,
+    "specialties": {
+      "onedayraces": 162,
+      "gc": 202,
+      "tt": 75,
+      "sprint": 176,
+      "climber": 20,
+      "hills": 214
+    },
+    "profile_url": "https://procyclingstats.com/rider/kim-heiduk"
+  },
+  {
+    "name": "Jonathan Lastra",
+    "dob": "3rd June 1993",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.72,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 663,
+    "specialties": {
+      "onedayraces": 480,
+      "gc": 820,
+      "tt": 11,
+      "sprint": 120,
+      "climber": 651,
+      "hills": 640
+    },
+    "profile_url": "https://procyclingstats.com/rider/jonathan-lastra"
+  },
+  {
+    "name": "Biniam Girmay",
+    "dob": "2nd April 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 70.0,
+    "height_m": 1.84,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 40,
+    "specialties": {
+      "onedayraces": 3459,
+      "gc": 121,
+      "tt": 112,
+      "sprint": 1542,
+      "climber": 272,
+      "hills": 2179
+    },
+    "profile_url": "https://procyclingstats.com/rider/biniam-girmay"
+  },
+  {
+    "name": "Guillermo Thomas Silva",
+    "dob": "30th December 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 64.0,
+    "height_m": 1.75,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 71,
+    "specialties": {
+      "onedayraces": 536,
+      "gc": 449,
+      "tt": 115,
+      "sprint": 144,
+      "climber": 147,
+      "hills": 676
+    },
+    "profile_url": "https://procyclingstats.com/rider/guillermo-thomas-silva-coussan"
+  },
+  {
+    "name": "Sean Quinn",
+    "dob": "10th May 2000",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 67.0,
+    "height_m": 1.87,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 804,
+    "specialties": {
+      "onedayraces": 97,
+      "gc": 303,
+      "tt": 98,
+      "sprint": 7,
+      "climber": 300,
+      "hills": 266
+    },
+    "profile_url": "https://procyclingstats.com/rider/sean-quinn"
+  },
+  {
+    "name": "Martin Tj\u00f8tta",
+    "dob": "27th March 2001",
+    "age": null,
+    "nationality": "",
+    "weight_kg": null,
+    "height_m": 0.35,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 350,
+    "specialties": {
+      "onedayraces": 56,
+      "gc": 184,
+      "tt": 0,
+      "sprint": 6,
+      "climber": 90,
+      "hills": 114
+    },
+    "profile_url": "https://procyclingstats.com/rider/martin-tjotta"
+  },
+  {
+    "name": "Carlos Verona",
+    "dob": "4th November 1992",
+    "age": null,
+    "nationality": "",
+    "weight_kg": 68.0,
+    "height_m": 1.86,
+    "current_team": "XDS Astana Team",
+    "pcs_ranking": 353,
+    "specialties": {
+      "onedayraces": 476,
+      "gc": 1521,
+      "tt": 21,
+      "sprint": 6,
+      "climber": 1318,
+      "hills": 384
+    },
+    "profile_url": "https://procyclingstats.com/rider/carlos-verona"
+  }
+]

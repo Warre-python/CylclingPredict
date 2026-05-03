@@ -3,10 +3,11 @@ import torch
 import torch.nn as nn
 import numpy as np
 import pandas as pd
+import argparse
+import os
+import pickle
 from torch.utils.data import Dataset, DataLoader
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from sklearn.model_selection import train_test_split
-import pickle
 from scraper import Startlist, Stage, Race
 
 # ── Wielermanager scoring ──────────────────────────────────────────────────────
@@ -18,507 +19,209 @@ POINTS_MAP = {
 
 FEATURE_COLS = [
     "stage_type",
-    "distance_scaled",
-    "stage",
-    "rider_avg_points",
-    "rider_type_avg",
-    "rider_type_top3_rate",
-    "rider_recent_form",
-    "is_stage_type_0",
-    "is_stage_type_1", 
-    "is_stage_type_2",
-    "is_stage_type_3",
-    "is_stage_type_4",
+    "distance_scaled", "vertical_meters_scaled", "temperature_scaled", "stage_scaled",
+    "rider_avg_points_scaled", "rider_type_avg_scaled", "rider_type_top3_rate_scaled", "rider_recent_form_scaled",
+    "spec_oneday_scaled", "spec_gc_scaled", "spec_tt_scaled", "spec_sprint_scaled", "spec_climber_scaled",
+    "is_terrain_flat", "is_terrain_semi_hilly", "is_terrain_hilly", "is_terrain_mountain", "is_terrain_high_mountain",
 ]
 
-class StageDataset(Dataset):
-    def __init__(self, df):
-        self.rider_ids = torch.tensor(df["rider_id"].values, dtype=torch.long)
-        self.team_ids = torch.tensor(df["team_id"].values, dtype=torch.long)
-        self.race_ids = torch.tensor(df["race_id"].values, dtype=torch.long)
-        self.features = torch.tensor(df[FEATURE_COLS].values, dtype=torch.float32)
-        self.labels = torch.tensor(df["points"].values, dtype=torch.float32)
-
-    def __len__(self):
-        return len(self.labels)
-
-    def __getitem__(self, idx):
-        return (
-            self.rider_ids[idx],
-            self.team_ids[idx],
-            self.race_ids[idx],
-            self.features[idx],
-            self.labels[idx],
-        )
+NUM_COLS = [
+    "distance", "vertical_meters", "temperature", "stage",
+    "rider_avg_points", "rider_type_avg", "rider_type_top3_rate", "rider_recent_form",
+    "spec_oneday", "spec_gc", "spec_tt", "spec_sprint", "spec_climber"
+]
 
 def position_to_points(position):
-    if position is None:
-        return 0.0
-    return float(POINTS_MAP.get(position, 0))
+    if position is None: return 0.0
+    try: return float(POINTS_MAP.get(int(position), 0))
+    except (ValueError, TypeError): return 0.0
 
-# ── Stage type inference from profile ─────────────────────────────────────────
-STAGE_TYPE_MAP = {
-    "flat": 0, "hilly": 1, "mountain": 2, "itt": 3, "ttt": 4,
-}
+def infer_stage_type(stage_data: dict) -> int:
+    st = stage_data.get("stage_type", "road").lower()
+    if st == "itt": return 3
+    if st == "ttt": return 4
+    raw = str(stage_data.get("parcours_type", "")).lower()
+    if "mountain" in raw: return 2
+    if "hilly" in raw or "hill" in raw: return 1
+    return 0
 
-def infer_stage_type(profile: dict) -> int:
-    raw = str(profile).lower()
-    if "time trial" in raw or "itt" in raw or "ttt" in raw:
-        return 3 if "individual" in raw else 4
-    if "mountain" in raw:
-        return 2
-    if "hilly" in raw or "hill" in raw:
-        return 1
-    return 0  # default flat
+def load_rider_specs(path="riders.json"):
+    if not os.path.exists(path): return {}
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    specs = {}
+    for r in data:
+        name = r["name"]
+        s = r.get("specialties", {})
+        specs[name] = {
+            "oneday": s.get("onedayraces", 0),
+            "gc": s.get("gc", 0),
+            "tt": s.get("tt", 0),
+            "sprint": s.get("sprint", 0),
+            "climber": s.get("climber", 0)
+        }
+    return specs
 
-# ── Flatten JSON into rows ─────────────────────────────────────────────────────
 def load_data(path="grand_tours.json"):
     with open(path, "r", encoding="utf-8") as f:
         raw = json.load(f)
-
     rows = []
     for race_entry in raw:
-        race = race_entry["race"]
-        year = int(race_entry["year"])
-
+        race, year = race_entry["race"], int(race_entry["year"])
         for stage_data in race_entry["stages"]:
             stage_num = stage_data["stage"]
-            profile = stage_data.get("profile", {})
-            stage_type = infer_stage_type(profile)
-
-            # Parse distance
-            distance_str = profile.get("distance", "0").replace("km", "").strip()
-            try:
-                distance = float(distance_str.split()[0])
-            except:
-                distance = 0.0
-
+            dist = stage_data.get("distance_km") or float(str(stage_data.get("profile", {}).get("distance", "150")).split()[0])
+            vert = stage_data.get("vertical_meters") or stage_data.get("profile", {}).get("vertical_meters", 0)
+            terrain = stage_data.get("terrain", "unknown")
+            weather = stage_data.get("weather", {})
+            temp = weather.get("temperature_c", 20.0) if isinstance(weather, dict) else 20.0
+            st_type = infer_stage_type(stage_data)
             for result in stage_data.get("results", []):
-                position = result.get("position")
-                rider_name = result.get("rider_name")
-                team = result.get("team")
-
-                if not rider_name:
-                    continue
-
+                rider_name, team, pos = result.get("rider_name"), result.get("team"), result.get("position")
+                if not rider_name: continue
                 rows.append({
-                    "race": race,
-                    "year": year,
-                    "stage": stage_num,
-                    "stage_type": stage_type,
-                    "distance": distance,
-                    "rider_name": rider_name,
-                    "team": team or "unknown",
-                    "position": position,
-                    "points": position_to_points(position),
+                    "race": race, "year": year, "stage": stage_num, "stage_type": st_type,
+                    "distance": float(dist), "vertical_meters": float(vert or 0), "terrain": terrain, "temperature": float(temp),
+                    "rider_name": rider_name, "team": team or "unknown", "position": pos, "points": position_to_points(pos),
                 })
-
     return pd.DataFrame(rows)
 
-# ── Feature engineering ────────────────────────────────────────────────────────
 def build_features(df: pd.DataFrame):
-    le_rider = LabelEncoder()
-    le_team = LabelEncoder()
-    le_race = LabelEncoder()
-
+    le_rider, le_team, le_race = LabelEncoder(), LabelEncoder(), LabelEncoder()
     df["rider_id"] = le_rider.fit_transform(df["rider_name"])
     df["team_id"] = le_team.fit_transform(df["team"])
     df["race_id"] = le_race.fit_transform(df["race"])
+    
+    specs = load_rider_specs()
+    for col in ["oneday", "gc", "tt", "sprint", "climber"]:
+        df[f"spec_{col}"] = df["rider_name"].map(lambda x: specs.get(x, {}).get(col, 0)).fillna(0)
 
-    # Rider historical avg points (computed before current row = no leakage)
     df = df.sort_values(["year", "stage"]).reset_index(drop=True)
-    df["rider_avg_points"] = (
-        df.groupby("rider_id")["points"]
-        .transform(lambda x: x.shift(1).expanding().mean().fillna(0))
-    )
-
-    # Rider avg points by stage type
-    df["rider_type_avg"] = (
-        df.groupby(["rider_id", "stage_type"])["points"]
-        .transform(lambda x: x.shift(1).expanding().mean().fillna(0))
-    )
-
+    df["rider_avg_points"] = df.groupby("rider_id")["points"].transform(lambda x: x.shift(1).expanding().mean().fillna(0))
+    df["rider_type_avg"] = df.groupby(["rider_id", "stage_type"])["points"].transform(lambda x: x.shift(1).expanding().mean().fillna(0))
+    df["is_top3"] = df["position"].apply(lambda x: 1 if str(x).isdigit() and int(x) <= 3 else 0).astype(float)
+    df["rider_type_top3_rate"] = df.groupby(["rider_id", "stage_type"])["is_top3"].transform(lambda x: x.shift(1).expanding().mean().fillna(0))
+    df["rider_recent_form"] = df.groupby("rider_id")["points"].transform(lambda x: x.shift(1).rolling(5, min_periods=1).mean().fillna(0))
+    for t in ["flat", "semi_hilly", "hilly", "mountain", "high_mountain"]:
+        df[f"is_terrain_{t}"] = (df["terrain"] == t).astype(float)
+    
     scaler = StandardScaler()
-    df["distance_scaled"] = scaler.fit_transform(df[["distance"]])
-
+    scaled_data = scaler.fit_transform(df[NUM_COLS])
+    for i, col in enumerate(NUM_COLS): df[f"{col}_scaled"] = scaled_data[:, i]
     return df, le_rider, le_team, le_race, scaler
 
-# ── Dataset ────────────────────────────────────────────────────────────────────
 class StageDataset(Dataset):
     def __init__(self, df):
-        self.rider_ids = torch.tensor(df["rider_id"].values, dtype=torch.long)
-        self.team_ids = torch.tensor(df["team_id"].values, dtype=torch.long)
-        self.race_ids = torch.tensor(df["race_id"].values, dtype=torch.long)
-        self.features = torch.tensor(df[FEATURE_COLS].values, dtype=torch.float32)
-        self.labels = torch.tensor(df["points"].values, dtype=torch.float32)
+        self.r = torch.tensor(df["rider_id"].values, dtype=torch.long)
+        self.t = torch.tensor(df["team_id"].values, dtype=torch.long)
+        self.rc = torch.tensor(df["race_id"].values, dtype=torch.long)
+        self.f = torch.tensor(df[FEATURE_COLS].values, dtype=torch.float32)
+        self.l = torch.tensor(df["points"].values, dtype=torch.float32)
+    def __len__(self): return len(self.l)
+    def __getitem__(self, idx): return self.r[idx], self.t[idx], self.rc[idx], self.f[idx], self.l[idx]
 
-    def __len__(self):
-        return len(self.labels)
-
-    def __getitem__(self, idx):
-        return (
-            self.rider_ids[idx],
-            self.team_ids[idx],
-            self.race_ids[idx],
-            self.features[idx],
-            self.labels[idx],
-        )
-
-# ── Model ──────────────────────────────────────────────────────────────────────
 class WielermanagerModel(nn.Module):
-    def __init__(self, n_riders, n_teams, n_races, n_features, embed_dim=16):
+    def __init__(self, n_riders, n_teams, n_races, n_features):
         super().__init__()
-
-        # Embeddings capture latent rider/team/race skill
-        self.rider_emb = nn.Embedding(n_riders, embed_dim)
-        self.team_emb = nn.Embedding(n_teams, embed_dim // 2)
-        self.race_emb = nn.Embedding(n_races, embed_dim // 2)
-
-        input_dim = embed_dim + embed_dim // 2 + embed_dim // 2 + n_features
-
+        self.r_emb = nn.Embedding(n_riders + 1, 8)
+        self.t_emb = nn.Embedding(n_teams + 1, 4)
+        self.rc_emb = nn.Embedding(n_races + 1, 4)
         self.net = nn.Sequential(
-            nn.Linear(input_dim, 128),
-            nn.ReLU(),
-            nn.Dropout(0.3),
-            nn.Linear(128, 64),
-            nn.ReLU(),
-            nn.Dropout(0.2),
-            nn.Linear(64, 32),
-            nn.ReLU(),
-            nn.Linear(32, 1),
-            nn.ReLU(),  # points are always >= 0
+            nn.Linear(8+4+4+n_features, 64), nn.ReLU(), nn.Dropout(0.2),
+            nn.Linear(64, 32), nn.ReLU(),
+            nn.Linear(32, 1)
         )
-
-    def forward(self, rider_ids, team_ids, race_ids, features):
-        r = self.rider_emb(rider_ids)
-        t = self.team_emb(team_ids)
-        rc = self.race_emb(race_ids)
-        x = torch.cat([r, t, rc, features], dim=1)
-        return self.net(x).squeeze(1)
-
-# ── Training ───────────────────────────────────────────────────────────────────
-def train(model, loader, optimizer, criterion, device):
-    model.train()
-    total_loss = 0
-    for rider_ids, team_ids, race_ids, features, labels in loader:
-        rider_ids = rider_ids.to(device)
-        team_ids = team_ids.to(device)
-        race_ids = race_ids.to(device)
-        features = features.to(device)
-        labels = labels.to(device)
-
-        optimizer.zero_grad()
-        preds = model(rider_ids, team_ids, race_ids, features)
-        loss = criterion(preds, labels)
-        loss.backward()
-        optimizer.step()
-        total_loss += loss.item()
-
-    return total_loss / len(loader)
-
-def evaluate(model, loader, criterion, device):
-    model.eval()
-    total_loss = 0
-    with torch.no_grad():
-        for rider_ids, team_ids, race_ids, features, labels in loader:
-            rider_ids = rider_ids.to(device)
-            team_ids = team_ids.to(device)
-            race_ids = race_ids.to(device)
-            features = features.to(device)
-            labels = labels.to(device)
-            preds = model(rider_ids, team_ids, race_ids, features)
-            total_loss += criterion(preds, labels).item()
-    return total_loss / len(loader)
-
-from difflib import get_close_matches
-
-def find_rider_name(name: str, known_names: list) -> str | None:
-    # Try direct match first
-    if name in known_names:
-        return name
-    # Try reversing Firstname Lastname -> Lastname Firstname
-    parts = name.strip().split()
-    if len(parts) == 2:
-        reversed_name = f"{parts[1]} {parts[0]}"
-        if reversed_name in known_names:
-            return reversed_name
-        matches = get_close_matches(reversed_name, known_names, n=1, cutoff=0.75)
-        if matches:
-            return matches[0]
-    # Fuzzy fallback
-    matches = get_close_matches(name, known_names, n=1, cutoff=0.75)
-    return matches[0] if matches else None
-
-# ── Predict for an upcoming stage ─────────────────────────────────────────────
-def predict_stage(
-    model, df, le_rider, le_team, le_race, scaler,
-    race_name, stage_num, stage_type_str, distance_km,
-    rider_names, device
-):
-    model.eval()
-    known_names = list(le_rider.classes_)
-    stage_type = STAGE_TYPE_MAP.get(stage_type_str.lower(), 0)
-    distance_scaled = scaler.transform(pd.DataFrame({"distance": [distance_km]}))["distance"].values[0]
-
-    try:
-        race_id = le_race.transform([race_name])[0]
-    except ValueError:
-        race_id = 0
-
-    results = []
-    for name in rider_names:
-        matched = find_rider_name(name, known_names)
-        if not matched:
-            continue
-
-        rider_id = le_rider.transform([matched])[0]
-        rider_rows = df[df["rider_id"] == rider_id]
-        type_rows = rider_rows[rider_rows["stage_type"] == stage_type]
-
-        rider_avg = rider_rows["points"].mean() if len(rider_rows) else 0.0
-        rider_type_avg = type_rows["points"].mean() if len(type_rows) else rider_avg
-        rider_type_top3 = type_rows["is_top3"].mean() if len(type_rows) else 0.0
-        rider_recent = rider_rows["points"].tail(5).mean() if len(rider_rows) else 0.0
-
-        for val in [rider_avg, rider_type_avg, rider_type_top3, rider_recent]:
-            if np.isnan(val):
-                val = 0.0
-
-        one_hot = [float(stage_type == st) for st in range(5)]
-
-        feature_vec = [
-            stage_type,
-            distance_scaled,
-            stage_num,
-            rider_avg,
-            rider_type_avg,
-            rider_type_top3,
-            rider_recent,
-            *one_hot,
-        ]
-
-        team_name = rider_rows["team"].iloc[-1] if len(rider_rows) else "unknown"
-        try:
-            team_id = le_team.transform([team_name])[0]
-        except ValueError:
-            team_id = 0
-
-        features = torch.tensor([feature_vec], dtype=torch.float32).to(device)
-
-        with torch.no_grad():
-            pred_points = model(
-                torch.tensor([rider_id]).to(device),
-                torch.tensor([team_id]).to(device),
-                torch.tensor([race_id]).to(device),
-                features,
-            ).item()
-
-        results.append({"rider": matched, "predicted_points": round(pred_points, 2)})
-
-    return sorted(results, key=lambda x: x["predicted_points"], reverse=True)
-
-def predict_race(
-    model, df, le_rider, le_team, le_race, scaler, device,
-    race_slug, year, known_names
-):
-    print(f"\nFetching startlist for {race_slug} {year}...")
-    startlist = Startlist(race_slug, year)
-    rider_names = startlist.get_riders()
-    print(f"Found {len(rider_names)} riders on startlist")
-
-    print(f"Fetching stages for {race_slug} {year}...")
-    race = Race(race_slug, year)
-    stage_count = race.get_stage_count()
-    print(f"Found {stage_count} stages\n")
-
-    all_predictions = []
-
-    for stage_num in range(1, stage_count + 1):
-        print(f"  Predicting stage {stage_num}...")
-        stage = Stage(race_slug, year, stage_num)
-        profile = stage.get_profile()
-        stage_type = infer_stage_type(profile)
-        stage_type_str = {v: k for k, v in STAGE_TYPE_MAP.items()}.get(stage_type, "flat")
-
-        distance_str = profile.get("distance", "0").replace("km", "").strip()
-        try:
-            distance_km = float(distance_str.split()[0])
-        except:
-            distance_km = 150.0
-
-        predictions = predict_stage(
-            model=model,
-            df=df,
-            le_rider=le_rider,
-            le_team=le_team,
-            le_race=le_race,
-            scaler=scaler,
-            race_name=race_slug,
-            stage_num=stage_num,
-            stage_type_str=stage_type_str,
-            distance_km=distance_km,
-            rider_names=rider_names,
-            device=device,
-        )
-
-        all_predictions.append({
-            "stage": stage_num,
-            "stage_type": stage_type_str,
-            "distance_km": distance_km,
-            "profile": profile,
-            "top10": predictions[:10],
-        })
-
-        print(f"    Type: {stage_type_str} | Distance: {distance_km}km")
-        print(f"    Top 3: " + ", ".join(
-            f"{p['rider']} ({p['predicted_points']}pts)"
-            for p in predictions[:3]
-        ))
-
-    # Temporarily add this in predict_race to debug
-    startlist = Startlist(race_slug, year)
-    rider_names = startlist.get_riders()
-    print("Sample startlist names:", rider_names[:10])
-
-    stage = Stage(race_slug, year, 1)
-    profile = stage.get_profile()
-    print("Stage 1 profile:", profile)
-
-    return all_predictions
-
-
-def save_predictions(predictions, race_slug, year, path=None):
-    import json
-    path = path or f"predictions_{race_slug}_{year}.json"
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(predictions, f, ensure_ascii=False, indent=2)
-    print(f"\nSaved predictions to {path}")
-
-def build_features(df: pd.DataFrame):
-    le_rider = LabelEncoder()
-    le_team = LabelEncoder()
-    le_race = LabelEncoder()
-
-    df["rider_id"] = le_rider.fit_transform(df["rider_name"])
-    df["team_id"] = le_team.fit_transform(df["team"])
-    df["race_id"] = le_race.fit_transform(df["race"])
-
-    df = df.sort_values(["year", "stage"]).reset_index(drop=True)
-
-    # Overall avg points (lagged)
-    df["rider_avg_points"] = (
-        df.groupby("rider_id")["points"]
-        .transform(lambda x: x.shift(1).expanding().mean().fillna(0))
-    )
-
-    # Avg points per stage type (lagged) — KEY feature
-    df["rider_type_avg"] = (
-        df.groupby(["rider_id", "stage_type"])["points"]
-        .transform(lambda x: x.shift(1).expanding().mean().fillna(0))
-    )
-
-    # Win rate per stage type
-    df["is_top3"] = (df["position"] <= 3).astype(float)
-    df["rider_type_top3_rate"] = (
-        df.groupby(["rider_id", "stage_type"])["is_top3"]
-        .transform(lambda x: x.shift(1).expanding().mean().fillna(0))
-    )
-
-    # Recent form: avg points in last 5 results
-    df["rider_recent_form"] = (
-        df.groupby("rider_id")["points"]
-        .transform(lambda x: x.shift(1).rolling(5, min_periods=1).mean().fillna(0))
-    )
-
-    # Stage type one-hot (so model can't ignore it)
-    for st in range(5):
-        df[f"is_stage_type_{st}"] = (df["stage_type"] == st).astype(float)
-
-    scaler = StandardScaler()
-    df["distance_scaled"] = scaler.fit_transform(df[["distance"]])
-
-    return df, le_rider, le_team, le_race, scaler
+    def forward(self, r, t, rc, f):
+        x = torch.cat([self.r_emb(r), self.t_emb(t), self.rc_emb(rc), f], dim=1)
+        return torch.sigmoid(self.net(x).squeeze(1)) * 60.0
 
 def weighted_mse(preds, labels):
-    weights = torch.where(labels > 0, torch.tensor(10.0), torch.tensor(1.0)).to(preds.device)
+    weights = torch.where(labels > 0, torch.tensor(5.0), torch.tensor(1.0)).to(preds.device)
     return (weights * (preds - labels) ** 2).mean()
 
+from difflib import get_close_matches
+def find_rider_name(name: str, known_names: list) -> str | None:
+    if name in known_names: return name
+    parts = name.strip().split()
+    if len(parts) >= 2:
+        rev = f"{parts[-1]} {' '.join(parts[:-1])}"
+        if rev in known_names: return rev
+    m = get_close_matches(name, known_names, n=1, cutoff=0.7)
+    return m[0] if m else None
 
-# ── Main ───────────────────────────────────────────────────────────────────────
+def predict_stage(model, df, le_rider, le_team, le_race, scaler, race_name, stage_num, info, riders, device):
+    model.eval()
+    known = list(le_rider.classes_)
+    specs = load_rider_specs()
+    st_type = infer_stage_type(info)
+    dist, vert, temp, terrain = float(info.get("distance_km", 150)), float(info.get("vertical_meters", 1000)), float(info.get("weather", {}).get("temperature_c", 20) if isinstance(info.get("weather"), dict) else 20), info.get("terrain", "flat")
+    try: race_id = le_race.transform([race_name])[0]
+    except: race_id = 0
+    results = []
+    for name in riders:
+        matched = find_rider_name(name, known)
+        if not matched: continue
+        r_id = le_rider.transform([matched])[0]
+        r_rows = df[df["rider_id"] == r_id]
+        t_rows = r_rows[r_rows["stage_type"] == st_type]
+        r_avg = r_rows["points"].mean() if len(r_rows) else 0.0
+        t_avg = t_rows["points"].mean() if len(t_rows) else r_avg
+        t_top3 = (t_rows["position"].apply(lambda x: 1 if str(x).isdigit() and int(x) <= 3 else 0)).mean() if len(t_rows) else 0.0
+        r_rec = r_rows["points"].tail(5).mean() if len(r_rows) else 0.0
+        r_spec = specs.get(matched, {"oneday":0, "gc":0, "tt":0, "sprint":0, "climber":0})
+        raw = pd.DataFrame([{
+            "distance": dist, "vertical_meters": vert, "temperature": temp, "stage": float(stage_num),
+            "rider_avg_points": r_avg, "rider_type_avg": t_avg, "rider_type_top3_rate": t_top3, "rider_recent_form": r_rec,
+            "spec_oneday": r_spec["oneday"], "spec_gc": r_spec["gc"], "spec_tt": r_spec["tt"], "spec_sprint": r_spec["sprint"], "spec_climber": r_spec["climber"]
+        }])
+        s_nums = scaler.transform(raw[NUM_COLS])[0]
+        t_hot = [float(terrain == t) for t in ["flat", "semi_hilly", "hilly", "mountain", "high_mountain"]]
+        feat = torch.tensor([[float(st_type), *s_nums, *t_hot]], dtype=torch.float32).to(device)
+        team = r_rows["team"].iloc[-1] if len(r_rows) else "unknown"
+        try: t_id = le_team.transform([team])[0]
+        except: t_id = 0
+        with torch.no_grad():
+            p = model(torch.tensor([r_id]).to(device), torch.tensor([t_id]).to(device), torch.tensor([race_id]).to(device), feat).item()
+        results.append({"rider": matched, "points": round(p, 2)})
+    return sorted(results, key=lambda x: x["points"], reverse=True)
+
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--train", action="store_true")
+    parser.add_argument("--predict", nargs=2, metavar=("RACE", "YEAR"))
+    parser.add_argument("--data", default="grand_tours.json")
+    args = parser.parse_args()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(f"Using device: {device}")
-
-    
-
-    # Load + process
-    print("Loading data...")
-    df = load_data("grand_tours.json")
-    df, le_rider, le_team, le_race, scaler = build_features(df)
-    print(f"Dataset: {len(df)} rows, {df['rider_name'].nunique()} unique riders")
-
-    
-
-    # Split by year so val = most recent season (no leakage)
-    train_df = df[df["year"] < 2025]
-    val_df = df[df["year"] >= 2025]
-
-    train_ds = StageDataset(train_df)
-    val_ds = StageDataset(val_df)
-    train_loader = DataLoader(train_ds, batch_size=256, shuffle=True)
-    val_loader = DataLoader(val_ds, batch_size=256)
-
-    # Build model
-    model = WielermanagerModel(
-        n_riders=df["rider_id"].nunique(),
-        n_teams=df["team_id"].nunique(),
-        n_races=df["race_id"].nunique(),
-        n_features=len(FEATURE_COLS),  # was hardcoded 5, now 12
-    ).to(device)
-
-    optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
-    criterion = weighted_mse
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=3)
-
-    # Train
-    print("\nTraining...")
-    best_val_loss = float("inf")
-    for epoch in range(50):
-        train_loss = train(model, train_loader, optimizer, criterion, device)
-        val_loss = evaluate(model, val_loader, criterion, device)
-        scheduler.step(val_loss)
-
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
-            torch.save(model.state_dict(), "best_model.pt")
-
-        if (epoch + 1) % 5 == 0:
-            print(f"Epoch {epoch+1:3d} | Train: {train_loss:.4f} | Val: {val_loss:.4f}")
-
-    # Save encoders for reuse
-    with open("encoders.pkl", "wb") as f:
-        pickle.dump((le_rider, le_team, le_race, scaler, df), f)
-
-    print(f"\nBest val loss: {best_val_loss:.4f}")
-    print("Model saved to best_model.pt")
-
-    # ── Example prediction ─────────────────────────────────────────────────────
-    # Load trained model + encoders
-    model.load_state_dict(torch.load("best_model.pt", map_location=device))
-    known_names = list(le_rider.classes_)
-
-    # Predict full race automatically
-    predictions = predict_race(
-        model=model,
-        df=df,
-        le_rider=le_rider,
-        le_team=le_team,
-        le_race=le_race,
-        scaler=scaler,
-        device=device,
-        race_slug="giro-d-italia",
-        year=2025,
-        known_names=known_names,
-    )
-
-    save_predictions(predictions, "giro-d-italia", 2026)
+    if args.train:
+        df = load_data(args.data)
+        df, le_r, le_t, le_rc, scaler = build_features(df)
+        train_df, val_df = df[df["year"] < 2025], df[df["year"] >= 2025]
+        model = WielermanagerModel(df["rider_id"].nunique(), df["team_id"].nunique(), df["race_id"].nunique(), len(FEATURE_COLS)).to(device)
+        opt = torch.optim.Adam(model.parameters(), lr=1e-3, weight_decay=1e-4)
+        best_v = float("inf")
+        tl, vl = DataLoader(StageDataset(train_df), batch_size=256, shuffle=True), DataLoader(StageDataset(val_df), batch_size=256)
+        for e in range(50):
+            model.train()
+            for r, t, rc, f, l in tl:
+                opt.zero_grad(); p = model(r.to(device), t.to(device), rc.to(device), f.to(device)); loss = weighted_mse(p, l.to(device)); loss.backward(); opt.step()
+            model.eval(); v_l = 0
+            with torch.no_grad():
+                for r, t, rc, f, l in vl: v_l += weighted_mse(model(r.to(device), t.to(device), rc.to(device), f.to(device)), l.to(device)).item()
+            v_l /= len(vl)
+            if v_l < best_v: best_v = v_l; torch.save(model.state_dict(), "best_model.pt"); pickle.dump((le_r, le_t, le_rc, scaler, df), open("encoders.pkl", "wb"))
+            if (e+1)%10==0: print(f"Epoch {e+1} Val Loss: {v_l:.4f}")
+    if args.predict:
+        slug, yr = args.predict
+        le_r, le_t, le_rc, scaler, df = pickle.load(open("encoders.pkl", "rb"))
+        model = WielermanagerModel(df["rider_id"].nunique(), df["team_id"].nunique(), df["race_id"].nunique(), len(FEATURE_COLS)).to(device)
+        model.load_state_dict(torch.load("best_model.pt", map_location=device))
+        print(f"\n--- Predicting {slug} {yr} ---")
+        sl, r = Startlist(slug, yr), Race(slug, yr)
+        riders, s_ids = sl.get_riders(), r.get_stage_ids()
+        all_p = []
+        for sid in s_ids:
+            print(f"S{sid}...", end=" ", flush=True)
+            res = predict_stage(model, df, le_r, le_t, le_rc, scaler, slug, sid, Stage(slug, int(yr), sid).get_profile(), riders, device)
+            all_p.append({"stage": sid, "top10": res[:10]})
+            print(f"Top: {res[0]['rider']} ({res[0]['points']}pts)")
+        json.dump(all_p, open(f"predictions_{slug}_{yr}.json", "w"), indent=2)

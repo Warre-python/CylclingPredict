@@ -1,0 +1,947 @@
+[
+  {
+    "stage": 1,
+    "top10": [
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 26.75
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 24.78
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 24.28
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 24.26
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 23.4
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 22.11
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 21.11
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 20.78
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 19.83
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 19.76
+      }
+    ]
+  },
+  {
+    "stage": 2,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 3.49
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 3.45
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 3.45
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 3.33
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 3.31
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 3.25
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 2.88
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 2.76
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 2.65
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 2.64
+      }
+    ]
+  },
+  {
+    "stage": 3,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 5.54
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 5.46
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 5.44
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 5.15
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 5.06
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 5.02
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 4.54
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 4.31
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 4.18
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 4.11
+      }
+    ]
+  },
+  {
+    "stage": 4,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 4.25
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 4.24
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 4.1
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 3.84
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 3.79
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 3.68
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 3.46
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 3.19
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 3.16
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 3.04
+      }
+    ]
+  },
+  {
+    "stage": 5,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 10.94
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 10.83
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 10.82
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 10.41
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 10.2
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 10.03
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 9.17
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 8.73
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 8.43
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 8.42
+      }
+    ]
+  },
+  {
+    "stage": 6,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 3.9
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 3.83
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 3.81
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 3.71
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 3.64
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 3.62
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 3.19
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 3.06
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 2.94
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 2.92
+      }
+    ]
+  },
+  {
+    "stage": 7,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 2.63
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 2.59
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 2.56
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 2.47
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 2.43
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 2.4
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 2.15
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 2.03
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 1.96
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 1.95
+      }
+    ]
+  },
+  {
+    "stage": 8,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 13.82
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 13.71
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 13.66
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 13.47
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 13.18
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 12.88
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 11.68
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 11.28
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 10.96
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 10.74
+      }
+    ]
+  },
+  {
+    "stage": 9,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 0.76
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 0.73
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 0.73
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 0.73
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 0.72
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 0.71
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 0.62
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 0.59
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 0.57
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 0.56
+      }
+    ]
+  },
+  {
+    "stage": 10,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 5.2
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 5.1
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 5.09
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 5.09
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 5.0
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 4.93
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 4.28
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 4.12
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 4.04
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 3.92
+      }
+    ]
+  },
+  {
+    "stage": 11,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 13.24
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 13.18
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 13.11
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 13.03
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 12.63
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 12.47
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 11.21
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 10.73
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 10.54
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 10.32
+      }
+    ]
+  },
+  {
+    "stage": 12,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 1.25
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 1.22
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 1.22
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.22
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.19
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 1.18
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 1.03
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 0.98
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 0.95
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 0.94
+      }
+    ]
+  },
+  {
+    "stage": 13,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 2.91
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 2.9
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 2.84
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 2.83
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 2.81
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 2.81
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 2.4
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 2.28
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 2.26
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 2.17
+      }
+    ]
+  },
+  {
+    "stage": 14,
+    "top10": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 1.73
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 1.72
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.72
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 1.7
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.67
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 1.63
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 1.45
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 1.35
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 1.33
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 1.33
+      }
+    ]
+  },
+  {
+    "stage": 15,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 4.53
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 4.44
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 4.42
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 4.37
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 4.34
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 4.34
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 3.75
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 3.57
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 3.49
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 3.41
+      }
+    ]
+  },
+  {
+    "stage": 16,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 7.21
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 6.99
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 6.98
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 6.92
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 6.89
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 6.86
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 5.98
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 5.74
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 5.54
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 5.42
+      }
+    ]
+  },
+  {
+    "stage": 17,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 17.15
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 16.71
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 16.61
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 16.57
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 16.35
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 16.29
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 14.53
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 14.11
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 13.59
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 13.22
+      }
+    ]
+  },
+  {
+    "stage": 18,
+    "top10": [
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 29.41
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 28.08
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 27.39
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 26.03
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 24.69
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.98
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 23.64
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 21.88
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 21.6
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 21.3
+      }
+    ]
+  },
+  {
+    "stage": 19,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 1.8
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.76
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 1.73
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 1.71
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.69
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 1.65
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 1.46
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 1.39
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 1.33
+      },
+      {
+        "rider": "Plapp Luke",
+        "points": 1.31
+      }
+    ]
+  },
+  {
+    "stage": 20,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 0.75
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 0.73
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 0.72
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 0.7
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 0.7
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 0.68
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 0.6
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 0.57
+      },
+      {
+        "rider": "Plapp Luke",
+        "points": 0.55
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 0.55
+      }
+    ]
+  },
+  {
+    "stage": 21,
+    "top10": [
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 15.01
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 14.91
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 14.85
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 14.44
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 14.41
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 14.04
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.07
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 12.12
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 12.0
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 11.73
+      }
+    ]
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "stage": 1,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 24.39
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 22.47
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 20.48
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 19.71
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 19.3
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 18.33
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 17.74
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 17.23
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 16.9
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 16.73
+      }
+    ]
+  },
+  {
+    "stage": 2,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 9.63
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 8.61
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 7.25
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 7.08
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 7.07
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 6.19
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 6.11
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 5.97
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 5.95
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 5.83
+      }
+    ]
+  },
+  {
+    "stage": 3,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 16.22
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 15.0
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 13.02
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 12.84
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 12.84
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 11.45
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 11.08
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 11.04
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 10.72
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 10.67
+      }
+    ]
+  },
+  {
+    "stage": 4,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 16.19
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 14.92
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 13.23
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 13.14
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 12.96
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 11.8
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 11.27
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 11.14
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 10.79
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 10.76
+      }
+    ]
+  },
+  {
+    "stage": 5,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 3.44
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 3.05
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 2.57
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 2.5
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 2.44
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 2.16
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 2.14
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 2.1
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 2.06
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 2.02
+      }
+    ]
+  },
+  {
+    "stage": 6,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 28.01
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 25.89
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 23.58
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 22.82
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 22.01
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 20.25
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 20.13
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 19.99
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 19.34
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 19.33
+      }
+    ]
+  },
+  {
+    "stage": 7,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 1.89
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 1.66
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 1.36
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 1.3
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 1.27
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 1.15
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.11
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 1.1
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 1.06
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.06
+      }
+    ]
+  },
+  {
+    "stage": 8,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 14.57
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 13.36
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 11.75
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 11.37
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 11.03
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 9.99
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 9.89
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 9.69
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 9.46
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 9.32
+      }
+    ]
+  },
+  {
+    "stage": 9,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 10.08
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 9.12
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 7.87
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 7.47
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 7.22
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 6.66
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 6.41
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 6.32
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 6.28
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 6.12
+      }
+    ]
+  },
+  {
+    "stage": 10,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 34.21
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 34.18
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 32.52
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 31.63
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 29.35
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 28.56
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 27.56
+      },
+      {
+        "rider": "Romo Javier",
+        "points": 26.38
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 26.35
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 25.74
+      }
+    ]
+  },
+  {
+    "stage": 11,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 6.56
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 5.86
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 5.03
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 4.68
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 4.47
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 4.26
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 4.0
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 3.96
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 3.89
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 3.79
+      }
+    ]
+  },
+  {
+    "stage": 12,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 11.61
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 10.55
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 9.19
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 8.56
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 8.17
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 7.83
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 7.3
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 7.27
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 7.22
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 6.97
+      }
+    ]
+  },
+  {
+    "stage": 13,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 19.13
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 17.33
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 15.33
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 14.06
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 13.64
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 13.33
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 12.16
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 12.14
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 12.1
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 11.82
+      }
+    ]
+  },
+  {
+    "stage": 14,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 2.47
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 2.21
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 1.96
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 1.81
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 1.68
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 1.58
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 1.53
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.5
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.5
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 1.39
+      }
+    ]
+  },
+  {
+    "stage": 15,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 30.18
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 28.35
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 25.64
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 23.59
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 22.91
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 21.7
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 20.33
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 20.24
+      },
+      {
+        "rider": "Rolland Brieuc",
+        "points": 19.33
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 19.31
+      }
+    ]
+  },
+  {
+    "stage": 16,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 6.69
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 6.05
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 5.4
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 4.97
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 4.6
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 4.37
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 4.18
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 4.14
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 4.14
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 3.81
+      }
+    ]
+  },
+  {
+    "stage": 17,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 5.51
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 4.9
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 4.22
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 3.71
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 3.47
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 3.47
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 3.25
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 3.09
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 3.08
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 3.05
+      }
+    ]
+  },
+  {
+    "stage": 18,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 14.43
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 13.2
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 11.71
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 10.34
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 9.71
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 9.71
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 8.98
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 8.83
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 8.68
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 8.43
+      }
+    ]
+  },
+  {
+    "stage": 19,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 1.5
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 1.34
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 1.19
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 1.04
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 0.95
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 0.94
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 0.89
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 0.87
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 0.86
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 0.83
+      }
+    ]
+  },
+  {
+    "stage": 20,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 3.44
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 3.05
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 2.63
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 2.24
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 2.1
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 2.07
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 1.99
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 1.88
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 1.86
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 1.86
+      }
+    ]
+  },
+  {
+    "stage": 21,
+    "top10": [
+      {
+        "rider": "van den Broek Frank",
+        "points": 20.99
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 19.13
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 17.38
+      },
+      {
+        "rider": "Pietrobon Andrea",
+        "points": 15.19
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 14.41
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 14.15
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 13.37
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 13.36
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 13.07
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 12.48
+      }
+    ]
+  }
+]

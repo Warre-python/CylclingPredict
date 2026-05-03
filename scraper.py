@@ -40,9 +40,13 @@ CLASSICS = {
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 def normalize_name(name: str) -> str:
+    """
+    Standardize rider names: 'POGACAR Tadej' -> 'Tadej Pogacar'
+    """
+    if not name:
+        return ""
     name = " ".join(name.strip().split())
-    if name == name.upper():
-        name = name.title()
+    # Re-normalize to Title Case for consistency
     return " ".join(p.capitalize() for p in name.split())
 
 
@@ -152,30 +156,38 @@ def debug_page(soup: BeautifulSoup, url: str):
 # ─── Infolist parser (multi-strategy) ────────────────────────────────────────
 def parse_infolist(soup: BeautifulSoup) -> dict:
     """
-    Extract key→value pairs from the info block using several strategies
-    so the scraper survives PCS HTML changes.
+    Extract key→value pairs from the info block using several strategies.
     """
     data = {}
 
-    # Strategy A: <ul class="infolist|list"> with title/value child divs
+    # Strategy A: <ul class="infolist|list"> with child divs
     for ul in soup.select("ul.infolist, ul.list"):
         for li in ul.select("li"):
-            # Clone the li to safely extract the label
-            li_copy = BeautifulSoup(str(li), "html.parser").select_one("li")
-            label_tag = li_copy.select_one(".title, .bold, b, strong, dt")
-            if not label_tag:
-                continue
-            key = label_tag.get_text(strip=True).rstrip(":").lower().replace(" ", "_")
-            label_tag.decompose()
-            val = li_copy.get_text(" ", strip=True).strip(": ")
-            if key and val:
-                data[key] = val
+            divs = li.select("div")
+            if len(divs) >= 2:
+                key = divs[0].get_text(strip=True).rstrip(":").lower().replace(" ", "_")
+                # Handle icons (like in 'Won how')
+                icon = divs[1].select_one(".icon")
+                if icon and icon.get("title"):
+                    val = icon["title"]
+                else:
+                    val = divs[1].get_text(" ", strip=True)
+                if key and val:
+                    data[key] = val
+            else:
+                # Fallback for label/value in same tag or different tags
+                label_tag = li.select_one(".title, .bold, b, strong, dt")
+                if label_tag:
+                    key = label_tag.get_text(strip=True).rstrip(":").lower().replace(" ", "_")
+                    val = li.get_text(" ", strip=True).replace(label_tag.get_text(" ", strip=True), "").strip(": ")
+                    if key and val:
+                        data[key] = val
 
     # Strategy B: <dl> definition lists
     for dl in soup.select("dl"):
         for dt, dd in zip(dl.select("dt"), dl.select("dd")):
             key = dt.get_text(strip=True).rstrip(":").lower().replace(" ", "_")
-            data[key] = dd.get_text(strip=True)
+            data[key] = dd.get_text(" ", strip=True)
 
     # Strategy C: table rows where first cell is a label
     for tbl in soup.select("table.basic, table.info, .raceinfo table"):
@@ -183,17 +195,7 @@ def parse_infolist(soup: BeautifulSoup) -> dict:
             cells = row.select("td, th")
             if len(cells) == 2:
                 key = cells[0].get_text(strip=True).rstrip(":").lower().replace(" ", "_")
-                val = cells[1].get_text(strip=True)
-                if key and val:
-                    data.setdefault(key, val)
-
-    # Strategy D: divs/spans in .right / .info containers
-    for container in soup.select(".right, .infos, .info-container, .race-info, .w50"):
-        for li in container.select("li"):
-            spans = li.select("span, div, b, strong")
-            if len(spans) >= 2:
-                key = spans[0].get_text(strip=True).rstrip(":").lower().replace(" ", "_")
-                val = spans[-1].get_text(strip=True)
+                val = cells[1].get_text(" ", strip=True)
                 if key and val:
                     data.setdefault(key, val)
 
@@ -252,10 +254,12 @@ class Stage:
         parcours_type = info.get(
             "parcours_type", info.get("type", info.get("stage_type", ""))
         )
+        won_how = info.get("won_how", "").lower()
         pt = parcours_type.lower()
-        if "team time" in pt or "ttt" in pt:
+        
+        if "team time" in pt or "ttt" in pt or "team time" in won_how:
             stage_type = "ttt"
-        elif "time trial" in pt or " itt" in pt or pt.startswith("tt"):
+        elif "time trial" in pt or " itt" in pt or pt.startswith("tt") or "time trial" in won_how:
             stage_type = "itt"
         else:
             stage_type = "road"
@@ -264,7 +268,7 @@ class Stage:
 
         # ── Weather ───────────────────────────────────────────────────────────
         weather = {}
-        for k in ("temperature", "weather", "weer", "meteo"):
+        for k in ("temperature", "weather", "weer", "meteo", "avg._temperature"):
             if k in info:
                 raw = info[k]
                 m = re.search(r"(-?\d+(?:\.\d+)?)\s*°?[Cc]", raw)
@@ -311,7 +315,7 @@ class Stage:
                 position = pos_text   # DNF / DNS / OTL
 
             rider_tag = row.select_one("a[href*='rider']")
-            rider_name = normalize_name(rider_tag.get_text(strip=True)) if rider_tag else None
+            rider_name = normalize_name(rider_tag.get_text(" ", strip=True)) if rider_tag else None
             rider_url  = rider_tag["href"] if rider_tag else None
 
             team_tag = row.select_one("a[href*='team']")
@@ -363,14 +367,18 @@ class Race:
             return []
         ids = set()
         for a in self.soup.select("a[href*='stage-']"):
-            part = a["href"].split("stage-")[-1].split("/")[0]
-            if part.isdigit():
-                ids.add(int(part))
-            elif re.match(r"^[a-z]+$", part):
-                ids.add(part)
-        return sorted(ids, key=lambda x: (isinstance(x, str), x))
+            href = a["href"]
+            # Extract stage number from href
+            m = re.search(r"stage-(\d+)", href)
+            if m:
+                ids.add(int(m.group(1)))
+        return sorted(list(ids))
+
+    def get_stage_count(self) -> int:
+        return len(self.get_stage_ids())
 
     def scrape_all_stages(self) -> list:
+        # ... rest of the method ...
         ids = self.get_stage_ids()
         print(f"  {self.race_slug} {self.year}: {len(ids)} stages")
         stages = []
@@ -401,6 +409,9 @@ class Startlist:
                 seen.add(href)
                 riders.append({"name": name, "url": href})
         return riders
+
+    def get_riders(self) -> list[str]:
+        return [r["name"] for r in self.get_rider_urls()]
 
 
 # ─── Rider ────────────────────────────────────────────────────────────────────
