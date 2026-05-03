@@ -413,22 +413,64 @@ class Race:
 # ─── Startlist ────────────────────────────────────────────────────────────────
 class Startlist:
     def __init__(self, race_slug: str, year: int):
-        self.soup = fetch(f"{base_url}/race/{race_slug}/{year}/startlist")
+        self.url = f"{base_url}/race/{race_slug}/{year}/startlist"
+        self.soup = fetch(self.url)
 
-    def get_rider_urls(self) -> list[dict]:
+    def get_rider_urls(self, stage_num: int = None) -> list[dict]:
         if not self.soup:
             return []
-        seen, riders = set(), []
-        for a in self.soup.select("a[href*='rider/']"):
-            href = a["href"]
-            name = normalize_name(a.get_text(strip=True))
-            if name and href not in seen:
-                seen.add(href)
-                riders.append({"name": name, "url": href})
+        
+        # Strategy: Find the startlist container (ul.startlist_v4 or similar)
+        # If not found, fall back to any rider links but we won't have status info.
+        
+        riders = []
+        seen_urls = set()
+        
+        container = self.soup.select_one("ul.startlist_v4, ul.startlist_v3, .startlist_v1")
+        if container:
+            for li in container.select("li"):
+                rider_tag = li.select_one("a[href*='rider/']")
+                if not rider_tag:
+                    continue
+                
+                url = rider_tag["href"]
+                if url in seen_urls:
+                    continue
+                
+                name = normalize_name(rider_tag.get_text(strip=True))
+                text = li.get_text(" ", strip=True)
+                
+                # Check for DNF/DNS/OTL/DSQ
+                is_out = False
+                m = re.search(r"\((DNF|DNS|OTL|DSQ)(?:\s*#(\d+))?\)", text)
+                if m:
+                    status = m.group(1)
+                    out_stage = m.group(2)
+                    if out_stage:
+                        out_stage = int(out_stage)
+                        if stage_num is not None and out_stage < stage_num:
+                            is_out = True
+                    else:
+                        # If no stage number, assume they are out if we are looking for a specific stage
+                        if stage_num is not None:
+                            is_out = True
+                
+                if not is_out:
+                    seen_urls.add(url)
+                    riders.append({"name": name, "url": url})
+        else:
+            # Fallback
+            for a in self.soup.select("a[href*='rider/']"):
+                href = a["href"]
+                name = normalize_name(a.get_text(strip=True))
+                if name and href not in seen_urls:
+                    seen_urls.add(href)
+                    riders.append({"name": name, "url": href})
+                    
         return riders
 
-    def get_riders(self) -> list[str]:
-        return [r["name"] for r in self.get_rider_urls()]
+    def get_riders(self, stage_num: int = None) -> list[str]:
+        return [r["name"] for r in self.get_rider_urls(stage_num)]
 
 
 # ─── Rider ────────────────────────────────────────────────────────────────────

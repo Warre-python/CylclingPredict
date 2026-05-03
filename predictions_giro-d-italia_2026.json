@@ -4,24 +4,12 @@
     "terrain": "flat",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 29.56
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 24.63
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 24.09
-      },
-      {
         "rider": "Groves Kaden",
         "points": 23.71
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 22.97
       },
       {
         "rider": "De Lie Arnaud",
@@ -42,6 +30,18 @@
       {
         "rider": "Vingegaard Jonas",
         "points": 17.11
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 16.3
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 15.5
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 15.28
       }
     ]
   },
@@ -50,24 +50,12 @@
     "terrain": "hilly",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 29.79
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 25.25
       },
       {
         "rider": "Groves Kaden",
         "points": 24.41
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 24.36
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 23.2
       },
       {
         "rider": "De Lie Arnaud",
@@ -88,6 +76,18 @@
       {
         "rider": "Groenewegen Dylan",
         "points": 17.39
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 16.77
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 15.99
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 15.54
       }
     ]
   },
@@ -96,24 +96,12 @@
     "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.0
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 25.84
       },
       {
         "rider": "Groves Kaden",
         "points": 24.97
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 24.63
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 23.42
       },
       {
         "rider": "De Lie Arnaud",
@@ -134,6 +122,18 @@
       {
         "rider": "Groenewegen Dylan",
         "points": 17.36
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.24
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 16.46
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 15.78
       }
     ]
   },
@@ -142,24 +142,12 @@
     "terrain": "hilly",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.15
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 26.41
       },
       {
         "rider": "Groves Kaden",
         "points": 25.41
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 24.9
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 23.65
       },
       {
         "rider": "De Lie Arnaud",
@@ -180,6 +168,18 @@
       {
         "rider": "Soler Marc",
         "points": 17.67
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 17.32
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 16.93
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.02
       }
     ]
   },
@@ -188,24 +188,12 @@
     "terrain": "mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.27
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 26.97
       },
       {
         "rider": "Groves Kaden",
         "points": 25.79
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.15
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 23.89
       },
       {
         "rider": "De Lie Arnaud",
@@ -226,6 +214,18 @@
       {
         "rider": "Soler Marc",
         "points": 18.06
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 17.37
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 17.23
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.25
       }
     ]
   },
@@ -234,24 +234,12 @@
     "terrain": "flat",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.36
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 27.45
       },
       {
         "rider": "Groves Kaden",
         "points": 26.17
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.36
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.13
       },
       {
         "rider": "De Lie Arnaud",
@@ -272,6 +260,18 @@
       {
         "rider": "Soler Marc",
         "points": 18.34
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 17.81
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 17.09
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.49
       }
     ]
   },
@@ -280,24 +280,12 @@
     "terrain": "high_mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.46
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 27.92
       },
       {
         "rider": "Groves Kaden",
         "points": 26.53
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.55
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.35
       },
       {
         "rider": "De Lie Arnaud",
@@ -318,6 +306,18 @@
       {
         "rider": "Soler Marc",
         "points": 18.57
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 18.24
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 16.95
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.73
       }
     ]
   },
@@ -326,24 +326,12 @@
     "terrain": "mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.56
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 28.39
       },
       {
         "rider": "Groves Kaden",
         "points": 26.88
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.69
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.53
       },
       {
         "rider": "Ganna Filippo",
@@ -364,6 +352,18 @@
       {
         "rider": "Soler Marc",
         "points": 18.74
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 18.62
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.96
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 16.82
       }
     ]
   },
@@ -372,24 +372,12 @@
     "terrain": "mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.65
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 28.87
       },
       {
         "rider": "Groves Kaden",
         "points": 27.17
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.8
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.66
       },
       {
         "rider": "Ganna Filippo",
@@ -410,6 +398,18 @@
       {
         "rider": "Vine Jay",
         "points": 18.93
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.92
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.09
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.01
       }
     ]
   },
@@ -418,24 +418,12 @@
     "terrain": "flat",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 24.14
-      },
-      {
         "rider": "Groves Kaden",
         "points": 20.96
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 20.81
-      },
-      {
         "rider": "Ganna Filippo",
         "points": 18.8
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 18.64
       },
       {
         "rider": "Ackermann Pascal",
@@ -456,6 +444,18 @@
       {
         "rider": "Soler Marc",
         "points": 15.72
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 15.34
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 14.98
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 14.83
       }
     ]
   },
@@ -464,24 +464,12 @@
     "terrain": "mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.8
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 29.82
       },
       {
         "rider": "Groves Kaden",
         "points": 27.62
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.81
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.91
       },
       {
         "rider": "Ganna Filippo",
@@ -502,6 +490,18 @@
       {
         "rider": "Vine Jay",
         "points": 19.49
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.46
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.32
       }
     ]
   },
@@ -510,24 +510,12 @@
     "terrain": "hilly",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.85
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 30.19
       },
       {
         "rider": "Groves Kaden",
         "points": 27.79
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.78
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.03
       },
       {
         "rider": "Ganna Filippo",
@@ -548,6 +536,18 @@
       {
         "rider": "Vine Jay",
         "points": 19.74
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.65
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.43
       }
     ]
   },
@@ -556,24 +556,12 @@
     "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.91
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 30.51
       },
       {
         "rider": "Groves Kaden",
         "points": 27.91
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.73
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.09
       },
       {
         "rider": "Ganna Filippo",
@@ -594,6 +582,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 19.83
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.12
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.82
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.52
       }
     ]
   },
@@ -602,24 +602,12 @@
     "terrain": "high_mountain",
     "top10": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 30.97
-      },
-      {
         "rider": "Milan Jonathan",
         "points": 30.77
       },
       {
         "rider": "Groves Kaden",
         "points": 28.01
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.64
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.11
       },
       {
         "rider": "Ganna Filippo",
@@ -640,6 +628,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 19.75
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.04
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.98
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.6
       }
     ]
   },
@@ -652,20 +652,8 @@
         "points": 31.03
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.02
-      },
-      {
         "rider": "Groves Kaden",
         "points": 28.1
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.54
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.14
       },
       {
         "rider": "Ganna Filippo",
@@ -686,6 +674,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 19.6
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.94
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 18.14
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.66
       }
     ]
   },
@@ -698,20 +698,8 @@
         "points": 31.21
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.08
-      },
-      {
         "rider": "Groves Kaden",
         "points": 28.18
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.45
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.05
       },
       {
         "rider": "Ganna Filippo",
@@ -732,6 +720,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 19.39
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.78
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 18.24
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.73
       }
     ]
   },
@@ -744,16 +744,8 @@
         "points": 31.3
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.14
-      },
-      {
         "rider": "Groves Kaden",
         "points": 28.26
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.36
       },
       {
         "rider": "Ganna Filippo",
@@ -762,10 +754,6 @@
       {
         "rider": "Vingegaard Jonas",
         "points": 24.94
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.91
       },
       {
         "rider": "Vine Jay",
@@ -778,6 +766,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 19.17
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.56
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 18.19
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
       }
     ]
   },
@@ -790,16 +790,8 @@
         "points": 31.23
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.18
-      },
-      {
         "rider": "Groves Kaden",
         "points": 28.32
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.28
       },
       {
         "rider": "Ganna Filippo",
@@ -808,10 +800,6 @@
       {
         "rider": "Vingegaard Jonas",
         "points": 25.1
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.73
       },
       {
         "rider": "Vine Jay",
@@ -824,6 +812,18 @@
       {
         "rider": "Ackermann Pascal",
         "points": 18.96
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.22
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 18.09
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.86
       }
     ]
   },
@@ -831,10 +831,6 @@
     "stage": 19,
     "terrain": "high_mountain",
     "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.24
-      },
       {
         "rider": "Milan Jonathan",
         "points": 31.04
@@ -852,14 +848,6 @@
         "points": 25.27
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 25.19
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.54
-      },
-      {
         "rider": "Vine Jay",
         "points": 19.88
       },
@@ -870,6 +858,18 @@
       {
         "rider": "De Lie Arnaud",
         "points": 18.66
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.97
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.88
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.83
       }
     ]
   },
@@ -877,10 +877,6 @@
     "stage": 20,
     "terrain": "high_mountain",
     "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.31
-      },
       {
         "rider": "Milan Jonathan",
         "points": 30.78
@@ -898,14 +894,6 @@
         "points": 25.37
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 25.11
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.32
-      },
-      {
         "rider": "Vine Jay",
         "points": 19.63
       },
@@ -916,6 +904,18 @@
       {
         "rider": "De Lie Arnaud",
         "points": 18.36
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.81
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.45
       }
     ]
   },
@@ -923,10 +923,6 @@
     "stage": 21,
     "terrain": "flat",
     "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.35
-      },
       {
         "rider": "Milan Jonathan",
         "points": 30.48
@@ -944,14 +940,6 @@
         "points": 25.44
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 25.02
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 24.07
-      },
-      {
         "rider": "Vine Jay",
         "points": 19.37
       },
@@ -962,6 +950,18 @@
       {
         "rider": "De Lie Arnaud",
         "points": 18.04
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.69
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.62
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.06
       }
     ]
   }

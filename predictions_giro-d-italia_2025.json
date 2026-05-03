@@ -1,1009 +1,967 @@
 [
   {
     "stage": 1,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 38.97
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.94
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.29
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 24.98
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.49
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.7
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 23.52
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.51
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 24.44
       },
       {
         "rider": "Groves Kaden",
-        "predicted_points": 22.11
+        "points": 23.71
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 21.99
+        "rider": "Pedersen Mads",
+        "points": 22.97
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.74
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 19.43
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 18.02
+      },
+      {
+        "rider": "Bennett Sam",
+        "points": 17.78
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 15.99
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 15.53
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 15.5
       }
     ]
   },
   {
     "stage": 2,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "flat",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 38.95
+        "rider": "van Aert Wout",
+        "points": 20.13
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.92
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.3
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 24.99
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.5
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.73
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 23.53
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.51
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 17.73
       },
       {
         "rider": "Groves Kaden",
-        "predicted_points": 22.13
+        "points": 17.68
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.04
+        "rider": "Pedersen Mads",
+        "points": 17.67
+      },
+      {
+        "rider": "Bennett Sam",
+        "points": 16.68
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 16.51
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 15.73
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 13.91
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 13.78
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 13.71
       }
     ]
   },
   {
     "stage": 3,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 38.96
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.9
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.31
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.0
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.51
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.76
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 23.53
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.52
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.07
       },
       {
         "rider": "Groves Kaden",
-        "predicted_points": 22.15
+        "points": 24.97
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.08
+        "rider": "Pedersen Mads",
+        "points": 23.42
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.23
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.41
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 18.98
+      },
+      {
+        "rider": "Bennett Sam",
+        "points": 18.16
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 16.59
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 16.46
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 16.19
       }
     ]
   },
   {
     "stage": 4,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "flat",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 38.97
+        "rider": "Groves Kaden",
+        "points": 25.41
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.9
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.39
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.33
+        "rider": "Pedersen Mads",
+        "points": 23.65
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.01
+        "rider": "van Aert Wout",
+        "points": 23.5
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.53
+        "rider": "Ayuso Juan",
+        "points": 20.83
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.79
+        "rider": "McNulty Brandon",
+        "points": 19.44
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.54
+        "points": 18.22
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.54
+        "rider": "del Toro Isaac",
+        "points": 17.09
       },
       {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.19
+        "rider": "Vine Jay",
+        "points": 16.93
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.15
+        "rider": "Kooij Olav",
+        "points": 16.27
       }
     ]
   },
   {
     "stage": 5,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.0
+        "rider": "Groves Kaden",
+        "points": 25.79
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.93
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.63
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.35
+        "rider": "Pedersen Mads",
+        "points": 23.89
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.05
+        "rider": "van Aert Wout",
+        "points": 23.67
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.55
+        "rider": "Ayuso Juan",
+        "points": 21.17
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.83
+        "rider": "McNulty Brandon",
+        "points": 19.9
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.56
+        "points": 18.21
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.56
+        "rider": "del Toro Isaac",
+        "points": 17.56
       },
       {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.23
+        "rider": "Vine Jay",
+        "points": 17.37
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.22
+        "rider": "Kooij Olav",
+        "points": 16.32
       }
     ]
   },
   {
     "stage": 6,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.02
+        "rider": "Groves Kaden",
+        "points": 26.17
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 26.96
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.84
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.37
+        "rider": "Pedersen Mads",
+        "points": 24.13
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.09
+        "rider": "van Aert Wout",
+        "points": 23.77
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.57
+        "rider": "Ayuso Juan",
+        "points": 21.43
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.89
+        "rider": "McNulty Brandon",
+        "points": 20.34
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.59
+        "points": 18.14
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.6
+        "rider": "del Toro Isaac",
+        "points": 18.0
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.3
+        "rider": "Vine Jay",
+        "points": 17.81
       },
       {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.26
+        "rider": "Yates Adam",
+        "points": 16.49
       }
     ]
   },
   {
     "stage": 7,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.05
+        "rider": "Groves Kaden",
+        "points": 26.53
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.01
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.0
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.41
+        "rider": "Pedersen Mads",
+        "points": 24.35
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.13
+        "rider": "van Aert Wout",
+        "points": 23.82
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.6
+        "rider": "Ayuso Juan",
+        "points": 21.69
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 23.95
+        "rider": "McNulty Brandon",
+        "points": 20.76
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 18.43
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 18.24
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.64
+        "points": 18.04
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.65
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.37
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.3
+        "rider": "Yates Adam",
+        "points": 16.73
       }
     ]
   },
   {
     "stage": 8,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.09
+        "rider": "Groves Kaden",
+        "points": 26.88
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.06
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.08
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.47
+        "rider": "Pedersen Mads",
+        "points": 24.53
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.19
+        "rider": "van Aert Wout",
+        "points": 23.78
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.64
+        "rider": "Ayuso Juan",
+        "points": 21.93
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.02
+        "rider": "McNulty Brandon",
+        "points": 21.18
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 18.86
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 18.62
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.7
+        "points": 17.95
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.71
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.45
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.36
+        "rider": "Yates Adam",
+        "points": 16.96
       }
     ]
   },
   {
     "stage": 9,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.16
+        "rider": "Groves Kaden",
+        "points": 27.17
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.12
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.14
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.55
+        "rider": "Pedersen Mads",
+        "points": 24.66
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.25
+        "rider": "van Aert Wout",
+        "points": 23.75
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.69
+        "rider": "Ayuso Juan",
+        "points": 22.15
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.11
+        "rider": "McNulty Brandon",
+        "points": 21.61
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 19.27
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 18.93
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.75
+        "points": 17.86
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.76
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.54
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.43
+        "rider": "Yates Adam",
+        "points": 17.09
       }
     ]
   },
   {
     "stage": 10,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "flat",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.24
+        "rider": "Groves Kaden",
+        "points": 20.96
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.18
+        "rider": "van Aert Wout",
+        "points": 19.84
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.63
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 19.29
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.32
+        "rider": "McNulty Brandon",
+        "points": 19.02
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.74
+        "rider": "Pedersen Mads",
+        "points": 18.64
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.21
+        "rider": "Ayuso Juan",
+        "points": 17.24
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 16.0
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.8
+        "points": 15.44
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.83
+        "rider": "Kelderman Wilco",
+        "points": 15.34
       },
       {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.63
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.51
+        "rider": "Yates Adam",
+        "points": 14.98
       }
     ]
   },
   {
     "stage": 11,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.33
+        "rider": "Groves Kaden",
+        "points": 27.62
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.25
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.23
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.71
+        "rider": "Pedersen Mads",
+        "points": 24.91
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.41
+        "rider": "van Aert Wout",
+        "points": 23.63
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.78
+        "rider": "McNulty Brandon",
+        "points": 22.27
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.3
+        "rider": "Ayuso Juan",
+        "points": 22.2
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 19.78
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 19.49
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.86
+        "points": 17.67
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 22.91
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.74
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.6
+        "rider": "Yates Adam",
+        "points": 17.32
       }
     ]
   },
   {
     "stage": 12,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.41
+        "rider": "Groves Kaden",
+        "points": 27.79
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.32
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.24
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.79
+        "rider": "Pedersen Mads",
+        "points": 25.03
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.49
+        "rider": "van Aert Wout",
+        "points": 23.51
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.83
+        "rider": "McNulty Brandon",
+        "points": 22.35
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.4
+        "rider": "Ayuso Juan",
+        "points": 22.07
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.01
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 19.74
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 23.94
+        "points": 17.59
       },
       {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.01
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.85
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.68
+        "rider": "Yates Adam",
+        "points": 17.43
       }
     ]
   },
   {
     "stage": 13,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.49
+        "rider": "Groves Kaden",
+        "points": 27.91
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.43
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.22
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.87
+        "rider": "Pedersen Mads",
+        "points": 25.09
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.58
+        "rider": "van Aert Wout",
+        "points": 23.38
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.87
+        "rider": "McNulty Brandon",
+        "points": 22.4
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.49
+        "rider": "Ayuso Juan",
+        "points": 21.91
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.23
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 19.92
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.52
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 24.03
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.11
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 22.96
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.77
+        "points": 17.48
       }
     ]
   },
   {
     "stage": 14,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.58
+        "rider": "Groves Kaden",
+        "points": 28.01
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.53
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.18
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 25.97
+        "rider": "Pedersen Mads",
+        "points": 25.11
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.67
+        "rider": "van Aert Wout",
+        "points": 23.25
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 24.93
+        "rider": "McNulty Brandon",
+        "points": 22.26
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.59
+        "rider": "Ayuso Juan",
+        "points": 21.77
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.44
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 20.05
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.6
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 24.13
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.22
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.07
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.85
+        "points": 17.35
       }
     ]
   },
   {
     "stage": 15,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.67
+        "rider": "Groves Kaden",
+        "points": 28.1
       },
       {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.65
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.14
       },
       {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.07
+        "rider": "Pedersen Mads",
+        "points": 25.14
       },
       {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.77
+        "rider": "van Aert Wout",
+        "points": 23.11
       },
       {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.0
+        "rider": "McNulty Brandon",
+        "points": 22.11
       },
       {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.69
+        "rider": "Ayuso Juan",
+        "points": 21.61
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.62
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 20.16
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.66
       },
       {
         "rider": "Bennett Sam",
-        "predicted_points": 24.23
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.33
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.19
-      },
-      {
-        "rider": "Groves Kaden",
-        "predicted_points": 22.94
+        "points": 17.19
       }
     ]
   },
   {
     "stage": 16,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "high_mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.77
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.76
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.18
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.87
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.08
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.79
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 24.34
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.45
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.32
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.03
+        "points": 28.18
+      },
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.11
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 25.05
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.95
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.96
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.45
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.76
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 20.19
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.73
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.16
       }
     ]
   },
   {
     "stage": 17,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.86
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 27.88
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.31
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 25.97
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.17
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 24.9
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 24.45
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.57
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.45
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.14
+        "points": 28.26
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.91
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.77
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.8
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.27
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.82
+      },
+      {
+        "rider": "Vine Jay",
+        "points": 20.17
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.26
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.13
       }
     ]
   },
   {
     "stage": 18,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 39.95
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 28.0
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.44
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 26.08
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.26
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 25.02
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 24.58
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.71
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.6
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.26
+        "points": 28.32
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.73
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.6
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.61
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.01
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.7
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.86
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.27
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.05
+      },
+      {
+        "rider": "Yates Simon",
+        "points": 16.69
       }
     ]
   },
   {
     "stage": 19,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "high_mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 40.05
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 28.12
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.57
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 26.21
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.36
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 25.15
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 24.72
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.84
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.76
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.39
+        "points": 28.37
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.54
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.43
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.29
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.56
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.88
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.28
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.94
+      },
+      {
+        "rider": "Yates Simon",
+        "points": 16.64
+      },
+      {
+        "rider": "Carapaz Richard",
+        "points": 16.58
       }
     ]
   },
   {
     "stage": 20,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "high_mountain",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 40.16
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 28.25
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.72
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 26.35
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.47
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 25.27
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 24.86
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 23.99
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 23.93
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.51
+        "points": 28.39
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.32
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.26
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 20.93
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.44
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.27
+      },
+      {
+        "rider": "Carapaz Richard",
+        "points": 16.98
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.8
+      },
+      {
+        "rider": "Yates Simon",
+        "points": 16.55
       }
     ]
   },
   {
     "stage": 21,
-    "stage_type": "flat",
-    "distance_km": 0.0,
-    "profile": {},
+    "terrain": "semi_hilly",
     "top10": [
       {
-        "rider": "Bais Davide",
-        "predicted_points": 40.27
-      },
-      {
-        "rider": "Tarling Joshua",
-        "predicted_points": 28.37
-      },
-      {
-        "rider": "Van Der Hoorn Taco",
-        "predicted_points": 26.87
-      },
-      {
-        "rider": "Pietrobon Andrea",
-        "predicted_points": 26.49
-      },
-      {
-        "rider": "Steinhauser Georg",
-        "predicted_points": 25.58
-      },
-      {
-        "rider": "Kooij Olav",
-        "predicted_points": 25.4
-      },
-      {
-        "rider": "Bennett Sam",
-        "predicted_points": 25.01
-      },
-      {
-        "rider": "Tadej Pogačar",
-        "predicted_points": 24.13
-      },
-      {
-        "rider": "Van Aert Wout",
-        "predicted_points": 24.09
-      },
-      {
         "rider": "Groves Kaden",
-        "predicted_points": 23.64
+        "points": 28.4
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.07
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.09
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 20.55
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.33
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.69
+      },
+      {
+        "rider": "Carapaz Richard",
+        "points": 17.34
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.21
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.66
+      },
+      {
+        "rider": "Yates Simon",
+        "points": 16.41
       }
     ]
   }

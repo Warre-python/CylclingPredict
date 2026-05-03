@@ -220,10 +220,11 @@ if __name__ == "__main__":
         model.load_state_dict(torch.load("best_model.pt", map_location=device))
         print(f"\n--- Predicting {slug} {yr} ---")
         sl, r = Startlist(slug, yr), Race(slug, yr)
-        riders, s_ids = sl.get_riders(), r.get_stage_ids()
+        s_ids = r.get_stage_ids()
         all_p = []
         for sid in s_ids:
-            print(f"S{sid}...", end=" ", flush=True)
+            riders = sl.get_riders(sid)
+            print(f"S{sid} ({len(riders)} riders)...", end=" ", flush=True)
             info = Stage(slug, int(yr), sid).get_profile()
             res = predict_stage(model, df, le_t, scaler, slug, sid, info, riders, device)
             all_p.append({"stage": sid, "terrain": info.get("terrain"), "top10": res[:10]})
