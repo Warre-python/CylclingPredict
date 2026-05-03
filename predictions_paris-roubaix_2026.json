@@ -1,7 +1,7 @@
 [
   {
     "stage": 0,
-    "terrain": "semi_hilly",
+    "terrain": "flat",
     "top10": [
       {
         "rider": "Philipsen Jasper",
@@ -24,24 +24,24 @@
         "points": 22.71
       },
       {
+        "rider": "van Aert Wout",
+        "points": 22.52
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 21.91
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 21.05
+      },
+      {
+        "rider": "Bauhaus Phil",
+        "points": 18.99
+      },
+      {
         "rider": "Ganna Filippo",
         "points": 18.88
-      },
-      {
-        "rider": "Wellens Tim",
-        "points": 18.86
-      },
-      {
-        "rider": "Girmay Biniam",
-        "points": 17.85
-      },
-      {
-        "rider": "Kristoff Alexander",
-        "points": 17.78
-      },
-      {
-        "rider": "Matthews Michael",
-        "points": 17.65
       }
     ]
   }

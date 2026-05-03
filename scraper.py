@@ -83,10 +83,10 @@ def parse_time_gap(raw: str | None) -> int | None:
 def classify_terrain(score: int | None) -> str:
     if score is None:
         return "unknown"
-    if score < 15:  return "flat"
-    if score < 35:  return "semi_hilly"
-    if score < 55:  return "hilly"
-    if score < 75:  return "mountain"
+    if score < 25:  return "flat"
+    if score < 75:  return "semi_hilly"
+    if score < 150: return "hilly"
+    if score < 250: return "mountain"
     return "high_mountain"
 
 
