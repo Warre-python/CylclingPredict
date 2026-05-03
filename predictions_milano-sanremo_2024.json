@@ -1,0 +1,48 @@
+[
+  {
+    "stage": 0,
+    "terrain": "mountain",
+    "top10": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 34.3
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 29.33
+      },
+      {
+        "rider": "Milan Jonathan",
+        "points": 24.01
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 23.82
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 22.71
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 18.88
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 18.86
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 17.85
+      },
+      {
+        "rider": "Kristoff Alexander",
+        "points": 17.78
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.65
+      }
+    ]
+  }
+]

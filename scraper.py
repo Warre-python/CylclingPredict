@@ -208,7 +208,10 @@ class Stage:
         self.race_slug = race_slug
         self.year = year
         self.stage_num = stage_num
-        self.url = f"{base_url}/race/{race_slug}/{year}/stage-{stage_num}"
+        if stage_num == 0 or str(stage_num).lower() == "main":
+            self.url = f"{base_url}/race/{race_slug}/{year}/result"
+        else:
+            self.url = f"{base_url}/race/{race_slug}/{year}/stage-{stage_num}"
         self.soup = fetch(self.url)
 
     def get_profile(self) -> dict:
@@ -235,9 +238,14 @@ class Stage:
                 vertical_meters = safe_int(info[k])
                 break
         if not vertical_meters:
-            m = re.search(r"([\d,]+)\s*m\s*(climbing|elevation|vert|hm\b)", page_text, re.I)
+            # Look for vertical meters in text
+            m = re.search(r"([\d,.]+)\s*(?:m|vertical\s*meters|elevation)", page_text, re.I)
             if m:
-                vertical_meters = safe_int(m.group(1))
+                val = m.group(1).replace(",", "")
+                if "." in val and float(val) < 10: # might be km
+                    vertical_meters = int(float(val) * 1000)
+                else:
+                    vertical_meters = int(float(val))
 
         # ── Profile score ─────────────────────────────────────────────────────
         profile_score = None
@@ -303,7 +311,7 @@ class Stage:
             return []
 
         results = []
-        for row in table.select("tbody tr")[:top_n]:
+        for row in table.select("tbody tr, tr:has(td)")[:top_n]:
             cols = row.select("td")
             if len(cols) < 3:
                 continue
@@ -339,6 +347,8 @@ class Stage:
                 "time_gap_seconds": parse_time_gap(time_gap_raw),
             })
 
+        # Remove header rows if they leaked in
+        results = [r for r in results if isinstance(r["position"], int) or r["position"] in ("DNF", "DNS", "OTL")]
         return results
 
     def to_dict(self) -> dict:
@@ -360,35 +370,42 @@ class Race:
     def __init__(self, race_slug: str, year: int):
         self.race_slug = race_slug
         self.year = year
+        # Try stages page first (for tours)
         self.soup = fetch(f"{base_url}/race/{race_slug}/{year}/stages")
+        self.is_classic = False
+        if not self.soup or not self.get_stage_ids():
+            # If no stages, it's likely a 1-day classic. Fetch results directly.
+            self.soup = fetch(f"{base_url}/race/{race_slug}/{year}/result")
+            self.is_classic = True
 
     def get_stage_ids(self) -> list:
-        if not self.soup:
-            return []
+        if not self.soup: return []
+        
         ids = set()
         for a in self.soup.select("a[href*='stage-']"):
             href = a["href"]
-            # Extract stage number from href
             m = re.search(r"stage-(\d+)", href)
-            if m:
-                ids.add(int(m.group(1)))
+            if m: ids.add(int(m.group(1)))
+        
+        if not ids and self.is_classic:
+            return [0]
+            
         return sorted(list(ids))
 
     def get_stage_count(self) -> int:
         return len(self.get_stage_ids())
 
     def scrape_all_stages(self) -> list:
-        # ... rest of the method ...
         ids = self.get_stage_ids()
-        print(f"  {self.race_slug} {self.year}: {len(ids)} stages")
+        print(f"  {self.race_slug} {self.year}: {len(ids)} events")
         stages = []
         for sid in ids:
-            print(f"    Stage {sid} ... ", end="", flush=True)
-            d = Stage(self.race_slug, self.year, sid).to_dict()
+            print(f"    {'Main Race' if sid == 0 else f'Stage {sid}'} ... ", end="", flush=True)
+            s = Stage(self.race_slug, self.year, sid)
+            d = s.to_dict()
             km = d.get("distance_km", "?")
             terrain = d.get("terrain", "?")
-            vert = d.get("vertical_meters")
-            print(f"{km} km | {terrain}" + (f" | {vert}m↑" if vert else ""))
+            print(f"{km} km | {terrain}")
             stages.append(d)
         return stages
 
