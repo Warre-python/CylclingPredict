@@ -1,946 +1,1807 @@
 [
   {
     "stage": 1,
-    "top10": [
+    "terrain": "flat",
+    "top20": [
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 26.75
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 24.78
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 24.28
+        "rider": "van Aert Wout",
+        "points": 20.15
       },
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 24.26
+        "points": 17.44
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 23.4
+        "rider": "Coquard Bryan",
+        "points": 14.74
       },
       {
-        "rider": "Cort Magnus",
-        "points": 22.11
+        "rider": "Almeida Jo\u00e3o",
+        "points": 14.34
       },
       {
-        "rider": "van Aert Wout",
-        "points": 21.11
+        "rider": "Soler Marc",
+        "points": 13.73
       },
       {
-        "rider": "Miquel Pau",
-        "points": 20.78
+        "rider": "Ballerini Davide",
+        "points": 12.93
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 11.9
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 11.28
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 11.23
       },
       {
         "rider": "Hayter Ethan",
-        "points": 19.83
+        "points": 10.86
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 19.76
+        "rider": "Cort Magnus",
+        "points": 10.66
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 10.65
+      },
+      {
+        "rider": "Poole Max",
+        "points": 10.32
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 10.06
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 9.66
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 9.62
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 9.51
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 9.16
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 9.11
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 9.01
       }
     ]
   },
   {
     "stage": 2,
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 3.49
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 3.45
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 3.45
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 3.33
+        "points": 24.76
       },
       {
         "rider": "van Aert Wout",
-        "points": 3.31
+        "points": 22.96
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 3.25
+        "rider": "Almeida Jo\u00e3o",
+        "points": 18.17
       },
       {
-        "rider": "Cort Magnus",
-        "points": 2.88
+        "rider": "Soler Marc",
+        "points": 16.77
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 2.76
+        "rider": "Coquard Bryan",
+        "points": 14.66
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 14.64
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.07
+      },
+      {
+        "rider": "Poole Max",
+        "points": 13.27
       },
       {
         "rider": "Miquel Pau",
-        "points": 2.65
+        "points": 12.09
       },
       {
-        "rider": "Magnier Paul",
-        "points": 2.64
+        "rider": "Kruijswijk Steven",
+        "points": 12.05
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 12.05
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 12.04
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 11.98
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.45
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 10.93
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 10.79
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 10.41
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 10.31
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 10.12
+      },
+      {
+        "rider": "Rubio Einer",
+        "points": 9.75
       }
     ]
   },
   {
     "stage": 3,
-    "top10": [
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 5.54
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 5.46
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 5.44
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 5.15
+        "points": 25.07
       },
       {
         "rider": "van Aert Wout",
-        "points": 5.06
+        "points": 23.23
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 5.02
+        "rider": "Almeida Jo\u00e3o",
+        "points": 18.67
       },
       {
-        "rider": "Cort Magnus",
-        "points": 4.54
+        "rider": "Soler Marc",
+        "points": 17.24
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 4.31
+        "rider": "Mas Enric",
+        "points": 15.01
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.72
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.42
+      },
+      {
+        "rider": "Poole Max",
+        "points": 13.72
       },
       {
         "rider": "Miquel Pau",
-        "points": 4.18
+        "points": 12.45
       },
       {
-        "rider": "Magnier Paul",
-        "points": 4.11
+        "rider": "Kruijswijk Steven",
+        "points": 12.37
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 12.32
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 12.28
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.24
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.57
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.04
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.02
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 10.68
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 10.57
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 10.29
+      },
+      {
+        "rider": "Rubio Einer",
+        "points": 9.97
       }
     ]
   },
   {
     "stage": 4,
-    "top10": [
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 4.25
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 4.24
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 4.1
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 3.84
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 3.79
+        "points": 25.39
       },
       {
         "rider": "van Aert Wout",
-        "points": 3.68
+        "points": 23.5
       },
       {
-        "rider": "Cort Magnus",
-        "points": 3.46
+        "rider": "Almeida Jo\u00e3o",
+        "points": 19.16
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 3.19
+        "rider": "Soler Marc",
+        "points": 17.67
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 15.39
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.77
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.72
+      },
+      {
+        "rider": "Poole Max",
+        "points": 14.16
       },
       {
         "rider": "Miquel Pau",
-        "points": 3.16
+        "points": 12.8
       },
       {
-        "rider": "Magnier Paul",
-        "points": 3.04
+        "rider": "Kruijswijk Steven",
+        "points": 12.65
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 12.56
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 12.49
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.45
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.67
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.27
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.11
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 10.95
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 10.82
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 10.46
+      },
+      {
+        "rider": "Rubio Einer",
+        "points": 10.14
       }
     ]
   },
   {
     "stage": 5,
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 10.94
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 10.83
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 10.82
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 10.41
+        "points": 25.63
       },
       {
         "rider": "van Aert Wout",
-        "points": 10.2
+        "points": 23.67
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 10.03
+        "rider": "Almeida Jo\u00e3o",
+        "points": 19.65
       },
       {
-        "rider": "Cort Magnus",
-        "points": 9.17
+        "rider": "Soler Marc",
+        "points": 18.06
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 8.73
+        "rider": "Mas Enric",
+        "points": 15.73
       },
       {
-        "rider": "Magnier Paul",
-        "points": 8.43
+        "rider": "Ballerini Davide",
+        "points": 15.1
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.69
+      },
+      {
+        "rider": "Poole Max",
+        "points": 14.55
       },
       {
         "rider": "Miquel Pau",
-        "points": 8.42
-      }
-    ]
-  },
-  {
-    "stage": 6,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 3.9
+        "points": 13.15
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 3.83
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 3.81
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 3.71
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 3.64
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 3.62
-      },
-      {
-        "rider": "Cort Magnus",
-        "points": 3.19
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 3.06
-      },
-      {
-        "rider": "Magnier Paul",
-        "points": 2.94
-      },
-      {
-        "rider": "Miquel Pau",
-        "points": 2.92
-      }
-    ]
-  },
-  {
-    "stage": 7,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 2.63
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 2.59
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 2.56
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 2.47
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 2.43
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 2.4
-      },
-      {
-        "rider": "Cort Magnus",
-        "points": 2.15
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 2.03
-      },
-      {
-        "rider": "Miquel Pau",
-        "points": 1.96
-      },
-      {
-        "rider": "Magnier Paul",
-        "points": 1.95
-      }
-    ]
-  },
-  {
-    "stage": 8,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 13.82
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 13.71
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 13.66
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 13.47
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 13.18
-      },
-      {
-        "rider": "Pedersen Mads",
+        "rider": "Kruijswijk Steven",
         "points": 12.88
       },
       {
-        "rider": "Cort Magnus",
-        "points": 11.68
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 11.28
-      },
-      {
-        "rider": "Magnier Paul",
-        "points": 10.96
-      },
-      {
-        "rider": "Miquel Pau",
-        "points": 10.74
-      }
-    ]
-  },
-  {
-    "stage": 9,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 0.76
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 0.73
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 0.73
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 0.73
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 0.72
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 0.71
+        "rider": "Hayter Ethan",
+        "points": 12.8
       },
       {
         "rider": "Cort Magnus",
-        "points": 0.62
+        "points": 12.7
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 0.59
+        "rider": "Oliveira Ivo",
+        "points": 12.64
       },
       {
-        "rider": "Magnier Paul",
-        "points": 0.57
+        "rider": "Vermeersch Gianni",
+        "points": 11.78
       },
       {
-        "rider": "Miquel Pau",
-        "points": 0.56
-      }
-    ]
-  },
-  {
-    "stage": 10,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 5.2
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.48
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 5.1
+        "rider": "Quintana Nairo",
+        "points": 11.23
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 5.09
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 5.09
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 5.0
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 4.93
-      },
-      {
-        "rider": "Cort Magnus",
-        "points": 4.28
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 4.12
-      },
-      {
-        "rider": "Magnier Paul",
-        "points": 4.04
-      },
-      {
-        "rider": "Miquel Pau",
-        "points": 3.92
-      }
-    ]
-  },
-  {
-    "stage": 11,
-    "top10": [
-      {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 13.24
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 13.18
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 13.11
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 13.03
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 12.63
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 12.47
-      },
-      {
-        "rider": "Cort Magnus",
+        "rider": "Skjelmose Mattias",
         "points": 11.21
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 10.73
+        "rider": "van den Berg Marijn",
+        "points": 11.04
       },
       {
-        "rider": "Magnier Paul",
-        "points": 10.54
+        "rider": "Novak Domen",
+        "points": 10.62
       },
       {
-        "rider": "Miquel Pau",
+        "rider": "Rubio Einer",
         "points": 10.32
       }
     ]
   },
   {
-    "stage": 12,
-    "top10": [
+    "stage": 6,
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 1.25
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 1.22
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 1.22
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 1.22
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 1.19
+        "points": 25.84
       },
       {
         "rider": "van Aert Wout",
-        "points": 1.18
+        "points": 23.77
       },
       {
-        "rider": "Cort Magnus",
-        "points": 1.03
+        "rider": "Almeida Jo\u00e3o",
+        "points": 20.14
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 0.98
+        "rider": "Soler Marc",
+        "points": 18.34
       },
       {
-        "rider": "Magnier Paul",
-        "points": 0.95
+        "rider": "Mas Enric",
+        "points": 16.06
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.37
+      },
+      {
+        "rider": "Poole Max",
+        "points": 14.88
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.54
       },
       {
         "rider": "Miquel Pau",
-        "points": 0.94
+        "points": 13.5
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.09
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.03
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 12.89
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.82
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.89
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.7
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 11.52
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.3
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.21
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 10.79
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 10.53
+      }
+    ]
+  },
+  {
+    "stage": 7,
+    "terrain": "mountain",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.0
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.82
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 20.64
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.57
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 16.4
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.59
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.13
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.38
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 13.86
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.28
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.27
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.09
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.0
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.99
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.89
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 11.81
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.38
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.37
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 10.95
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 10.74
+      }
+    ]
+  },
+  {
+    "stage": 8,
+    "terrain": "semi_hilly",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.08
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.78
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 21.12
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.74
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 16.74
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.78
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.31
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.22
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.17
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.51
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.48
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.29
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.17
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 12.08
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 12.07
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.07
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.54
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.43
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 11.01
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 10.93
+      }
+    ]
+  },
+  {
+    "stage": 9,
+    "terrain": "high_mountain",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.14
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.75
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 21.61
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.92
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.01
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.88
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.48
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.4
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 14.06
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.66
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.64
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.47
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.31
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 12.35
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.24
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 12.08
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.67
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.5
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.09
+      },
+      {
+        "rider": "Novak Domen",
+        "points": 11.01
+      }
+    ]
+  },
+  {
+    "stage": 10,
+    "terrain": "hilly",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.2
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.7
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 22.1
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.08
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.24
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.98
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.61
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.61
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.88
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.84
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.69
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.65
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.46
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 12.6
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.41
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 12.0
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.78
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.53
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.24
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 10.98
+      }
+    ]
+  },
+  {
+    "stage": 11,
+    "terrain": "semi_hilly",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.23
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.63
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 22.59
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.46
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.99
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.71
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.79
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.01
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.79
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.71
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.71
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.47
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 12.86
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.57
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.9
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.89
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.55
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.35
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.15
+      }
+    ]
+  },
+  {
+    "stage": 12,
+    "terrain": "high_mountain",
+    "top20": [
+      {
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 26.24
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.51
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 23.08
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.65
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.99
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.77
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.92
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.18
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.91
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.73
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.54
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.44
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.12
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.72
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.97
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.8
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.57
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.46
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.32
       }
     ]
   },
   {
     "stage": 13,
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 2.91
+        "points": 26.22
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 2.9
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 2.84
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 2.83
+        "rider": "Almeida Jo\u00e3o",
+        "points": 23.53
       },
       {
         "rider": "van Aert Wout",
-        "points": 2.81
+        "points": 23.38
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 2.81
+        "rider": "Soler Marc",
+        "points": 19.12
       },
       {
-        "rider": "Cort Magnus",
-        "points": 2.4
+        "rider": "Mas Enric",
+        "points": 17.82
       },
       {
-        "rider": "Magnier Paul",
-        "points": 2.28
+        "rider": "Ballerini Davide",
+        "points": 15.95
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 2.26
+        "rider": "Poole Max",
+        "points": 15.8
       },
       {
         "rider": "Miquel Pau",
-        "points": 2.17
+        "points": 14.95
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.3
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 13.98
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.72
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.37
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.34
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.34
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.79
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 12.04
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.67
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.57
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.54
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.49
       }
     ]
   },
   {
     "stage": 14,
-    "top10": [
+    "terrain": "high_mountain",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 1.73
+        "points": 26.18
       },
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 1.72
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 1.72
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 1.7
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 1.67
+        "rider": "Almeida Jo\u00e3o",
+        "points": 23.93
       },
       {
         "rider": "van Aert Wout",
-        "points": 1.63
+        "points": 23.25
       },
       {
-        "rider": "Cort Magnus",
-        "points": 1.45
+        "rider": "Soler Marc",
+        "points": 19.04
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 1.35
+        "rider": "Mas Enric",
+        "points": 17.98
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.87
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.76
       },
       {
         "rider": "Miquel Pau",
-        "points": 1.33
+        "points": 14.94
       },
       {
-        "rider": "Magnier Paul",
-        "points": 1.33
+        "rider": "Kruijswijk Steven",
+        "points": 14.37
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 14.04
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.74
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.56
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.21
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.21
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.77
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 12.08
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.64
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.56
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.55
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.55
       }
     ]
   },
   {
     "stage": 15,
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 4.53
-      },
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 4.44
+        "points": 26.14
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 4.42
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 4.37
+        "rider": "Almeida Jo\u00e3o",
+        "points": 24.22
       },
       {
         "rider": "van Aert Wout",
-        "points": 4.34
+        "points": 23.11
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 4.34
+        "rider": "Soler Marc",
+        "points": 18.94
       },
       {
-        "rider": "Cort Magnus",
-        "points": 3.75
+        "rider": "Mas Enric",
+        "points": 18.14
       },
       {
-        "rider": "Magnier Paul",
-        "points": 3.57
+        "rider": "Ballerini Davide",
+        "points": 15.76
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 3.49
+        "rider": "Poole Max",
+        "points": 15.71
       },
       {
         "rider": "Miquel Pau",
-        "points": 3.41
+        "points": 14.93
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.39
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 14.11
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.77
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.75
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 13.04
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 13.04
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.68
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 12.11
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.78
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.54
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.53
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.41
       }
     ]
   },
   {
     "stage": 16,
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 7.21
-      },
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 6.99
+        "points": 26.11
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 6.98
+        "rider": "Almeida Jo\u00e3o",
+        "points": 24.45
       },
       {
         "rider": "van Aert Wout",
-        "points": 6.92
+        "points": 22.95
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 6.89
+        "rider": "Soler Marc",
+        "points": 18.78
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 6.86
+        "rider": "Mas Enric",
+        "points": 18.24
       },
       {
-        "rider": "Cort Magnus",
-        "points": 5.98
+        "rider": "Poole Max",
+        "points": 15.65
       },
       {
-        "rider": "Magnier Paul",
-        "points": 5.74
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 5.54
+        "rider": "Ballerini Davide",
+        "points": 15.64
       },
       {
         "rider": "Miquel Pau",
-        "points": 5.42
+        "points": 14.86
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.37
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 14.18
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.89
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.77
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 12.88
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.84
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.57
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 12.13
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.9
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.53
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.47
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.26
       }
     ]
   },
   {
     "stage": 17,
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 17.15
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 16.71
-      },
+    "terrain": "flat",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 16.61
+        "points": 26.07
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 24.67
       },
       {
         "rider": "van Aert Wout",
-        "points": 16.57
+        "points": 22.77
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 16.35
+        "rider": "Soler Marc",
+        "points": 18.56
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 16.29
+        "rider": "Mas Enric",
+        "points": 18.19
       },
       {
-        "rider": "Cort Magnus",
-        "points": 14.53
+        "rider": "Ballerini Davide",
+        "points": 15.49
       },
       {
-        "rider": "Magnier Paul",
-        "points": 14.11
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 13.59
+        "rider": "Poole Max",
+        "points": 15.47
       },
       {
         "rider": "Miquel Pau",
-        "points": 13.22
+        "points": 14.78
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 14.29
+      },
+      {
+        "rider": "Cort Magnus",
+        "points": 14.22
+      },
+      {
+        "rider": "Quintana Nairo",
+        "points": 13.88
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.74
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 12.68
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.62
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.44
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 12.08
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 11.97
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.51
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.37
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 11.09
       }
     ]
   },
   {
     "stage": 18,
-    "top10": [
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 29.41
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 28.08
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.39
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 26.03
-      },
+    "terrain": "flat",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 24.69
+        "points": 20.36
+      },
+      {
+        "rider": "Almeida Jo\u00e3o",
+        "points": 20.13
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.98
+        "points": 18.66
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 15.08
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 14.83
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 13.99
+      },
+      {
+        "rider": "Kruijswijk Steven",
+        "points": 13.41
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 12.62
       },
       {
         "rider": "Cort Magnus",
-        "points": 23.64
+        "points": 12.45
       },
       {
         "rider": "Miquel Pau",
-        "points": 21.88
+        "points": 12.07
       },
       {
-        "rider": "Magnier Paul",
-        "points": 21.6
+        "rider": "Quintana Nairo",
+        "points": 12.05
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 21.3
+        "rider": "Coquard Bryan",
+        "points": 12.05
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 11.83
+      },
+      {
+        "rider": "Poole Max",
+        "points": 11.47
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.17
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 10.79
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 10.54
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 10.52
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 10.14
+      },
+      {
+        "rider": "Herrada Jes\u00fas",
+        "points": 10.0
       }
     ]
   },
   {
     "stage": 19,
-    "top10": [
+    "terrain": "high_mountain",
+    "top20": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 1.8
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.94
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 1.76
+        "rider": "Almeida Jo\u00e3o",
+        "points": 24.96
       },
       {
         "rider": "van Aert Wout",
-        "points": 1.73
+        "points": 22.43
       },
       {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 1.71
+        "rider": "Mas Enric",
+        "points": 17.97
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 1.69
+        "rider": "Soler Marc",
+        "points": 17.83
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 1.65
+        "rider": "Ballerini Davide",
+        "points": 15.1
+      },
+      {
+        "rider": "Poole Max",
+        "points": 15.03
+      },
+      {
+        "rider": "Miquel Pau",
+        "points": 14.5
       },
       {
         "rider": "Cort Magnus",
-        "points": 1.46
+        "points": 14.27
       },
       {
-        "rider": "Magnier Paul",
-        "points": 1.39
+        "rider": "Kruijswijk Steven",
+        "points": 14.12
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 1.33
+        "rider": "Quintana Nairo",
+        "points": 13.76
       },
       {
-        "rider": "Plapp Luke",
-        "points": 1.31
+        "rider": "Hayter Ethan",
+        "points": 13.69
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 12.23
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 12.12
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 12.07
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 12.04
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.83
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.3
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.15
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 10.69
       }
     ]
   },
   {
     "stage": 20,
-    "top10": [
+    "terrain": "high_mountain",
+    "top20": [
       {
-        "rider": "Poga\u010dar Tadej",
-        "points": 0.75
+        "rider": "Rogli\u010d Primo\u017e",
+        "points": 25.86
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 0.73
+        "rider": "Almeida Jo\u00e3o",
+        "points": 25.06
       },
       {
         "rider": "van Aert Wout",
-        "points": 0.72
+        "points": 22.26
       },
       {
-        "rider": "Rogli\u010d Primo\u017e",
-        "points": 0.7
+        "rider": "Mas Enric",
+        "points": 17.81
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 0.7
+        "rider": "Soler Marc",
+        "points": 17.45
       },
       {
-        "rider": "Herrada Jes\u00fas",
-        "points": 0.68
+        "rider": "Ballerini Davide",
+        "points": 14.87
+      },
+      {
+        "rider": "Poole Max",
+        "points": 14.76
       },
       {
         "rider": "Cort Magnus",
-        "points": 0.6
+        "points": 14.3
       },
       {
-        "rider": "Magnier Paul",
-        "points": 0.57
+        "rider": "Miquel Pau",
+        "points": 14.27
       },
       {
-        "rider": "Plapp Luke",
-        "points": 0.55
+        "rider": "Kruijswijk Steven",
+        "points": 14.04
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 0.55
+        "rider": "Quintana Nairo",
+        "points": 13.7
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.52
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 12.1
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 11.98
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.94
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 11.73
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.68
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 11.15
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 11.02
+      },
+      {
+        "rider": "Vermeersch Gianni",
+        "points": 10.46
       }
     ]
   },
   {
     "stage": 21,
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 15.01
-      },
-      {
-        "rider": "Herrada Jes\u00fas",
-        "points": 14.91
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 14.85
-      },
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Rogli\u010d Primo\u017e",
-        "points": 14.44
+        "points": 25.76
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 14.41
+        "rider": "Almeida Jo\u00e3o",
+        "points": 25.09
       },
       {
         "rider": "van Aert Wout",
-        "points": 14.04
+        "points": 22.09
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 17.62
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.06
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.64
+      },
+      {
+        "rider": "Poole Max",
+        "points": 14.45
       },
       {
         "rider": "Cort Magnus",
-        "points": 13.07
+        "points": 14.33
       },
       {
         "rider": "Miquel Pau",
-        "points": 12.12
+        "points": 14.03
       },
       {
-        "rider": "Magnier Paul",
-        "points": 12.0
+        "rider": "Kruijswijk Steven",
+        "points": 13.9
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 11.73
+        "rider": "Quintana Nairo",
+        "points": 13.64
+      },
+      {
+        "rider": "Hayter Ethan",
+        "points": 13.25
+      },
+      {
+        "rider": "Gall Felix",
+        "points": 12.06
+      },
+      {
+        "rider": "Champoussin Cl\u00e9ment",
+        "points": 11.76
+      },
+      {
+        "rider": "Coquard Bryan",
+        "points": 11.74
+      },
+      {
+        "rider": "van den Berg Marijn",
+        "points": 11.52
+      },
+      {
+        "rider": "Oliveira Ivo",
+        "points": 11.43
+      },
+      {
+        "rider": "Skjelmose Mattias",
+        "points": 10.99
+      },
+      {
+        "rider": "Tejada Harold",
+        "points": 10.9
+      },
+      {
+        "rider": "Riccitello Matthew",
+        "points": 10.25
       }
     ]
   }

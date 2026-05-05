@@ -2,7 +2,7 @@
   {
     "stage": 1,
     "terrain": "flat",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 24.63
@@ -42,13 +42,53 @@
       {
         "rider": "Yates Adam",
         "points": 15.28
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 14.74
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 14.29
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 14.29
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 14.03
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 13.84
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 13.83
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 13.8
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 13.74
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 13.73
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 13.68
       }
     ]
   },
   {
     "stage": 2,
     "terrain": "hilly",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 25.25
@@ -88,13 +128,53 @@
       {
         "rider": "Yates Adam",
         "points": 15.54
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.07
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 14.64
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 14.64
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 14.33
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 14.17
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 14.14
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.07
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.03
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 13.93
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 13.93
       }
     ]
   },
   {
     "stage": 3,
     "terrain": "semi_hilly",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 25.84
@@ -134,13 +214,53 @@
       {
         "rider": "Yates Adam",
         "points": 15.78
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.36
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 15.01
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 14.92
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 14.59
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 14.47
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 14.46
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.42
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.21
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.16
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 14.1
       }
     ]
   },
   {
     "stage": 4,
     "terrain": "hilly",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 26.41
@@ -180,13 +300,53 @@
       {
         "rider": "Yates Adam",
         "points": 16.02
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.57
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 15.39
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.15
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 14.86
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 14.78
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.77
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 14.76
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.39
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.38
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 14.22
       }
     ]
   },
   {
     "stage": 5,
     "terrain": "mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 26.97
@@ -226,13 +386,53 @@
       {
         "rider": "Yates Adam",
         "points": 16.25
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 15.73
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.69
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.3
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 15.14
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.1
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.05
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.0
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.61
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.54
+      },
+      {
+        "rider": "van Uden Casper",
+        "points": 14.31
       }
     ]
   },
   {
     "stage": 6,
     "terrain": "flat",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 27.45
@@ -272,13 +472,53 @@
       {
         "rider": "Yates Adam",
         "points": 16.49
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 16.06
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.79
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.43
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 15.43
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.37
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.35
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.2
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.79
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.69
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 14.52
       }
     ]
   },
   {
     "stage": 7,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 27.92
@@ -318,13 +558,53 @@
       {
         "rider": "Yates Adam",
         "points": 16.73
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 16.4
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.82
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 15.72
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.59
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.55
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.48
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.35
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.88
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 14.86
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 14.85
       }
     ]
   },
   {
     "stage": 8,
     "terrain": "mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 28.39
@@ -364,13 +644,53 @@
       {
         "rider": "Groenewegen Dylan",
         "points": 16.82
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 16.74
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.02
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.78
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.74
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.69
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.49
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.43
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 15.17
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.01
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.91
       }
     ]
   },
   {
     "stage": 9,
     "terrain": "mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 28.87
@@ -410,13 +730,53 @@
       {
         "rider": "Mas Enric",
         "points": 17.01
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 16.7
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.27
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.88
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.62
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.61
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.5
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 15.46
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.45
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.16
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 14.95
       }
     ]
   },
   {
     "stage": 10,
     "terrain": "flat",
-    "top10": [
+    "top20": [
       {
         "rider": "Groves Kaden",
         "points": 20.96
@@ -456,13 +816,53 @@
       {
         "rider": "Vingegaard Jonas",
         "points": 14.83
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 14.82
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 14.7
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.5
+      },
+      {
+        "rider": "Mas Enric",
+        "points": 14.4
+      },
+      {
+        "rider": "Bjerg Mikkel",
+        "points": 14.22
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 14.05
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 13.94
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 13.88
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 13.29
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 13.23
       }
     ]
   },
   {
     "stage": 11,
     "terrain": "mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 29.82
@@ -502,13 +902,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.32
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.58
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 16.36
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.05
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.99
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.49
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.46
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.39
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.33
+      },
+      {
+        "rider": "Lonardi Giovanni",
+        "points": 15.3
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.23
       }
     ]
   },
   {
     "stage": 12,
     "terrain": "hilly",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 30.19
@@ -548,13 +988,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.43
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.71
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.26
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 16.16
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.99
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.57
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.38
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.36
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.27
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 15.19
+      },
+      {
+        "rider": "Narv\u00e1ez Jhonatan",
+        "points": 15.17
       }
     ]
   },
   {
     "stage": 13,
-    "terrain": "semi_hilly",
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 30.51
@@ -594,13 +1074,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.52
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.84
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.45
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.95
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 15.94
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.7
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.43
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.25
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 15.19
+      },
+      {
+        "rider": "Moschetti Matteo",
+        "points": 15.13
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.11
       }
     ]
   },
   {
     "stage": 14,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 30.77
@@ -640,13 +1160,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.6
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.99
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.57
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.87
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.81
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 15.7
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.5
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.25
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.2
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 15.18
+      },
+      {
+        "rider": "Andresen Tobias Lund",
+        "points": 15.09
       }
     ]
   },
   {
     "stage": 15,
     "terrain": "flat",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 31.03
@@ -686,13 +1246,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.66
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.12
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.63
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.9
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.76
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.54
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 15.44
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.32
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.29
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 15.16
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 14.91
       }
     ]
   },
   {
     "stage": 16,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 31.21
@@ -732,13 +1332,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.73
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.15
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.59
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 15.97
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.64
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.59
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.4
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.26
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 15.17
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 15.11
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 14.97
       }
     ]
   },
   {
     "stage": 17,
     "terrain": "mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 31.3
@@ -778,13 +1418,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.8
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.13
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.44
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 16.05
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.64
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.49
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.48
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.16
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 15.02
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 14.96
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 14.9
       }
     ]
   },
   {
     "stage": 18,
     "terrain": "hilly",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 31.23
@@ -824,13 +1504,53 @@
       {
         "rider": "Yates Adam",
         "points": 17.86
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 17.05
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.27
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 16.12
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.69
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.54
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.3
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 15.05
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 15.04
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 14.73
+      },
+      {
+        "rider": "Groenewegen Dylan",
+        "points": 14.63
       }
     ]
   },
   {
     "stage": 19,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 31.04
@@ -870,13 +1590,53 @@
       {
         "rider": "Soler Marc",
         "points": 17.83
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.94
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 16.16
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 16.06
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.65
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.52
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 15.1
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 15.02
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 14.91
+      },
+      {
+        "rider": "Hindley Jai",
+        "points": 14.62
+      },
+      {
+        "rider": "Ulissi Diego",
+        "points": 14.48
       }
     ]
   },
   {
     "stage": 20,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 30.78
@@ -916,13 +1676,53 @@
       {
         "rider": "Soler Marc",
         "points": 17.45
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.8
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 16.14
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 15.76
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.62
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.46
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 14.98
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.87
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 14.79
+      },
+      {
+        "rider": "Hindley Jai",
+        "points": 14.7
+      },
+      {
+        "rider": "Ulissi Diego",
+        "points": 14.36
       }
     ]
   },
   {
     "stage": 21,
-    "terrain": "flat",
-    "top10": [
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Milan Jonathan",
         "points": 30.48
@@ -962,6 +1762,46 @@
       {
         "rider": "Soler Marc",
         "points": 17.06
+      },
+      {
+        "rider": "Kelderman Wilco",
+        "points": 16.66
+      },
+      {
+        "rider": "Caruso Damiano",
+        "points": 16.14
+      },
+      {
+        "rider": "Arensman Thymen",
+        "points": 15.58
+      },
+      {
+        "rider": "Vlasov Aleksandr",
+        "points": 15.44
+      },
+      {
+        "rider": "Gee-West Derek",
+        "points": 15.38
+      },
+      {
+        "rider": "Bernal Egan",
+        "points": 14.94
+      },
+      {
+        "rider": "Hindley Jai",
+        "points": 14.7
+      },
+      {
+        "rider": "Scaroni Christian",
+        "points": 14.66
+      },
+      {
+        "rider": "Ballerini Davide",
+        "points": 14.64
+      },
+      {
+        "rider": "Ulissi Diego",
+        "points": 14.24
       }
     ]
   }

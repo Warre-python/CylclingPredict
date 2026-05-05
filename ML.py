@@ -227,6 +227,6 @@ if __name__ == "__main__":
             print(f"S{sid} ({len(riders)} riders)...", end=" ", flush=True)
             info = Stage(slug, int(yr), sid).get_profile()
             res = predict_stage(model, df, le_t, scaler, slug, sid, info, riders, device)
-            all_p.append({"stage": sid, "terrain": info.get("terrain"), "top10": res[:10]})
+            all_p.append({"stage": sid, "terrain": info.get("terrain"), "top20": res[:20]})
             print(f"({info.get('terrain')}) Top: {res[0]['rider']} ({res[0]['points']}pts)")
         json.dump(all_p, open(f"predictions_{slug}_{yr}.json", "w"), indent=2)

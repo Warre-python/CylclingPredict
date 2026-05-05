@@ -1,19 +1,15 @@
 [
   {
     "stage": 0,
-    "terrain": "flat",
+    "terrain": "hilly",
     "top20": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 34.3
-      },
       {
         "rider": "Poga\u010dar Tadej",
         "points": 29.33
       },
       {
-        "rider": "Milan Jonathan",
-        "points": 24.01
+        "rider": "Evenepoel Remco",
+        "points": 23.82
       },
       {
         "rider": "Pedersen Mads",
@@ -24,28 +20,8 @@
         "points": 22.52
       },
       {
-        "rider": "Merlier Tim",
-        "points": 21.91
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 21.05
-      },
-      {
-        "rider": "Bauhaus Phil",
-        "points": 18.99
-      },
-      {
-        "rider": "Ganna Filippo",
-        "points": 18.88
-      },
-      {
         "rider": "Girmay Biniam",
         "points": 17.85
-      },
-      {
-        "rider": "Meeus Jordi",
-        "points": 16.07
       },
       {
         "rider": "van der Poel Mathieu",
@@ -56,20 +32,16 @@
         "points": 15.24
       },
       {
-        "rider": "Degenkolb John",
-        "points": 14.97
-      },
-      {
         "rider": "Politt Nils",
         "points": 14.92
       },
       {
-        "rider": "Teunissen Mike",
-        "points": 14.45
+        "rider": "Trentin Matteo",
+        "points": 14.48
       },
       {
-        "rider": "Bittner Pavel",
-        "points": 14.16
+        "rider": "Teunissen Mike",
+        "points": 14.45
       },
       {
         "rider": "Kanter Max",
@@ -82,6 +54,34 @@
       {
         "rider": "Ballerini Davide",
         "points": 13.4
+      },
+      {
+        "rider": "Bol Cees",
+        "points": 12.8
+      },
+      {
+        "rider": "Tratnik Jan",
+        "points": 12.41
+      },
+      {
+        "rider": "Magnier Paul",
+        "points": 12.27
+      },
+      {
+        "rider": "Walscheid Max",
+        "points": 12.1
+      },
+      {
+        "rider": "Stuyven Jasper",
+        "points": 11.96
+      },
+      {
+        "rider": "Aular Orluis",
+        "points": 11.93
+      },
+      {
+        "rider": "Segaert Alec",
+        "points": 11.84
       }
     ]
   }

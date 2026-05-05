@@ -1,967 +1,1807 @@
 [
   {
     "stage": 1,
-    "terrain": "semi_hilly",
-    "top10": [
+    "terrain": "flat",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 30.56
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 29.93
+        "points": 34.34
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 28.14
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 27.41
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 25.92
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 24.55
+        "points": 29.56
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 22.54
+        "points": 24.09
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 23.71
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 22.97
       },
       {
         "rider": "van Aert Wout",
-        "points": 21.41
+        "points": 22.74
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.4
+        "rider": "Merlier Tim",
+        "points": 21.99
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 19.96
+        "points": 21.37
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 19.43
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.37
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 19.28
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 19.23
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.02
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 18.02
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.68
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 17.11
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 16.36
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 16.3
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 15.99
+      },
+      {
+        "rider": "Alaphilippe Julian",
+        "points": 15.55
       }
     ]
   },
   {
     "stage": 2,
-    "terrain": "high_mountain",
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 30.83
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 30.2
+        "points": 34.37
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 28.38
+        "points": 29.79
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 27.73
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 26.16
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 24.87
+        "rider": "Groves Kaden",
+        "points": 24.41
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 22.95
+        "points": 24.36
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 23.2
       },
       {
         "rider": "van Aert Wout",
-        "points": 21.71
+        "points": 22.96
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.51
+        "rider": "Merlier Tim",
+        "points": 22.03
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 20.42
+        "points": 21.68
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 19.96
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 19.72
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 19.61
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.5
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 18.5
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.17
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 17.69
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.61
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 16.77
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 16.66
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 16.12
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 16.04
       }
     ]
   },
   {
     "stage": 3,
-    "terrain": "high_mountain",
-    "top10": [
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 31.08
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 30.47
+        "points": 34.41
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 28.61
+        "points": 30.0
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 28.04
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 26.38
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 25.16
+        "rider": "Groves Kaden",
+        "points": 24.97
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 23.35
+        "points": 24.63
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 23.42
       },
       {
         "rider": "van Aert Wout",
-        "points": 21.99
+        "points": 23.23
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.56
+        "rider": "Merlier Tim",
+        "points": 22.04
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 20.89
+        "points": 21.91
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.41
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 20.19
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 19.99
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.56
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 18.98
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.29
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 18.23
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.54
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.24
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 16.89
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 16.59
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 16.19
       }
     ]
   },
   {
     "stage": 4,
-    "terrain": "high_mountain",
-    "top10": [
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 31.33
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 30.73
+        "points": 34.46
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 28.84
+        "points": 30.15
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 28.32
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 26.62
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 25.43
+        "rider": "Groves Kaden",
+        "points": 25.41
       },
       {
         "rider": "Evenepoel Remco",
+        "points": 24.9
+      },
+      {
+        "rider": "Pedersen Mads",
         "points": 23.65
       },
       {
         "rider": "van Aert Wout",
-        "points": 22.25
-      },
-      {
-        "rider": "Hindley Jai",
-        "points": 21.62
+        "points": 23.5
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 21.25
+        "points": 22.04
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 22.01
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.83
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 20.67
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 20.36
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.64
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 19.44
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 18.74
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.41
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.67
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.47
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.09
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 17.09
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 16.27
       }
     ]
   },
   {
     "stage": 5,
-    "terrain": "hilly",
-    "top10": [
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 31.56
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 30.99
+        "points": 34.48
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 29.09
+        "points": 30.27
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 28.56
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 26.85
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 25.68
+        "rider": "Groves Kaden",
+        "points": 25.79
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 23.9
+        "points": 25.15
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 23.89
       },
       {
         "rider": "van Aert Wout",
-        "points": 22.57
-      },
-      {
-        "rider": "Hindley Jai",
-        "points": 21.67
+        "points": 23.67
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 21.62
+        "points": 22.18
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 21.88
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.17
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 21.15
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 20.73
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 19.9
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.72
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 19.26
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.47
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.06
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 17.56
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.4
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.28
+      },
+      {
+        "rider": "Kooij Olav",
+        "points": 16.32
       }
     ]
   },
   {
     "stage": 6,
     "terrain": "high_mountain",
-    "top10": [
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 31.78
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.17
+        "points": 34.49
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 29.37
+        "points": 30.36
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 28.82
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.06
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 25.91
+        "rider": "Groves Kaden",
+        "points": 26.17
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.12
+        "points": 25.36
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.13
       },
       {
         "rider": "van Aert Wout",
-        "points": 22.83
+        "points": 23.77
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 21.99
+        "points": 22.26
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.72
+        "rider": "Merlier Tim",
+        "points": 21.69
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 21.61
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.43
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.08
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 20.34
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.8
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 19.8
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.4
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.34
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 18.0
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.47
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.29
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.49
       }
     ]
   },
   {
     "stage": 7,
-    "terrain": "semi_hilly",
-    "top10": [
+    "terrain": "flat",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 31.93
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.33
+        "points": 34.48
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 29.66
+        "points": 30.46
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 29.09
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.25
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 26.11
+        "rider": "Groves Kaden",
+        "points": 26.53
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.31
+        "points": 25.55
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.35
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.05
+        "points": 23.82
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 22.35
+        "points": 22.23
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.78
+        "rider": "Ganna Filippo",
+        "points": 22.02
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.69
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 21.5
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.43
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 20.76
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 20.35
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.88
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.57
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 18.43
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.33
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.63
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.17
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.73
       }
     ]
   },
   {
     "stage": 8,
-    "terrain": "mountain",
-    "top10": [
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.04
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.48
+        "points": 34.46
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 29.92
+        "points": 30.56
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 29.35
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.44
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 26.32
+        "rider": "Groves Kaden",
+        "points": 26.88
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.49
+        "points": 25.69
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.53
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.24
+        "points": 23.78
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 22.48
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 22.68
+        "points": 22.04
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.76
+        "rider": "Ayuso Juan",
+        "points": 21.93
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.78
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 21.31
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.18
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 20.87
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.91
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 18.86
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.74
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.24
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.72
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 17.04
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 16.96
       }
     ]
   },
   {
     "stage": 9,
-    "terrain": "high_mountain",
-    "top10": [
+    "terrain": "hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.16
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.6
+        "points": 34.42
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 30.18
+        "points": 30.65
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 29.6
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.6
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 26.55
+        "rider": "Groves Kaden",
+        "points": 27.17
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.68
+        "points": 25.8
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.66
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.38
+        "points": 23.75
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 22.93
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 22.15
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 22.02
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 23.02
+        "points": 21.82
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.71
+        "rider": "McNulty Brandon",
+        "points": 21.61
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 21.38
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 21.12
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.94
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 19.27
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.92
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 18.1
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.81
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.09
+      },
+      {
+        "rider": "Matthews Michael",
+        "points": 16.88
       }
     ]
   },
   {
     "stage": 10,
-    "terrain": "high_mountain",
-    "top10": [
+    "terrain": "mountain",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.26
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.7
+        "points": 34.38
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 30.44
+        "points": 30.73
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 29.85
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.71
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 26.77
+        "rider": "Groves Kaden",
+        "points": 27.39
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.85
+        "points": 25.83
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.78
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.52
+        "points": 23.7
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 23.39
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 22.26
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 22.22
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 22.02
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 21.89
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 23.36
+        "points": 21.55
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.6
+        "rider": "Merlier Tim",
+        "points": 20.93
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.96
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 19.56
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.08
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.88
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 17.87
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.21
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 16.82
       }
     ]
   },
   {
     "stage": 11,
     "terrain": "flat",
-    "top10": [
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.35
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.75
+        "points": 34.31
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 30.69
+        "points": 30.8
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 30.07
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.79
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 26.98
+        "rider": "Groves Kaden",
+        "points": 27.62
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 24.97
+        "points": 25.81
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.91
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 23.82
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.66
-      },
-      {
-        "rider": "De Lie Arnaud",
         "points": 23.63
       },
       {
-        "rider": "Hindley Jai",
-        "points": 21.46
+        "rider": "Vingegaard Jonas",
+        "points": 22.4
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 22.27
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 22.26
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 22.2
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 21.2
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 20.75
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.95
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 19.78
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.84
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 17.63
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.32
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 16.9
       }
     ]
   },
   {
     "stage": 12,
-    "terrain": "hilly",
-    "top10": [
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.41
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.77
+        "points": 34.22
       },
       {
         "rider": "Poga\u010dar Tadej",
-        "points": 30.95
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 30.29
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.79
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.14
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.11
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 23.79
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 23.78
-      },
-      {
-        "rider": "Hindley Jai",
-        "points": 21.32
-      }
-    ]
-  },
-  {
-    "stage": 13,
-    "terrain": "mountain",
-    "top10": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 32.46
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.79
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.2
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 30.5
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.76
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.26
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.25
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 23.86
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 23.76
-      },
-      {
-        "rider": "Hindley Jai",
-        "points": 21.16
-      }
-    ]
-  },
-  {
-    "stage": 14,
-    "terrain": "high_mountain",
-    "top10": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 32.52
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.78
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.44
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 30.69
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.7
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.36
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.38
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 23.87
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 23.66
-      },
-      {
-        "rider": "Hindley Jai",
-        "points": 20.94
-      }
-    ]
-  },
-  {
-    "stage": 15,
-    "terrain": "high_mountain",
-    "top10": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 32.56
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.71
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 31.66
-      },
-      {
-        "rider": "Vingegaard Jonas",
         "points": 30.85
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 27.62
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.46
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.46
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 23.84
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 23.55
-      },
-      {
-        "rider": "Carapaz Richard",
-        "points": 20.68
-      }
-    ]
-  },
-  {
-    "stage": 16,
-    "terrain": "hilly",
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 20.75
-      },
-      {
-        "rider": "Philipsen Jasper",
-        "points": 19.44
-      },
-      {
         "rider": "Groves Kaden",
-        "points": 18.72
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 18.48
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 17.93
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 16.43
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 16.1
+        "points": 27.79
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 15.82
-      },
-      {
-        "rider": "Matthews Michael",
-        "points": 15.32
-      },
-      {
-        "rider": "Bittner Pavel",
-        "points": 15.31
-      }
-    ]
-  },
-  {
-    "stage": 17,
-    "terrain": "mountain",
-    "top10": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 32.57
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 32.09
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.47
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 31.07
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.59
+        "points": 25.78
       },
       {
         "rider": "Pedersen Mads",
-        "points": 27.42
+        "points": 25.03
       },
       {
-        "rider": "Evenepoel Remco",
-        "points": 25.59
-      },
-      {
-        "rider": "van Aert Wout",
-        "points": 23.66
-      },
-      {
-        "rider": "De Lie Arnaud",
-        "points": 23.1
-      },
-      {
-        "rider": "Carapaz Richard",
-        "points": 21.29
-      }
-    ]
-  },
-  {
-    "stage": 18,
-    "terrain": "high_mountain",
-    "top10": [
-      {
-        "rider": "Philipsen Jasper",
-        "points": 32.55
-      },
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 32.3
-      },
-      {
-        "rider": "Groves Kaden",
-        "points": 31.26
-      },
-      {
-        "rider": "Vingegaard Jonas",
-        "points": 31.12
-      },
-      {
-        "rider": "del Toro Isaac",
-        "points": 27.64
-      },
-      {
-        "rider": "Pedersen Mads",
-        "points": 27.3
-      },
-      {
-        "rider": "Evenepoel Remco",
-        "points": 25.63
+        "rider": "Ganna Filippo",
+        "points": 24.23
       },
       {
         "rider": "van Aert Wout",
         "points": 23.51
       },
       {
-        "rider": "De Lie Arnaud",
-        "points": 22.83
+        "rider": "Vingegaard Jonas",
+        "points": 22.92
       },
       {
-        "rider": "Carapaz Richard",
-        "points": 21.58
+        "rider": "McNulty Brandon",
+        "points": 22.35
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 22.21
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 22.07
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 20.83
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 20.48
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.01
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.89
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.13
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.83
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.43
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 17.4
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 16.99
+      }
+    ]
+  },
+  {
+    "stage": 13,
+    "terrain": "semi_hilly",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 34.13
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 30.91
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 27.91
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 25.73
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 25.09
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 24.47
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 23.45
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.38
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 22.4
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 22.13
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.91
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 20.47
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.23
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 20.19
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.83
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.12
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.78
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.52
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 17.15
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.07
+      }
+    ]
+  },
+  {
+    "stage": 14,
+    "terrain": "high_mountain",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 34.01
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 30.97
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 28.01
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 25.64
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 25.11
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 24.64
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 23.9
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.25
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 22.26
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.88
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.77
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.44
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 20.15
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 19.93
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.75
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 19.04
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.72
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.6
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.15
+      },
+      {
+        "rider": "Girmay Biniam",
+        "points": 16.89
+      }
+    ]
+  },
+  {
+    "stage": 15,
+    "terrain": "high_mountain",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 33.83
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.02
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 28.1
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 25.54
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 25.14
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 24.81
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 24.3
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 23.11
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 22.11
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.64
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.61
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.62
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 19.85
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 19.68
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.6
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.94
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.66
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.64
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.24
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.0
+      }
+    ]
+  },
+  {
+    "stage": 16,
+    "terrain": "semi_hilly",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 28.01
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 25.03
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 21.78
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 21.3
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 20.2
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 19.32
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 19.12
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 18.06
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 17.7
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 17.33
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 16.76
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 16.67
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 16.33
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 15.86
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 15.73
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 15.59
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 15.37
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 15.26
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 15.12
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 14.89
+      }
+    ]
+  },
+  {
+    "stage": 17,
+    "terrain": "semi_hilly",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 33.47
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.14
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 28.26
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 25.36
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 25.13
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 24.94
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.91
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.77
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.8
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.27
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 21.15
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.82
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 19.26
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 19.17
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 19.16
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.56
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.35
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.3
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.26
+      }
+    ]
+  },
+  {
+    "stage": 18,
+    "terrain": "mountain",
+    "top20": [
+      {
+        "rider": "Philipsen Jasper",
+        "points": 33.29
+      },
+      {
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.18
+      },
+      {
+        "rider": "Groves Kaden",
+        "points": 28.32
+      },
+      {
+        "rider": "Evenepoel Remco",
+        "points": 25.28
+      },
+      {
+        "rider": "Ganna Filippo",
+        "points": 25.25
+      },
+      {
+        "rider": "Vingegaard Jonas",
+        "points": 25.1
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.73
+      },
+      {
+        "rider": "van Aert Wout",
+        "points": 22.6
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.61
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 21.01
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 20.83
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.7
+      },
+      {
+        "rider": "De Lie Arnaud",
+        "points": 18.96
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 18.96
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 18.87
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 18.22
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.86
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.32
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.27
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 17.11
       }
     ]
   },
   {
     "stage": 19,
     "terrain": "high_mountain",
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 32.51
-      },
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.44
+        "points": 33.11
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 31.18
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.24
       },
       {
         "rider": "Groves Kaden",
-        "points": 31.01
+        "points": 28.37
       },
       {
-        "rider": "del Toro Isaac",
-        "points": 27.63
+        "rider": "Ganna Filippo",
+        "points": 25.35
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 27.16
+        "rider": "Vingegaard Jonas",
+        "points": 25.27
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 25.67
+        "points": 25.19
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.54
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.32
+        "points": 22.43
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 21.29
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.71
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.56
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 20.49
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 18.75
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 22.53
+        "points": 18.66
       },
       {
-        "rider": "Carapaz Richard",
-        "points": 21.85
+        "rider": "Merlier Tim",
+        "points": 18.53
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.88
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.83
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.28
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.28
+      },
+      {
+        "rider": "Meeus Jordi",
+        "points": 16.93
       }
     ]
   },
   {
     "stage": 20,
     "terrain": "high_mountain",
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 32.72
-      },
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.28
+        "points": 32.95
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 31.22
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.31
       },
       {
         "rider": "Groves Kaden",
-        "points": 30.74
+        "points": 28.39
       },
       {
-        "rider": "del Toro Isaac",
-        "points": 27.62
+        "rider": "Ganna Filippo",
+        "points": 25.46
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 27.0
+        "rider": "Vingegaard Jonas",
+        "points": 25.37
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 25.66
+        "points": 25.11
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.32
       },
       {
         "rider": "van Aert Wout",
-        "points": 23.12
+        "points": 22.26
+      },
+      {
+        "rider": "McNulty Brandon",
+        "points": 20.93
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.44
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.4
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 20.13
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 18.52
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 22.2
+        "points": 18.36
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 18.19
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.8
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.45
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.27
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.24
       },
       {
         "rider": "Carapaz Richard",
-        "points": 22.11
+        "points": 16.98
       }
     ]
   },
   {
     "stage": 21,
-    "terrain": "mountain",
-    "top10": [
-      {
-        "rider": "Poga\u010dar Tadej",
-        "points": 32.93
-      },
+    "terrain": "semi_hilly",
+    "top20": [
       {
         "rider": "Philipsen Jasper",
-        "points": 32.04
+        "points": 32.79
       },
       {
-        "rider": "Vingegaard Jonas",
-        "points": 31.21
+        "rider": "Poga\u010dar Tadej",
+        "points": 31.35
       },
       {
         "rider": "Groves Kaden",
-        "points": 30.44
+        "points": 28.4
       },
       {
-        "rider": "del Toro Isaac",
-        "points": 27.61
+        "rider": "Ganna Filippo",
+        "points": 25.55
       },
       {
-        "rider": "Pedersen Mads",
-        "points": 26.85
+        "rider": "Vingegaard Jonas",
+        "points": 25.44
       },
       {
         "rider": "Evenepoel Remco",
-        "points": 25.6
+        "points": 25.02
+      },
+      {
+        "rider": "Pedersen Mads",
+        "points": 24.07
       },
       {
         "rider": "van Aert Wout",
-        "points": 22.86
+        "points": 22.09
       },
       {
-        "rider": "Carapaz Richard",
-        "points": 22.32
+        "rider": "McNulty Brandon",
+        "points": 20.55
+      },
+      {
+        "rider": "del Toro Isaac",
+        "points": 20.33
+      },
+      {
+        "rider": "Ayuso Juan",
+        "points": 20.05
+      },
+      {
+        "rider": "Wellens Tim",
+        "points": 19.72
+      },
+      {
+        "rider": "Ackermann Pascal",
+        "points": 18.23
       },
       {
         "rider": "De Lie Arnaud",
-        "points": 21.86
+        "points": 18.04
+      },
+      {
+        "rider": "Merlier Tim",
+        "points": 17.86
+      },
+      {
+        "rider": "Yates Adam",
+        "points": 17.69
+      },
+      {
+        "rider": "Carapaz Richard",
+        "points": 17.34
+      },
+      {
+        "rider": "Pidcock Tom",
+        "points": 17.21
+      },
+      {
+        "rider": "K\u00fcng Stefan",
+        "points": 17.19
+      },
+      {
+        "rider": "Soler Marc",
+        "points": 17.06
       }
     ]
   }
